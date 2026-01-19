@@ -1,36 +1,144 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# QuizMaster Platform
+
+A full-stack real-time MCQ quiz platform built with Next.js 14, TypeScript, Supabase, and Prisma.
+
+## Features
+
+- 🔐 Secure authentication with Supabase Auth
+- 📊 Real-time leaderboards with live updates
+- ⏱️ Timed quiz sessions with auto-submission
+- 🎯 Instant answer feedback with animations
+- 📱 Responsive design with Tailwind CSS
+- 🔒 Row Level Security (RLS) for data protection
+
+## Tech Stack
+
+- **Frontend**: Next.js 14 (App Router), TypeScript, Tailwind CSS, ShadCN/UI, Framer Motion
+- **Backend**: Supabase (Auth, Database, Realtime), Prisma ORM
+- **Database**: PostgreSQL
+- **Deployment**: Vercel (recommended)
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+- Node.js 18+ 
+- npm or yarn
+- Supabase account
+- PostgreSQL database (via Supabase)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd quizmaster-platform
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Set up environment variables:
+   ```bash
+   cp .env.example .env.local
+   ```
+   
+   Fill in your Supabase credentials in `.env.local`:
+   - `NEXT_PUBLIC_SUPABASE_URL`
+   - `NEXT_PUBLIC_SUPABASE_ANON_KEY`
+   - `SUPABASE_SERVICE_ROLE_KEY`
+   - `DATABASE_URL`
+   - `DIRECT_URL`
+
+4. Set up the database:
+   ```bash
+   npm run db:push
+   npm run db:generate
+   npm run db:seed
+   ```
+
+5. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+6. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+## Project Structure
+
+```
+src/
+├── app/                    # Next.js App Router pages
+│   ├── auth/              # Authentication pages
+│   ├── dashboard/         # User dashboard
+│   ├── quiz/              # Quiz interface
+│   ├── leaderboard/       # Leaderboard page
+│   └── api/               # API routes
+├── components/            # React components
+│   ├── ui/                # ShadCN/UI components
+│   ├── auth/              # Authentication components
+│   ├── quiz/              # Quiz-related components
+│   └── leaderboard/       # Leaderboard components
+├── lib/                   # Utility functions
+│   ├── supabase/          # Supabase client configuration
+│   ├── prisma.ts          # Prisma client
+│   └── utils.ts           # General utilities
+└── middleware.ts          # Next.js middleware for auth
+
+docs/                      # Project documentation
+├── CLERK_SETUP.md         # Clerk authentication setup
+├── DATABASE_FIX_INSTRUCTIONS.md # Database troubleshooting
+├── MIGRATION_SUMMARY.md   # Migration documentation
+└── ...                    # Other documentation files
+
+sql/                       # Database scripts
+├── create_tables.sql      # Initial schema creation
+├── supabase_rls_policies.sql # RLS policies
+└── ...                    # Other SQL scripts
+
+scripts/                   # Utility scripts
+├── seed-main-questions.ts # Main questions seeding
+└── seed-unit-1-table.ts   # Unit-specific seeding
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Available Scripts
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm run start` - Start production server
+- `npm run lint` - Run ESLint
+- `npm run db:generate` - Generate Prisma client
+- `npm run db:push` - Push schema to database
+- `npm run db:migrate` - Run database migrations
+- `npm run db:studio` - Open Prisma Studio
+- `npm run db:seed` - Seed database with sample data
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Additional Scripts
 
-## Learn More
+- `npx tsx scripts/seed-unit-1-table.ts` - Seed unit-specific questions
 
-To learn more about Next.js, take a look at the following resources:
+## Documentation
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+All project documentation is organized in the `docs/` directory:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Setup Guides**: Clerk authentication, database configuration
+- **Migration Docs**: Authentication migration summaries
+- **Troubleshooting**: Database fixes, rate limiting solutions
 
-## Deploy on Vercel
+## Database Scripts
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+SQL scripts are organized in the `sql/` directory:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Schema**: Table creation and database setup
+- **Security**: Row Level Security policies
+- **Maintenance**: User cleanup and data migration scripts
+
+## Development Status
+
+This project is currently under development. Features are being implemented according to the specification in `.kiro/specs/quizmaster-platform/`.
+
+## License
+
+This project is private and proprietary.
