@@ -1,0 +1,552 @@
+[
+  {
+    "id": "1",
+    "question": "Management provides to employees.",
+    "options": {
+      "a": "Competition and stress",
+      "b": "Leadership and direction",
+      "c": "Confusion",
+      "d": "Isolation"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2",
+    "question": "The first IIM established in 1961 was at",
+    "options": {
+      "a": "Ahmedabad",
+      "b": "Bangalore",
+      "c": "Calcutta (Kolkata)",
+      "d": "Lucknow"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3",
+    "question": "Henry Fayol is known as the",
+    "options": {
+      "a": "Father of Scientific Management",
+      "b": "Father of Modern Management",
+      "c": "Father of Psychology",
+      "d": "Father of Quality Control"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4",
+    "question": "Blending East and West in Indian management typically means",
+    "options": {
+      "a": "Western ethics with Indian efficiency",
+      "b": "Western efficiency with Indian human values",
+      "c": "Rejecting Indian traditions",
+      "d": "Only Eastern methods"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5",
+    "question": "The first and most important function of management is",
+    "options": {
+      "a": "Planning",
+      "b": "Controlling",
+      "c": "Staffing",
+      "d": "Directing"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "6",
+    "question": "Morphological Analysis was developed by",
+    "options": {
+      "a": "Peter Drucker",
+      "b": "Fritz Zwicky",
+      "c": "Alex Osborn",
+      "d": "Tony Buzan"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "7",
+    "question": "In SCAMPER, 'E' stands for",
+    "options": {
+      "a": "Expand",
+      "b": "Estimate",
+      "c": "Eliminate",
+      "d": "Engage"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "8",
+    "question": "In a Gantt chart, the horizontal bars represent",
+    "options": {
+      "a": "Activities and their duration",
+      "b": "Employees and salaries",
+      "c": "Project cost",
+      "d": "Risks and constraints"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "9",
+    "question": "The SMART principle in goal setting means",
+    "options": {
+      "a": "Strong, Moral, Active, Real, Timely",
+      "b": "Specific, Measurable, Achievable, Relevant, Time-bound",
+      "c": "Simple, Motivated, Accurate, Reliable, Tough",
+      "d": "Sharp, Major, Available, Realistic, Targeted"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "10",
+    "question": "Budget monitoring during project execution helps in",
+    "options": {
+      "a": "Identifying cost overruns early",
+      "b": "Reducing teamwork",
+      "c": "Ignoring financial goals",
+      "d": "Increasing unnecessary costs"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "11",
+    "question": "After every sprint, Agile teams should",
+    "options": {
+      "a": "Ignore results",
+      "b": "Reflect, learn and improve",
+      "c": "Start a new project immediately",
+      "d": "Take a long break"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "12",
+    "question": "Work-life balance means",
+    "options": {
+      "a": "Giving priority only to work",
+      "b": "Managing professional and personal life effectively",
+      "c": "Ignoring family responsibilities",
+      "d": "Working without breaks"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "13",
+    "question": "Using tools like Gantt Charts or PERT is part of",
+    "options": {
+      "a": "Risk management",
+      "b": "Schedule (Time) management",
+      "c": "Procurement management",
+      "d": "Cost estimation"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "14",
+    "question": "The correct order of management levels from top to bottom is",
+    "options": {
+      "a": "Supervisory → Middle → Top",
+      "b": "Top → Supervisory → Middle",
+      "c": "Top → Middle → Supervisory",
+      "d": "Middle → Top → Supervisory"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "15",
+    "question": "Henry Fayol defined management as",
+    "options": {
+      "a": "To plan, control and evaluate",
+      "b": "To forecast, plan, organize, command, coordinate and control",
+      "c": "To inspire and motivate only",
+      "d": "To manage finances only"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "16",
+    "question": "Project management primarily helps organizations to",
+    "options": {
+      "a": "Increase paperwork",
+      "b": "Plan, organize and complete projects successfully",
+      "c": "Delay project deadlines",
+      "d": "Avoid teamwork"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "17",
+    "question": "Which practice helps in maintaining work-life balance?",
+    "options": {
+      "a": "Taking work everywhere",
+      "b": "Prioritizing rest, hobbies and family time",
+      "c": "Ignoring personal needs",
+      "d": "Working 24x7"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "18",
+    "question": "Coordination is called the essence of management because",
+    "options": {
+      "a": "It is a separate function",
+      "b": "It runs through all other functions",
+      "c": "It replaces all functions",
+      "d": "It is optional"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "19",
+    "question": "Effective feedback should be",
+    "options": {
+      "a": "Late and emotional",
+      "b": "Timely, specific and respectful",
+      "c": "Harsh and vague",
+      "d": "Ignored by the receiver"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "20",
+    "question": "One of the biggest advantages of Agile is",
+    "options": {
+      "a": "High documentation and strict plans",
+      "b": "Better flexibility and adaptability",
+      "c": "No customer involvement",
+      "d": "Working alone"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "21",
+    "question": "Which is a key need for NPD?",
+    "options": {
+      "a": "Stable customer preferences",
+      "b": "Lack of competition",
+      "c": "Technological advancements",
+      "d": "Unlimited resources"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "22",
+    "question": "Supervisors and foremen mainly perform which function?",
+    "options": {
+      "a": "Policy making",
+      "b": "Controlling and directing day-to-day operations",
+      "c": "Budget forecasting",
+      "d": "External relations"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "23",
+    "question": "Ethical issues in management involve",
+    "options": {
+      "a": "Dishonesty and corruption",
+      "b": "Maintaining honesty, transparency and social responsibility",
+      "c": "Avoiding accountability",
+      "d": "Ignoring customer needs"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "24",
+    "question": "Who is known as the Father of Scientific Management?",
+    "options": {
+      "a": "Henry Fayol",
+      "b": "Peter Drucker",
+      "c": "F.W. Taylor",
+      "d": "Elton Mayo"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "25",
+    "question": "Which statement is true about PERT and CPM?",
+    "options": {
+      "a": "PERT deals with uncertain time, CPM with fixed time",
+      "b": "CPM deals with uncertain time, PERT with fixed time",
+      "c": "Both are the same",
+      "d": "Both ignore costs"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "26",
+    "question": "One limitation of the Gantt chart is",
+    "options": {
+      "a": "It cannot show task dependency clearly",
+      "b": "It cannot display time duration",
+      "c": "It requires special software",
+      "d": "It is only used in small projects"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "27",
+    "question": "Accept Changes Anytime means",
+    "options": {
+      "a": "Only managers suggest changes",
+      "b": "Teams resist new ideas",
+      "c": "Teams can adjust to new requirements anytime",
+      "d": "Products should never be modified"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "28",
+    "question": "Example of decision-making",
+    "options": {
+      "a": "Choosing a career based on aptitude",
+      "b": "Copying others",
+      "c": "Avoiding decisions",
+      "d": "Acting without thinking"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "29",
+    "question": "In the 4Ps, People refers to",
+    "options": {
+      "a": "Only customers",
+      "b": "All individuals involved in the project",
+      "c": "Only management",
+      "d": "Suppliers only"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "30",
+    "question": "Mughal administrative emphasis on reports supported",
+    "options": {
+      "a": "Central taxation only",
+      "b": "Discipline, communication and control",
+      "c": "Court entertainment",
+      "d": "Religious conversions"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "31",
+    "question": "Which benefit is associated with sustainability?",
+    "options": {
+      "a": "Higher legal risk",
+      "b": "Lower employee satisfaction",
+      "c": "Long-term growth and risk reduction",
+      "d": "Less compliance with laws"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "32",
+    "question": "Which is NOT an advantage of CPM?",
+    "options": {
+      "a": "Helps in scheduling",
+      "b": "Identifies critical activities",
+      "c": "Ignores time estimation",
+      "d": "Assists in resource planning"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "33",
+    "question": "Which factor ensures project completion on time?",
+    "options": {
+      "a": "Time management",
+      "b": "Customer surveys",
+      "c": "Market research",
+      "d": "Advertising"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "34",
+    "question": "Self-discipline means",
+    "options": {
+      "a": "Controlling impulses to stay focused",
+      "b": "Acting without thinking",
+      "c": "Avoiding commitments",
+      "d": "Doing tasks randomly"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "35",
+    "question": "In Six Thinking Hats, Blue Hat handles",
+    "options": {
+      "a": "Feelings",
+      "b": "Benefits",
+      "c": "Process and control",
+      "d": "Data"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "36",
+    "question": "Critical path activities have",
+    "options": {
+      "a": "Some float",
+      "b": "No float",
+      "c": "Double duration",
+      "d": "Extra resources"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "37",
+    "question": "When both parties give up something",
+    "options": {
+      "a": "Collaboration",
+      "b": "Compromise",
+      "c": "Competition",
+      "d": "Avoidance"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "38",
+    "question": "Agile Product Management suits",
+    "options": {
+      "a": "Static markets",
+      "b": "Government accounting",
+      "c": "Dynamic industries",
+      "d": "Traditional goods"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "39",
+    "question": "Daily Agile meetings are called",
+    "options": {
+      "a": "Town halls",
+      "b": "Stand-ups",
+      "c": "Conferences",
+      "d": "Reviews"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "40",
+    "question": "A well-managed team leads to",
+    "options": {
+      "a": "Confusion",
+      "b": "Higher productivity",
+      "c": "More conflicts",
+      "d": "Individual dominance"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "41",
+    "question": "According to F.W. Taylor, management is",
+    "options": {
+      "a": "Science of delegation",
+      "b": "Art of ensuring work is done efficiently",
+      "c": "Control of subordinates",
+      "d": "Theory of leadership"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "42",
+    "question": "The first IIM was established at",
+    "options": {
+      "a": "Ahmedabad",
+      "b": "Bangalore",
+      "c": "Calcutta",
+      "d": "Lucknow"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "43",
+    "question": "Coordination is the essence of management because",
+    "options": {
+      "a": "It is separate",
+      "b": "It runs through all functions",
+      "c": "It replaces functions",
+      "d": "It is optional"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "44",
+    "question": "Sustainable material selection example",
+    "options": {
+      "a": "Toxic paints",
+      "b": "Virgin plastics",
+      "c": "Bamboo or recycled metals",
+      "d": "Lead solder"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "45",
+    "question": "Reducing problems early is part of",
+    "options": {
+      "a": "Risk management",
+      "b": "Cost management",
+      "c": "Scope management",
+      "d": "Procurement"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "46",
+    "question": "Management as an intangible force example",
+    "options": {
+      "a": "Manager attendance",
+      "b": "Rule book",
+      "c": "Improved efficiency",
+      "d": "Office buildings"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "47",
+    "question": "Win-win technique is",
+    "options": {
+      "a": "Collaboration",
+      "b": "Avoidance",
+      "c": "Accommodation",
+      "d": "Competition"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "48",
+    "question": "Ancient councils for group decision-making",
+    "options": {
+      "a": "Sabha & Samiti",
+      "b": "Lok Sabha & Rajya Sabha",
+      "c": "Guild & Commune",
+      "d": "Parishad & Sabha"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "49",
+    "question": "Major globalization challenge",
+    "options": {
+      "a": "Local markets only",
+      "b": "International competition & cross-cultural teams",
+      "c": "Ignoring foreign customers",
+      "d": "Avoiding partnerships"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "50",
+    "question": "SMART principle means",
+    "options": {
+      "a": "Strong, Moral, Active, Real, Timely",
+      "b": "Specific, Measurable, Achievable, Relevant, Time-bound",
+      "c": "Simple, Motivated, Accurate, Reliable, Tough",
+      "d": "Sharp, Major, Available, Realistic, Targeted"
+    },
+    "answer": "b"
+  }
+]

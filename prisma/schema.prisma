@@ -1,0 +1,68 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model User {
+  id           String        @id @default(cuid())
+  email        String        @unique
+  username     String?
+  role         Role          @default(STUDENT)
+  createdAt    DateTime      @default(now())
+  updatedAt    DateTime      @default(now()) @updatedAt
+  quizAttempts QuizAttempt[]
+
+  @@map("users")
+}
+
+model Question {
+  id         String     @id @default(cuid())
+  question   String
+  options    Json
+  answer     String
+  difficulty Difficulty @default(MEDIUM)
+  category   String
+  createdAt  DateTime   @default(now())
+
+  @@map("questions")
+}
+
+model UnitQuestion {
+  id         String     @id @default(cuid())
+  question   String
+  options    Json
+  answer     String
+  difficulty Difficulty @default(MEDIUM)
+  category   String
+  unit       String     // Unit identifier (e.g., "unit-1", "unit-2", etc.)
+  createdAt  DateTime   @default(now())
+
+  @@map("unit_questions")
+}
+
+model QuizAttempt {
+  id        String   @id @default(cuid())
+  userId    String
+  score     Int
+  accuracy  Float
+  timeTaken Int
+  answers   Json
+  createdAt DateTime @default(now())
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("quiz_attempts")
+}
+
+enum Role {
+  STUDENT
+  ADMIN
+}
+
+enum Difficulty {
+  EASY
+  MEDIUM
+  HARD
+}
