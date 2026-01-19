@@ -39,12 +39,11 @@ export class QuizEngine {
       }
 
       // Validate and convert questions to proper format
-      const validQuestions = allQuestions.filter(q => {
+      const validQuestions = allQuestions.filter((q: any) => {
         // Check if question has the expected structure
-        const qAny = q as any;
         return q && q.id && q.question && 
-               (qAny.options || qAny.optionA) && 
-               (qAny.answer || qAny.correctOption);
+               (q.options || q.optionA) && 
+               (q.answer || q.correctOption);
       });
 
       if (validQuestions.length < questionCount) {

@@ -210,7 +210,7 @@ export class ResultCalculator {
       // Group by user and take top 3 per user
       const userAttempts = new Map<string, any[]>();
       
-      allAttempts.forEach(attempt => {
+      allAttempts.forEach((attempt: any) => {
         const userId = attempt.userId;
         if (!userAttempts.has(userId)) {
           userAttempts.set(userId, []);
