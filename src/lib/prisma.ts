@@ -24,21 +24,72 @@ if (!connectionString) {
 
 console.log('Using connection string:', connectionString.replace(/:[^:@]*@/, ':****@'))
 
+// Enhanced connection pool configuration for better reliability
 const pool = new Pool({ 
   connectionString,
-  // Add connection options for better reliability
-  max: 20,
-  idleTimeoutMillis: 30000,
-  connectionTimeoutMillis: 5000,
+  // Connection pool settings
+  max: 10, // Reduced max connections to avoid limits
+  min: 2, // Minimum connections to keep alive
+  idleTimeoutMillis: 30000, // Close idle connections after 30s
+  connectionTimeoutMillis: 10000, // Increased timeout to 10s
+  // Additional reliability settings
+  keepAlive: true,
+  keepAliveInitialDelayMillis: 10000,
+  allowExitOnIdle: false,
+})
+
+// Handle pool errors
+pool.on('error', (err) => {
+  console.error('Unexpected error on idle client', err)
+})
+
+pool.on('connect', () => {
+  console.log('Database pool connected')
+})
+
+pool.on('remove', () => {
+  console.log('Client removed from pool')
 })
 
 const adapter = new PrismaPg(pool)
 
+// Enhanced Prisma client configuration
 export const prisma = globalThis.__prisma ?? new PrismaClient({
   adapter,
   log: process.env.NODE_ENV === 'development' ? ['error', 'warn'] : ['error'],
+  errorFormat: 'pretty',
 })
 
+// Add connection testing
+async function testConnection() {
+  try {
+    await prisma.$queryRaw`SELECT 1`
+    console.log('Database connection test successful')
+  } catch (error) {
+    console.error('Database connection test failed:', error)
+  }
+}
+
+// Test connection on startup
 if (process.env.NODE_ENV !== 'production') {
+  testConnection()
   globalThis.__prisma = prisma
 }
+
+// Graceful shutdown handling
+process.on('beforeExit', async () => {
+  await prisma.$disconnect()
+  await pool.end()
+})
+
+process.on('SIGINT', async () => {
+  await prisma.$disconnect()
+  await pool.end()
+  process.exit(0)
+})
+
+process.on('SIGTERM', async () => {
+  await prisma.$disconnect()
+  await pool.end()
+  process.exit(0)
+})

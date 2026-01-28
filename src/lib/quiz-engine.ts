@@ -16,22 +16,57 @@ export class QuizEngine {
     unit?: string
   ): Promise<QuizSession> {
     try {
-      // Fetch questions from appropriate table
+      console.log(`Initializing quiz session for user ${userId} with ${questionCount} questions${unit ? ` for unit ${unit}` : ''}`);
+      
+      // Fetch questions from appropriate table with retry logic
       let allQuestions;
       
-      if (unit) {
-        // Fetch questions from unit_questions table for specific unit
-        console.log(`Fetching questions for unit: ${unit}`)
-        allQuestions = await prisma.unitQuestion.findMany({
-          where: { unit: unit }
-        });
-        console.log(`Found ${allQuestions.length} questions for ${unit}`)
-      } else {
-        // Fetch questions from main questions table
-        console.log('Fetching questions from main table')
-        allQuestions = await prisma.question.findMany();
-        console.log(`Found ${allQuestions.length} main questions`)
-      }
+      const fetchQuestions = async () => {
+        if (unit) {
+          // Fetch questions from unit_questions table for specific unit
+          console.log(`Fetching questions for unit: ${unit}`)
+          const questions = await prisma.unitQuestion.findMany({
+            where: { unit: unit },
+            select: {
+              id: true,
+              question: true,
+              optionA: true,
+              optionB: true,
+              optionC: true,
+              optionD: true,
+              correctOption: true,
+              difficulty: true,
+              category: true,
+              createdAt: true,
+              unit: true
+            }
+          });
+          console.log(`Found ${questions.length} questions for ${unit}`)
+          return questions;
+        } else {
+          // Fetch questions from main questions table
+          console.log('Fetching questions from main table')
+          const questions = await prisma.question.findMany({
+            select: {
+              id: true,
+              question: true,
+              optionA: true,
+              optionB: true,
+              optionC: true,
+              optionD: true,
+              correctOption: true,
+              difficulty: true,
+              category: true,
+              createdAt: true
+            }
+          });
+          console.log(`Found ${questions.length} main questions`)
+          return questions;
+        }
+      };
+
+      // Use retry mechanism for database operations
+      allQuestions = await ErrorHandler.retryOperation(fetchQuestions, 3, 'database');
       
       if (allQuestions.length < questionCount) {
         const unitText = unit ? ` for ${unit}` : '';
@@ -42,8 +77,8 @@ export class QuizEngine {
       const validQuestions = allQuestions.filter((q: any) => {
         // Check if question has the expected structure
         return q && q.id && q.question && 
-               (q.options || q.optionA) && 
-               (q.answer || q.correctOption);
+               q.optionA && q.optionB && q.optionC && q.optionD && 
+               q.correctOption;
       });
 
       if (validQuestions.length < questionCount) {
@@ -59,24 +94,14 @@ export class QuizEngine {
       const questions: Question[] = selectedQuestions.map(q => {
         const qAny = q as any;
         
-        // Handle both schema formats (new JSON format and old separate fields)
-        let options: { a: string; b: string; c: string; d: string };
-        let answer: AnswerOption;
-
-        if (qAny.options && typeof qAny.options === 'object') {
-          // New JSON format
-          options = qAny.options as { a: string; b: string; c: string; d: string };
-          answer = qAny.answer as AnswerOption;
-        } else {
-          // Old separate fields format (current generated schema)
-          options = {
-            a: qAny.optionA || '',
-            b: qAny.optionB || '',
-            c: qAny.optionC || '',
-            d: qAny.optionD || ''
-          };
-          answer = qAny.correctOption as AnswerOption || 'a';
-        }
+        // Use the current schema format (separate fields)
+        const options = {
+          a: qAny.optionA || '',
+          b: qAny.optionB || '',
+          c: qAny.optionC || '',
+          d: qAny.optionD || ''
+        };
+        const answer = qAny.correctOption as AnswerOption || 'a';
 
         // Validate question structure
         if (!options.a || !options.b || !options.c || !options.d) {
@@ -109,11 +134,27 @@ export class QuizEngine {
         status: 'active'
       };
 
+      console.log(`Quiz session initialized successfully with ${questions.length} questions`);
       return session;
     } catch (error) {
+      console.error('Quiz initialization error:', error);
+      
+      // Enhanced error handling for database connection issues
+      if (error instanceof Error) {
+        if (error.message.includes('Connection terminated unexpectedly') || 
+            error.message.includes('connection') || 
+            error.message.includes('timeout')) {
+          throw new Error('Database connection failed. Please check your internet connection and try again.');
+        }
+        
+        if (error.message.includes('Insufficient questions')) {
+          throw error; // Re-throw as-is for insufficient questions
+        }
+      }
+      
       const appError = ErrorHandler.handleError(error, 'quiz');
       ErrorHandler.logError(appError, 'Quiz Initialization');
-      throw appError;
+      throw new Error(appError.message);
     }
   }
 

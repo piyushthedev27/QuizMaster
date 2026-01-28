@@ -177,6 +177,21 @@ export class ErrorHandler {
     const code = error?.code || ''
     const message = error?.message?.toLowerCase() || ''
     
+    // Handle connection termination errors specifically
+    if (message.includes('connection terminated unexpectedly') || 
+        message.includes('connection closed') ||
+        message.includes('connection refused') ||
+        message.includes('econnreset') ||
+        message.includes('enotfound')) {
+      return {
+        type: 'database',
+        message: 'Database connection failed. Please check your internet connection and try again.',
+        code: 'CONNECTION_TERMINATED',
+        retryable: true,
+        timestamp
+      }
+    }
+    
     if (code === 'P2002') {
       return {
         type: 'database',
@@ -197,11 +212,22 @@ export class ErrorHandler {
       }
     }
     
-    if (message.includes('connection') || message.includes('timeout')) {
+    if (message.includes('connection') || message.includes('timeout') || message.includes('timed out')) {
       return {
         type: 'database',
         message: this.ERROR_MESSAGES['connection_failed'],
         code: 'CONNECTION_FAILED',
+        retryable: true,
+        timestamp
+      }
+    }
+    
+    // Handle Prisma-specific errors
+    if (message.includes('prisma') || code.startsWith('P')) {
+      return {
+        type: 'database',
+        message: 'Database operation failed. Please try again.',
+        code: code || 'PRISMA_ERROR',
         retryable: true,
         timestamp
       }

@@ -159,10 +159,10 @@ export default function DashboardPage() {
           {/* Question Count Options */}
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-6 mb-6 sm:mb-8">
             {[
-              { count: 10, label: 'Quick Quiz', time: '~2 min', icon: Clock, color: 'bg-green-100', iconColor: 'text-green-600' },
-              { count: 30, label: 'Standard Quiz', time: '~5 min', icon: Target, color: 'bg-blue-100', iconColor: 'text-blue-600' },
-              { count: 50, label: 'Long Quiz', time: '~8 min', icon: TrendingUp, color: 'bg-purple-100', iconColor: 'text-purple-600' },
-              { count: 100, label: 'Marathon Quiz', time: '~17 min', icon: Trophy, color: 'bg-yellow-100', iconColor: 'text-yellow-600' }
+              { count: 10, label: 'Quick Quiz', time: '~2-5 min', icon: Clock, color: 'bg-green-100', iconColor: 'text-green-600' },
+              { count: 30, label: 'Standard Quiz', time: '~5-15 min', icon: Target, color: 'bg-blue-100', iconColor: 'text-blue-600' },
+              { count: 50, label: 'Long Quiz', time: '~8-25 min', icon: TrendingUp, color: 'bg-purple-100', iconColor: 'text-purple-600' },
+              { count: 100, label: 'Marathon Quiz', time: '~17-50 min', icon: Trophy, color: 'bg-yellow-100', iconColor: 'text-yellow-600' }
             ].map((option, index) => (
               <motion.div
                 key={option.count}
@@ -181,6 +181,7 @@ export default function DashboardPage() {
                       <div className="font-bold text-lg sm:text-2xl text-gray-900 mb-1">{option.count}</div>
                       <div className="text-xs sm:text-sm font-medium text-gray-700 mb-1">{option.label}</div>
                       <div className="text-xs text-gray-500">{option.time}</div>
+                      <div className="text-xs text-gray-400 mt-1">Choose your pace</div>
                     </Link>
                   </CardContent>
                 </Card>
@@ -222,7 +223,7 @@ export default function DashboardPage() {
                       <div className="font-bold text-lg sm:text-2xl text-gray-900 mb-1">Unit-1</div>
                       <div className="text-xs sm:text-sm font-medium text-gray-700 mb-1">Management Fundamentals</div>
                       <div className="text-xs text-gray-500 mb-2 sm:mb-3">30 questions from 50 available</div>
-                      <div className="text-xs text-indigo-600 font-medium">~5 min</div>
+                      <div className="text-xs text-indigo-600 font-medium">Choose your timing</div>
                     </Link>
                   </CardContent>
                 </Card>
