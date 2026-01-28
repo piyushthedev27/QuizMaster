@@ -30,11 +30,8 @@ export class QuizEngine {
             select: {
               id: true,
               question: true,
-              optionA: true,
-              optionB: true,
-              optionC: true,
-              optionD: true,
-              correctOption: true,
+              options: true,
+              answer: true,
               difficulty: true,
               category: true,
               createdAt: true,
@@ -50,11 +47,8 @@ export class QuizEngine {
             select: {
               id: true,
               question: true,
-              optionA: true,
-              optionB: true,
-              optionC: true,
-              optionD: true,
-              correctOption: true,
+              options: true,
+              answer: true,
               difficulty: true,
               category: true,
               createdAt: true
@@ -77,8 +71,7 @@ export class QuizEngine {
       const validQuestions = allQuestions.filter((q: any) => {
         // Check if question has the expected structure
         return q && q.id && q.question && 
-               q.optionA && q.optionB && q.optionC && q.optionD && 
-               q.correctOption;
+               q.options && q.answer;
       });
 
       if (validQuestions.length < questionCount) {
@@ -94,17 +87,12 @@ export class QuizEngine {
       const questions: Question[] = selectedQuestions.map(q => {
         const qAny = q as any;
         
-        // Use the current schema format (separate fields)
-        const options = {
-          a: qAny.optionA || '',
-          b: qAny.optionB || '',
-          c: qAny.optionC || '',
-          d: qAny.optionD || ''
-        };
-        const answer = qAny.correctOption as AnswerOption || 'a';
+        // Use the current schema format (JSON options field)
+        const options = qAny.options as { a: string; b: string; c: string; d: string };
+        const answer = qAny.answer as AnswerOption || 'a';
 
         // Validate question structure
-        if (!options.a || !options.b || !options.c || !options.d) {
+        if (!options || !options.a || !options.b || !options.c || !options.d) {
           throw new Error(`Invalid question format for question ID ${q.id}: missing options`);
         }
 

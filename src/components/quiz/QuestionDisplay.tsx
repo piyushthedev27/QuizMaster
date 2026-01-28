@@ -81,9 +81,6 @@ export function QuestionDisplay({
             <CardTitle className="text-lg font-semibold">
               Question {questionNumber} of {totalQuestions}
             </CardTitle>
-            <div className="text-sm text-gray-500">
-              {question.difficulty} • {question.category}
-            </div>
           </motion.div>
         </CardHeader>
         
