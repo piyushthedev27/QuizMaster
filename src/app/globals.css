@@ -123,3 +123,14 @@
     @apply bg-background text-foreground;
   }
 }
+
+/* Custom styles for quiz option text wrapping */
+@layer components {
+  .quiz-option-text {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    hyphens: auto;
+    line-height: 1.5;
+  }
+}

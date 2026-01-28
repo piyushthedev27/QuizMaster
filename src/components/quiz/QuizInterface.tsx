@@ -260,12 +260,12 @@ export function QuizInterface({ questionCount = 10, unit }: QuizInterfaceProps) 
   }
 
   return (
-    <div className="min-h-screen bg-gray-50 p-4">
+    <div className="min-h-screen bg-gray-50 p-2 sm:p-4">
       <div className="max-w-4xl mx-auto">
         {/* Header with Timer and Progress */}
-        <div className="mb-8">
+        <div className="mb-6 sm:mb-8">
           <div className="flex justify-between items-center mb-4">
-            <div className="text-lg font-semibold">
+            <div className="text-base sm:text-lg font-semibold">
               Question {session.currentQuestionIndex + 1} of {session.questions.length}
             </div>
             
@@ -301,7 +301,7 @@ export function QuizInterface({ questionCount = 10, unit }: QuizInterfaceProps) 
               </CardTitle>
             </CardHeader>
             
-            <CardContent className="space-y-3">
+            <CardContent className="space-y-3 p-4 sm:p-6">
               {(['a', 'b', 'c', 'd'] as AnswerOption[]).map((option) => (
                 <motion.div
                   key={option}
@@ -317,17 +317,17 @@ export function QuizInterface({ questionCount = 10, unit }: QuizInterfaceProps) 
                     }}
                     disabled={showFeedback || !timerActive}
                     className={cn(
-                      'w-full p-4 h-auto text-left justify-start transition-all duration-200',
-                      'border-2 rounded-lg',
+                      'w-full p-3 sm:p-4 h-auto text-left justify-start transition-all duration-200',
+                      'border-2 rounded-lg min-h-[60px] whitespace-normal',
                       getOptionStyle(option),
                       (showFeedback || !timerActive) && 'cursor-not-allowed'
                     )}
                   >
-                    <div className="flex items-start gap-3 w-full">
-                      <span className="flex-shrink-0 w-8 h-8 rounded-full border-2 border-current flex items-center justify-center font-bold text-sm">
+                    <div className="flex items-start gap-2 sm:gap-3 w-full min-w-0">
+                      <span className="flex-shrink-0 w-7 h-7 sm:w-8 sm:h-8 rounded-full border-2 border-current flex items-center justify-center font-bold text-xs sm:text-sm">
                         {option.toUpperCase()}
                       </span>
-                      <span className="flex-1 text-base">
+                      <span className="flex-1 text-sm sm:text-base break-words min-w-0 quiz-option-text">
                         {currentQuestion.options[option]}
                       </span>
                       

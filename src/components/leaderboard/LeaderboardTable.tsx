@@ -102,7 +102,7 @@ export function LeaderboardTable({ entries, currentUserId, loading }: Leaderboar
               <div
                 key={entry.id}
                 className={`
-                  flex items-center space-x-4 p-4 rounded-lg transition-all duration-200 hover:shadow-md
+                  flex items-center space-x-3 sm:space-x-4 p-3 sm:p-4 rounded-lg transition-all duration-200 hover:shadow-md
                   ${isCurrentUser 
                     ? 'bg-blue-50 border-2 border-blue-200 shadow-sm' 
                     : isTopThree 
@@ -120,7 +120,7 @@ export function LeaderboardTable({ entries, currentUserId, loading }: Leaderboar
                 <div className="flex-1 min-w-0">
                   <div className="flex items-center gap-2">
                     <p className={`text-sm font-medium truncate ${isCurrentUser ? 'text-blue-900' : 'text-gray-900'}`}>
-                      {isCurrentUser && <User className="h-4 w-4 inline mr-1" />}
+                      {isCurrentUser && <User className="h-3 w-3 sm:h-4 sm:w-4 inline mr-1" />}
                       {getDisplayName(entry.user)}
                     </p>
                     {isCurrentUser && (
@@ -129,7 +129,7 @@ export function LeaderboardTable({ entries, currentUserId, loading }: Leaderboar
                       </Badge>
                     )}
                   </div>
-                  <div className="flex items-center gap-4 mt-1">
+                  <div className="flex flex-col sm:flex-row sm:items-center gap-1 sm:gap-4 mt-1">
                     <div className="flex items-center gap-1 text-xs text-gray-500">
                       <Target className="h-3 w-3" />
                       {entry.accuracy.toFixed(1)}% accuracy
@@ -143,7 +143,7 @@ export function LeaderboardTable({ entries, currentUserId, loading }: Leaderboar
 
                 {/* Score and Rank Badge */}
                 <div className="flex-shrink-0 text-right">
-                  <div className="text-lg font-bold text-gray-900">
+                  <div className="text-base sm:text-lg font-bold text-gray-900">
                     {entry.score}
                   </div>
                   <Badge 

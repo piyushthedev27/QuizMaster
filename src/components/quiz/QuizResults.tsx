@@ -218,28 +218,28 @@ export function QuizResults({
         </div>
       )}
 
-      <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <div className="max-w-6xl mx-auto px-3 sm:px-6 lg:px-8 py-6 sm:py-8">
         {/* Header Section */}
         <motion.div
           initial={{ y: -50, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
           transition={{ duration: 0.8, type: "spring", stiffness: 100 }}
-          className="text-center mb-12"
+          className="text-center mb-8 sm:mb-12"
         >
           <motion.div
             initial={{ scale: 0 }}
             animate={{ scale: 1 }}
             transition={{ delay: 0.3, duration: 0.5, type: "spring", stiffness: 200 }}
-            className="inline-flex items-center justify-center w-20 h-20 bg-gradient-to-br from-indigo-500 to-purple-600 rounded-full mb-6 shadow-lg"
+            className="inline-flex items-center justify-center w-16 h-16 sm:w-20 sm:h-20 bg-gradient-to-br from-indigo-500 to-purple-600 rounded-full mb-4 sm:mb-6 shadow-lg"
           >
-            <CheckCircle className="w-10 h-10 text-white" />
+            <CheckCircle className="w-8 h-8 sm:w-10 sm:h-10 text-white" />
           </motion.div>
           
           <motion.h1 
             initial={{ y: 20, opacity: 0 }}
             animate={{ y: 0, opacity: 1 }}
             transition={{ delay: 0.5, duration: 0.6 }}
-            className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent mb-4"
+            className="text-3xl sm:text-4xl md:text-5xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent mb-3 sm:mb-4"
           >
             Quiz Complete!
           </motion.h1>
@@ -248,7 +248,7 @@ export function QuizResults({
             initial={{ y: 20, opacity: 0 }}
             animate={{ y: 0, opacity: 1 }}
             transition={{ delay: 0.7, duration: 0.6 }}
-            className="text-xl text-gray-600 max-w-2xl mx-auto"
+            className="text-base sm:text-xl text-gray-600 max-w-2xl mx-auto px-4"
           >
             Congratulations on completing the quiz! Here's your detailed performance breakdown.
           </motion.p>
@@ -260,25 +260,25 @@ export function QuizResults({
             initial={{ scale: 0.8, opacity: 0 }}
             animate={{ scale: 1, opacity: 1 }}
             transition={{ delay: 0.9, duration: 0.6, type: "spring", stiffness: 150 }}
-            className="mb-12"
+            className="mb-8 sm:mb-12"
           >
             <Card className={`${performance.bgColor} ${performance.borderColor} border-2 shadow-xl`}>
-              <CardContent className="text-center py-8">
+              <CardContent className="text-center py-6 sm:py-8 px-4 sm:px-6">
                 <motion.div
                   initial={{ scale: 0 }}
                   animate={{ scale: 1 }}
                   transition={{ delay: 1.2, duration: 0.5, type: "spring", stiffness: 300 }}
                   className="flex items-center justify-center mb-4"
                 >
-                  <div className={`w-16 h-16 bg-gradient-to-r ${performance.color} rounded-full flex items-center justify-center shadow-lg`}>
-                    <performance.icon className="w-8 h-8 text-white" />
+                  <div className={`w-12 h-12 sm:w-16 sm:h-16 bg-gradient-to-r ${performance.color} rounded-full flex items-center justify-center shadow-lg`}>
+                    <performance.icon className="w-6 w-6 sm:w-8 sm:h-8 text-white" />
                   </div>
                 </motion.div>
                 <motion.h2
                   initial={{ y: 20, opacity: 0 }}
                   animate={{ y: 0, opacity: 1 }}
                   transition={{ delay: 1.4, duration: 0.5 }}
-                  className={`text-3xl font-bold ${performance.textColor} mb-2`}
+                  className={`text-2xl sm:text-3xl font-bold ${performance.textColor} mb-2`}
                 >
                   {performance.level}
                 </motion.h2>
@@ -286,7 +286,7 @@ export function QuizResults({
                   initial={{ y: 20, opacity: 0 }}
                   animate={{ y: 0, opacity: 1 }}
                   transition={{ delay: 1.6, duration: 0.5 }}
-                  className="text-gray-600"
+                  className="text-sm sm:text-base text-gray-600"
                 >
                   You scored {results.accuracy}% accuracy with {results.correctAnswers} correct answers
                 </motion.p>
@@ -296,7 +296,7 @@ export function QuizResults({
         )}
 
         {/* Main Stats Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
+        <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6 mb-8 sm:mb-12">
           {/* Score Card */}
           <motion.div
             initial={{ y: 50, opacity: 0 }}
@@ -304,15 +304,15 @@ export function QuizResults({
             transition={{ delay: 1.8, duration: 0.6 }}
           >
             <Card className="h-full bg-white/80 backdrop-blur-sm shadow-xl border-0 hover:shadow-2xl transition-all duration-300">
-              <CardHeader className="pb-3">
-                <CardTitle className="text-lg font-semibold text-gray-700 flex items-center">
-                  <div className="w-10 h-10 bg-gradient-to-r from-blue-500 to-blue-600 rounded-lg flex items-center justify-center mr-3">
-                    <Target className="w-5 h-5 text-white" />
+              <CardHeader className="pb-2 sm:pb-3">
+                <CardTitle className="text-sm sm:text-lg font-semibold text-gray-700 flex items-center">
+                  <div className="w-8 h-8 sm:w-10 sm:h-10 bg-gradient-to-r from-blue-500 to-blue-600 rounded-lg flex items-center justify-center mr-2 sm:mr-3">
+                    <Target className="w-4 h-4 sm:w-5 sm:h-5 text-white" />
                   </div>
-                  Score
+                  <span className="hidden sm:inline">Score</span>
                 </CardTitle>
               </CardHeader>
-              <CardContent>
+              <CardContent className="pt-0">
                 <AnimatePresence>
                   {currentMetric >= 0 && (
                     <motion.div
@@ -320,12 +320,13 @@ export function QuizResults({
                       animate={{ scale: 1, opacity: 1 }}
                       transition={{ duration: 0.6, type: "spring", stiffness: 200 }}
                     >
-                      <div className="text-4xl font-bold text-blue-600 mb-2">
-                        {results.correctAnswers}<span className="text-2xl text-gray-400">/{results.totalQuestions}</span>
+                      <div className="text-2xl sm:text-4xl font-bold text-blue-600 mb-1 sm:mb-2">
+                        {results.correctAnswers}<span className="text-lg sm:text-2xl text-gray-400">/{results.totalQuestions}</span>
                       </div>
-                      <div className="text-sm text-gray-600 flex items-center">
-                        <CheckCircle className="w-4 h-4 text-green-500 mr-1" />
-                        {results.correctAnswers} correct answers
+                      <div className="text-xs sm:text-sm text-gray-600 flex items-center">
+                        <CheckCircle className="w-3 h-3 sm:w-4 sm:h-4 text-green-500 mr-1" />
+                        <span className="hidden sm:inline">{results.correctAnswers} correct answers</span>
+                        <span className="sm:hidden">Correct</span>
                       </div>
                     </motion.div>
                   )}
@@ -341,15 +342,15 @@ export function QuizResults({
             transition={{ delay: 2.0, duration: 0.6 }}
           >
             <Card className="h-full bg-white/80 backdrop-blur-sm shadow-xl border-0 hover:shadow-2xl transition-all duration-300">
-              <CardHeader className="pb-3">
-                <CardTitle className="text-lg font-semibold text-gray-700 flex items-center">
-                  <div className="w-10 h-10 bg-gradient-to-r from-green-500 to-green-600 rounded-lg flex items-center justify-center mr-3">
-                    <TrendingUp className="w-5 h-5 text-white" />
+              <CardHeader className="pb-2 sm:pb-3">
+                <CardTitle className="text-sm sm:text-lg font-semibold text-gray-700 flex items-center">
+                  <div className="w-8 h-8 sm:w-10 sm:h-10 bg-gradient-to-r from-green-500 to-green-600 rounded-lg flex items-center justify-center mr-2 sm:mr-3">
+                    <TrendingUp className="w-4 h-4 sm:w-5 sm:h-5 text-white" />
                   </div>
-                  Accuracy
+                  <span className="hidden sm:inline">Accuracy</span>
                 </CardTitle>
               </CardHeader>
-              <CardContent>
+              <CardContent className="pt-0">
                 <AnimatePresence>
                   {currentMetric >= 1 && (
                     <motion.div
@@ -357,12 +358,13 @@ export function QuizResults({
                       animate={{ scale: 1, opacity: 1 }}
                       transition={{ duration: 0.6, type: "spring", stiffness: 200 }}
                     >
-                      <div className="text-4xl font-bold text-green-600 mb-2">
+                      <div className="text-2xl sm:text-4xl font-bold text-green-600 mb-1 sm:mb-2">
                         {results.accuracy}%
                       </div>
-                      <div className="text-sm text-gray-600 flex items-center">
-                        <XCircle className="w-4 h-4 text-red-500 mr-1" />
-                        {results.incorrectAnswers} incorrect answers
+                      <div className="text-xs sm:text-sm text-gray-600 flex items-center">
+                        <XCircle className="w-3 h-3 sm:w-4 sm:h-4 text-red-500 mr-1" />
+                        <span className="hidden sm:inline">{results.incorrectAnswers} incorrect answers</span>
+                        <span className="sm:hidden">Wrong: {results.incorrectAnswers}</span>
                       </div>
                     </motion.div>
                   )}
@@ -378,15 +380,15 @@ export function QuizResults({
             transition={{ delay: 2.2, duration: 0.6 }}
           >
             <Card className="h-full bg-white/80 backdrop-blur-sm shadow-xl border-0 hover:shadow-2xl transition-all duration-300">
-              <CardHeader className="pb-3">
-                <CardTitle className="text-lg font-semibold text-gray-700 flex items-center">
-                  <div className="w-10 h-10 bg-gradient-to-r from-purple-500 to-purple-600 rounded-lg flex items-center justify-center mr-3">
-                    <Clock className="w-5 h-5 text-white" />
+              <CardHeader className="pb-2 sm:pb-3">
+                <CardTitle className="text-sm sm:text-lg font-semibold text-gray-700 flex items-center">
+                  <div className="w-8 h-8 sm:w-10 sm:h-10 bg-gradient-to-r from-purple-500 to-purple-600 rounded-lg flex items-center justify-center mr-2 sm:mr-3">
+                    <Clock className="w-4 h-4 sm:w-5 sm:h-5 text-white" />
                   </div>
-                  Time Taken
+                  <span className="hidden sm:inline">Time Taken</span>
                 </CardTitle>
               </CardHeader>
-              <CardContent>
+              <CardContent className="pt-0">
                 <AnimatePresence>
                   {currentMetric >= 2 && (
                     <motion.div
@@ -394,11 +396,12 @@ export function QuizResults({
                       animate={{ scale: 1, opacity: 1 }}
                       transition={{ duration: 0.6, type: "spring", stiffness: 200 }}
                     >
-                      <div className="text-4xl font-bold text-purple-600 mb-2">
+                      <div className="text-2xl sm:text-4xl font-bold text-purple-600 mb-1 sm:mb-2">
                         {formatTime(results.timeTaken)}
                       </div>
-                      <div className="text-sm text-gray-600">
-                        Total quiz duration
+                      <div className="text-xs sm:text-sm text-gray-600">
+                        <span className="hidden sm:inline">Total quiz duration</span>
+                        <span className="sm:hidden">Duration</span>
                       </div>
                     </motion.div>
                   )}
@@ -415,15 +418,15 @@ export function QuizResults({
               transition={{ delay: 2.4, duration: 0.6 }}
             >
               <Card className="h-full bg-white/80 backdrop-blur-sm shadow-xl border-0 hover:shadow-2xl transition-all duration-300">
-                <CardHeader className="pb-3">
-                  <CardTitle className="text-lg font-semibold text-gray-700 flex items-center">
-                    <div className="w-10 h-10 bg-gradient-to-r from-yellow-500 to-yellow-600 rounded-lg flex items-center justify-center mr-3">
-                      <Trophy className="w-5 h-5 text-white" />
+                <CardHeader className="pb-2 sm:pb-3">
+                  <CardTitle className="text-sm sm:text-lg font-semibold text-gray-700 flex items-center">
+                    <div className="w-8 h-8 sm:w-10 sm:h-10 bg-gradient-to-r from-yellow-500 to-yellow-600 rounded-lg flex items-center justify-center mr-2 sm:mr-3">
+                      <Trophy className="w-4 h-4 sm:w-5 sm:h-5 text-white" />
                     </div>
-                    Global Rank
+                    <span className="hidden sm:inline">Global Rank</span>
                   </CardTitle>
                 </CardHeader>
-                <CardContent>
+                <CardContent className="pt-0">
                   <AnimatePresence>
                     {currentMetric >= 3 && (
                       <motion.div
@@ -431,14 +434,15 @@ export function QuizResults({
                         animate={{ scale: 1, opacity: 1 }}
                         transition={{ duration: 0.6, type: "spring", stiffness: 200 }}
                       >
-                        <div className="flex items-baseline mb-2">
-                          <span className="text-4xl font-bold text-yellow-600">#{results.globalRank}</span>
-                          <Badge className={`ml-2 ${rankDisplay.bgColor} ${rankDisplay.color} border-0`}>
+                        <div className="flex items-baseline mb-1 sm:mb-2">
+                          <span className="text-2xl sm:text-4xl font-bold text-yellow-600">#{results.globalRank}</span>
+                          <Badge className={`ml-1 sm:ml-2 text-xs ${rankDisplay.bgColor} ${rankDisplay.color} border-0`}>
                             {rankDisplay.suffix}
                           </Badge>
                         </div>
-                        <div className="text-sm text-gray-600">
-                          Out of all participants
+                        <div className="text-xs sm:text-sm text-gray-600">
+                          <span className="hidden sm:inline">Out of all participants</span>
+                          <span className="sm:hidden">Global</span>
                         </div>
                       </motion.div>
                     )}
@@ -454,15 +458,15 @@ export function QuizResults({
           initial={{ y: 50, opacity: 0 }}
           animate={showAnimation ? { y: 0, opacity: 1 } : {}}
           transition={{ delay: 2.6, duration: 0.6 }}
-          className="flex flex-col sm:flex-row gap-4 justify-center mb-12"
+          className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center mb-8 sm:mb-12 px-4"
         >
           {onRetakeQuiz && (
             <Button 
               onClick={onRetakeQuiz}
               size="lg"
-              className="bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-700 hover:to-purple-700 text-white shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105"
+              className="bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-700 hover:to-purple-700 text-white shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105 w-full sm:w-auto"
             >
-              <RotateCcw className="w-5 h-5 mr-2" />
+              <RotateCcw className="w-4 h-4 sm:w-5 sm:h-5 mr-2" />
               Retake Quiz
             </Button>
           )}
@@ -472,9 +476,9 @@ export function QuizResults({
               onClick={onViewLeaderboard}
               variant="outline"
               size="lg"
-              className="border-2 border-indigo-200 text-indigo-600 hover:bg-indigo-50 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105"
+              className="border-2 border-indigo-200 text-indigo-600 hover:bg-indigo-50 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105 w-full sm:w-auto"
             >
-              <Users className="w-5 h-5 mr-2" />
+              <Users className="w-4 h-4 sm:w-5 sm:h-5 mr-2" />
               View Leaderboard
             </Button>
           )}
@@ -484,9 +488,9 @@ export function QuizResults({
               onClick={onBackToDashboard}
               variant="secondary"
               size="lg"
-              className="bg-gray-100 text-gray-700 hover:bg-gray-200 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105"
+              className="bg-gray-100 text-gray-700 hover:bg-gray-200 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105 w-full sm:w-auto"
             >
-              <Home className="w-5 h-5 mr-2" />
+              <Home className="w-4 h-4 sm:w-5 sm:h-5 mr-2" />
               Back to Dashboard
             </Button>
           )}
@@ -499,31 +503,31 @@ export function QuizResults({
           transition={{ delay: 2.8, duration: 0.6 }}
         >
           <Card className="bg-white/80 backdrop-blur-sm shadow-xl border-0">
-            <CardHeader>
-              <CardTitle className="text-xl font-bold text-gray-800 flex items-center">
-                <div className="w-10 h-10 bg-gradient-to-r from-indigo-500 to-purple-600 rounded-lg flex items-center justify-center mr-3">
-                  <TrendingUp className="w-5 h-5 text-white" />
+            <CardHeader className="pb-4 sm:pb-6">
+              <CardTitle className="text-lg sm:text-xl font-bold text-gray-800 flex items-center">
+                <div className="w-8 h-8 sm:w-10 sm:h-10 bg-gradient-to-r from-indigo-500 to-purple-600 rounded-lg flex items-center justify-center mr-2 sm:mr-3">
+                  <TrendingUp className="w-4 h-4 sm:w-5 sm:h-5 text-white" />
                 </div>
                 Performance Summary
               </CardTitle>
             </CardHeader>
-            <CardContent>
-              <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
-                <div className="text-center p-4 bg-gradient-to-br from-blue-50 to-blue-100 rounded-xl">
-                  <div className="text-3xl font-bold text-blue-600 mb-1">{results.totalQuestions}</div>
-                  <div className="text-sm font-medium text-blue-700">Total Questions</div>
+            <CardContent className="px-4 sm:px-6">
+              <div className="grid grid-cols-2 md:grid-cols-4 gap-4 sm:gap-6">
+                <div className="text-center p-3 sm:p-4 bg-gradient-to-br from-blue-50 to-blue-100 rounded-xl">
+                  <div className="text-2xl sm:text-3xl font-bold text-blue-600 mb-1">{results.totalQuestions}</div>
+                  <div className="text-xs sm:text-sm font-medium text-blue-700">Total Questions</div>
                 </div>
-                <div className="text-center p-4 bg-gradient-to-br from-green-50 to-green-100 rounded-xl">
-                  <div className="text-3xl font-bold text-green-600 mb-1">{results.correctAnswers}</div>
-                  <div className="text-sm font-medium text-green-700">Correct</div>
+                <div className="text-center p-3 sm:p-4 bg-gradient-to-br from-green-50 to-green-100 rounded-xl">
+                  <div className="text-2xl sm:text-3xl font-bold text-green-600 mb-1">{results.correctAnswers}</div>
+                  <div className="text-xs sm:text-sm font-medium text-green-700">Correct</div>
                 </div>
-                <div className="text-center p-4 bg-gradient-to-br from-red-50 to-red-100 rounded-xl">
-                  <div className="text-3xl font-bold text-red-600 mb-1">{results.incorrectAnswers}</div>
-                  <div className="text-sm font-medium text-red-700">Incorrect</div>
+                <div className="text-center p-3 sm:p-4 bg-gradient-to-br from-red-50 to-red-100 rounded-xl">
+                  <div className="text-2xl sm:text-3xl font-bold text-red-600 mb-1">{results.incorrectAnswers}</div>
+                  <div className="text-xs sm:text-sm font-medium text-red-700">Incorrect</div>
                 </div>
-                <div className="text-center p-4 bg-gradient-to-br from-purple-50 to-purple-100 rounded-xl">
-                  <div className="text-3xl font-bold text-purple-600 mb-1">{results.accuracy}%</div>
-                  <div className="text-sm font-medium text-purple-700">Accuracy Rate</div>
+                <div className="text-center p-3 sm:p-4 bg-gradient-to-br from-purple-50 to-purple-100 rounded-xl">
+                  <div className="text-2xl sm:text-3xl font-bold text-purple-600 mb-1">{results.accuracy}%</div>
+                  <div className="text-xs sm:text-sm font-medium text-purple-700">Accuracy Rate</div>
                 </div>
               </div>
             </CardContent>

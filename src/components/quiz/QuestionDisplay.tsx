@@ -87,13 +87,13 @@ export function QuestionDisplay({
           </motion.div>
         </CardHeader>
         
-        <CardContent className="space-y-6">
+        <CardContent className="space-y-6 p-4 sm:p-6">
           {/* Question Text */}
           <motion.div 
             initial={{ y: 20, opacity: 0 }}
             animate={{ y: 0, opacity: 1 }}
             transition={{ delay: 0.3, duration: 0.4 }}
-            className="text-xl font-medium text-gray-900 leading-relaxed"
+            className="text-lg sm:text-xl font-medium text-gray-900 leading-relaxed"
           >
             {question.question}
           </motion.div>
@@ -140,17 +140,17 @@ export function QuestionDisplay({
                     }}
                     disabled={disabled}
                     className={cn(
-                      'w-full p-4 h-auto text-left justify-start transition-all duration-200',
-                      'border-2 rounded-lg',
+                      'w-full p-3 sm:p-4 h-auto text-left justify-start transition-all duration-200',
+                      'border-2 rounded-lg min-h-[60px] whitespace-normal',
                       getOptionStyle(option),
                       disabled && 'cursor-not-allowed'
                     )}
                   >
-                  <div className="flex items-start gap-3 w-full">
-                    <span className="flex-shrink-0 w-8 h-8 rounded-full border-2 border-current flex items-center justify-center font-bold text-sm">
+                  <div className="flex items-start gap-2 sm:gap-3 w-full min-w-0">
+                    <span className="flex-shrink-0 w-7 h-7 sm:w-8 sm:h-8 rounded-full border-2 border-current flex items-center justify-center font-bold text-xs sm:text-sm">
                       {getOptionLabel(option)}
                     </span>
-                    <span className="flex-1 text-base leading-relaxed">
+                    <span className="flex-1 text-sm sm:text-base leading-relaxed break-words min-w-0 quiz-option-text">
                       {question.options[option]}
                     </span>
                     

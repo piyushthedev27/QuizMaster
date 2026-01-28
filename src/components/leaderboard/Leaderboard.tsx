@@ -86,40 +86,42 @@ export function Leaderboard() {
   }
 
   return (
-    <div className="min-h-screen bg-gray-50 py-6">
-      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div className="min-h-screen bg-gray-50 py-4 sm:py-6">
+      <div className="max-w-4xl mx-auto px-3 sm:px-6 lg:px-8">
         {/* Back Button */}
-        <div className="mb-6">
+        <div className="mb-4 sm:mb-6">
           <Button 
             onClick={handleBackToDashboard}
             variant="outline" 
+            size="sm"
             className="flex items-center gap-2"
           >
             <ArrowLeft className="h-4 w-4" />
-            Back to Dashboard
+            <span className="hidden sm:inline">Back to Dashboard</span>
+            <span className="sm:hidden">Back</span>
           </Button>
         </div>
 
         {/* Header Card */}
-        <Card className="mb-8">
-          <CardHeader>
-            <div className="flex justify-between items-start">
+        <Card className="mb-6 sm:mb-8">
+          <CardHeader className="pb-4 sm:pb-6">
+            <div className="flex flex-col sm:flex-row sm:justify-between sm:items-start gap-4">
               <div className="flex items-center gap-3">
                 <div className="p-2 bg-yellow-100 rounded-lg">
-                  <Trophy className="h-6 w-6 text-yellow-600" />
+                  <Trophy className="h-5 w-5 sm:h-6 sm:w-6 text-yellow-600" />
                 </div>
                 <div>
-                  <CardTitle className="text-2xl font-bold text-gray-900">
+                  <CardTitle className="text-xl sm:text-2xl font-bold text-gray-900">
                     Leaderboard
                   </CardTitle>
                   {currentUserRank && (
-                    <p className="text-gray-600 mt-1">
-                      Your current rank: <span className="font-semibold text-blue-600">#{currentUserRank}</span>
+                    <p className="text-sm sm:text-base text-gray-600 mt-1">
+                      Your rank: <span className="font-semibold text-blue-600">#{currentUserRank}</span>
                     </p>
                   )}
                 </div>
               </div>
-              <div className="flex flex-col items-end gap-3">
+              <div className="flex flex-row sm:flex-col items-center sm:items-end gap-3">
                 <RealtimeIndicator 
                   isConnected={isRealtimeConnected} 
                   lastUpdate={lastUpdate}
@@ -127,11 +129,12 @@ export function Leaderboard() {
                 <Button
                   onClick={handleRefresh}
                   variant="outline"
+                  size="sm"
                   disabled={loading}
                   className="flex items-center gap-2"
                 >
                   <RefreshCw className={`h-4 w-4 ${loading ? 'animate-spin' : ''}`} />
-                  Refresh
+                  <span className="hidden sm:inline">Refresh</span>
                 </Button>
               </div>
             </div>
@@ -140,19 +143,20 @@ export function Leaderboard() {
 
         {/* Ready for Challenge Card - Only show if user has no attempts */}
         {data && data.totalCount === 0 && (
-          <Card className="mb-8 border-blue-200 bg-blue-50">
-            <CardContent className="text-center py-8">
-              <div className="p-3 bg-blue-100 rounded-full w-16 h-16 mx-auto mb-4 flex items-center justify-center">
-                <Trophy className="h-8 w-8 text-blue-600" />
+          <Card className="mb-6 sm:mb-8 border-blue-200 bg-blue-50">
+            <CardContent className="text-center py-6 sm:py-8 px-4 sm:px-6">
+              <div className="p-3 bg-blue-100 rounded-full w-12 h-12 sm:w-16 sm:h-16 mx-auto mb-4 flex items-center justify-center">
+                <Trophy className="h-6 w-6 sm:h-8 sm:w-8 text-blue-600" />
               </div>
-              <h3 className="text-xl font-semibold text-blue-900 mb-2">
+              <h3 className="text-lg sm:text-xl font-semibold text-blue-900 mb-2">
                 Ready for a Challenge?
               </h3>
-              <p className="text-blue-700 mb-4">
+              <p className="text-sm sm:text-base text-blue-700 mb-4">
                 Be the first to take the quiz and claim the top spot on the leaderboard!
               </p>
               <Button 
                 onClick={() => router.push('/quiz')}
+                size="sm"
                 className="bg-blue-600 hover:bg-blue-700"
               >
                 Start Your First Quiz
@@ -174,7 +178,7 @@ export function Leaderboard() {
 
         {/* Pagination */}
         {data && data.totalCount > PAGE_SIZE && (
-          <div className="mt-6">
+          <div className="mt-4 sm:mt-6">
             <LeaderboardPagination
               currentPage={currentPage}
               totalCount={data.totalCount}
@@ -188,9 +192,9 @@ export function Leaderboard() {
 
         {/* Stats Footer */}
         {data && data.totalCount > 0 && (
-          <Card className="mt-6">
-            <CardContent className="text-center py-4">
-              <div className="text-sm text-gray-500">
+          <Card className="mt-4 sm:mt-6">
+            <CardContent className="text-center py-3 sm:py-4 px-4 sm:px-6">
+              <div className="text-xs sm:text-sm text-gray-500">
                 Showing {data.leaderboard.length} of {data.totalCount} quiz attempts
                 {lastUpdate && (
                   <span className="block mt-1">
