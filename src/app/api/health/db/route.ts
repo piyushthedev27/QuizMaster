@@ -11,7 +11,8 @@ export async function GET() {
 
     // Test question count
     const questionCount = await prisma.question.count();
-    const unitQuestionCount = await prisma.unitQuestion.count();
+    const unit1QuestionCount = await prisma.unit1Question.count();
+    const unit2QuestionCount = await prisma.unit2Question.count();
 
     return NextResponse.json({
       status: 'healthy',
@@ -19,13 +20,14 @@ export async function GET() {
         connected: true,
         responseTime: `${responseTime}ms`,
         questionCount,
-        unitQuestionCount
+        unit1QuestionCount,
+        unit2QuestionCount
       },
       timestamp: new Date().toISOString()
     });
   } catch (error) {
     console.error('Database health check failed:', error);
-    
+
     return NextResponse.json({
       status: 'unhealthy',
       database: {
