@@ -1,0 +1,552 @@
+[
+  {
+    "id": "1",
+    "question": "Six Sigma aims to ___",
+    "options": {
+      "a": "Reduce defects and variation",
+      "b": "Increase wastage",
+      "c": "Limit employee participation",
+      "d": "Focus on hierarchy"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "2",
+    "question": "The relationship between service quality and customer satisfaction is",
+    "options": {
+      "a": "Direct - higher service quality leads to greater satisfaction",
+      "b": "Inverse - higher quality reduces satisfaction",
+      "c": "Unrelated",
+      "d": "Based only on price"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3",
+    "question": "TQM stands for ___",
+    "options": {
+      "a": "Total Quality Management",
+      "b": "Technical Quality Measurement",
+      "c": "Team Quality Monitoring",
+      "d": "Total Quantify Management"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "4",
+    "question": "The PDCA cycle (Plan-Do-Check-Act) is often associated with ___",
+    "options": {
+      "a": "Kaizen",
+      "b": "TQM",
+      "c": "Six Sigma",
+      "d": "Both A and B"
+    },
+    "answer": "d"
+  },
+  {
+    "id": "5",
+    "question": "Which of the following is a benefit of TQM?",
+    "options": {
+      "a": "Improved morale and productivity",
+      "b": "More errors",
+      "c": "Reduced teamwork",
+      "d": "Lower customer satisfaction"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "6",
+    "question": "The fifth 'S', 'Shitsuke,' means",
+    "options": {
+      "a": "Sorting",
+      "b": "Discipline and sustaining the habit of 5S",
+      "c": "Supervising workers",
+      "d": "Scheduling production"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "7",
+    "question": "Which of the following tools is used to map the flow of materials and information in Lean?",
+    "options": {
+      "a": "Value Stream Mapping (VSM)",
+      "b": "PERT Chart",
+      "c": "Gantt Chart",
+      "d": "SWOT Analysis"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "8",
+    "question": "Kanban cards can be replaced by which modern equivalent?",
+    "options": {
+      "a": "Digital dashboards or software signals",
+      "b": "Printed posters",
+      "c": "Telephone calls",
+      "d": "Emails only"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "9",
+    "question": "'Poka-Yoke' is a Lean tool used for ___",
+    "options": {
+      "a": "Mistake-proofing to prevent errors",
+      "b": "Increase machine speed",
+      "c": "Product promotion",
+      "d": "Hiring employees"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "10",
+    "question": "The ultimate goal of TPM is to achieve",
+    "options": {
+      "a": "Zero accidents, zero defects and zero breakdowns",
+      "b": "50% reduction in production",
+      "c": "Higher machine downtime",
+      "d": "Overproduction"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "11",
+    "question": "Which of the following is a major vendor of ERP software?",
+    "options": {
+      "a": "SAP",
+      "b": "Adobe",
+      "c": "Facebook",
+      "d": "Google"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "12",
+    "question": "A dissatisfied customer is most likely to",
+    "options": {
+      "a": "Recommend the service to others",
+      "b": "Switch to a competitor and share negative feedback",
+      "c": "Increase company profits",
+      "d": "Ignore service experience"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "13",
+    "question": "The main benefit of implementing ISO quality standards is ___",
+    "options": {
+      "a": "Global recognition, better efficiency and improved customer confidence",
+      "b": "Higher taxation",
+      "c": "Increased cost only",
+      "d": "Reduction in safety"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "14",
+    "question": "One of the key advantages of ERP is ___",
+    "options": {
+      "a": "Real-time data sharing and decision-making",
+      "b": "Duplication of records",
+      "c": "Lack of co-ordination",
+      "d": "Increased manual work"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "15",
+    "question": "Which of the following is an example of ISO 14000 implementation?",
+    "options": {
+      "a": "Recycling industrial waste and reducing emissions",
+      "b": "Increasing packaging waste",
+      "c": "Ignoring environmental laws",
+      "d": "Expanding factory emissions"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "16",
+    "question": "Examples of elements in a 'Servicescape' include ___",
+    "options": {
+      "a": "Lighting, layout, color, signage and music in a service setting",
+      "b": "Sales reports and graphs",
+      "c": "Staff salaries",
+      "d": "Company policies only"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "17",
+    "question": "Which of the following is NOT a characteristic of ERP?",
+    "options": {
+      "a": "Integrated database",
+      "b": "Modular structure",
+      "c": "Manual data entry only",
+      "d": "Real-time processing"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "18",
+    "question": "Marketing helps in facing competition by ___",
+    "options": {
+      "a": "Copying competitors' products",
+      "b": "Studying the market and developing better strategies",
+      "c": "Ignoring customer needs",
+      "d": "Reducing product quality"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "19",
+    "question": "The main goal of educational events is",
+    "options": {
+      "a": "Profit generation",
+      "b": "Fun and recreation",
+      "c": "Knowledge sharing and skill enhancement",
+      "d": "Business promotion"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "20",
+    "question": "Marketing management helps in creating demand through ___",
+    "options": {
+      "a": "Promotions and advertising",
+      "b": "Cost cutting",
+      "c": "Employee training",
+      "d": "Product maintenance"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "21",
+    "question": "Mobile marketing involves ___",
+    "options": {
+      "a": "Only email campaigns",
+      "b": "SMS, app notifications and mobile ads",
+      "c": "Door-to-door campaigns",
+      "d": "TV sponsorships"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "22",
+    "question": "Marketing management encourages companies to develop ___",
+    "options": {
+      "a": "Outdated products",
+      "b": "New and innovative products",
+      "c": "Only cheap products",
+      "d": "Products with no packaging"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "23",
+    "question": "'Price' in the 7 Ps represents",
+    "options": {
+      "a": "Company investment",
+      "b": "Amount customers pay for the product",
+      "c": "Employee salary",
+      "d": "Factory cost only"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "24",
+    "question": "A college's 'Annual Day' or 'Cultural Fest' is an example of ___",
+    "options": {
+      "a": "Religious event",
+      "b": "Corporate event",
+      "c": "Educational and cultural event",
+      "d": "Fundraising event"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "25",
+    "question": "A customer expecting good after-sales service but not mentioning it shows",
+    "options": {
+      "a": "Unstated need",
+      "b": "Stated need",
+      "c": "Real need",
+      "d": "Delight need"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "26",
+    "question": "When a person has both desire and ability to pay for a product, it is called ___",
+    "options": {
+      "a": "Need",
+      "b": "Want",
+      "c": "Demand",
+      "d": "Expectation"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "27",
+    "question": "Both traditional and digital marketing aim to",
+    "options": {
+      "a": "Reduce customer engagement",
+      "b": "Reach customers and increase sales",
+      "c": "Eliminate advertising",
+      "d": "Focus only on local areas"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "28",
+    "question": "When marketers understand true customer needs, they can ___",
+    "options": {
+      "a": "Reduce business risk",
+      "b": "Increase confusion",
+      "c": "Waste resources",
+      "d": "Ignore feedback"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "29",
+    "question": "Which of the following is NOT a method of digital marketing?",
+    "options": {
+      "a": "Search Engine Optimization (SEO)",
+      "b": "Radio advertising",
+      "c": "Email marketing",
+      "d": "Social media marketing"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "30",
+    "question": "In the smartphone market, the need is for ___",
+    "options": {
+      "a": "A particular brand",
+      "b": "Communication and connectivity",
+      "c": "Entertainment only",
+      "d": "Brand recognition"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "31",
+    "question": "Which of the following statements is TRUE?",
+    "options": {
+      "a": "Traditional marketing has global reach",
+      "b": "Digital marketing allows instant feedback",
+      "c": "Traditional marketing uses social media platforms",
+      "d": "Digital marketing cannot be measured"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "32",
+    "question": "Direct marketing in traditional methods includes ___",
+    "options": {
+      "a": "Door-to-door sales and phone calls",
+      "b": "Social media posts",
+      "c": "YouTube ads",
+      "d": "Website pop-ups"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "33",
+    "question": "Which of the following is NOT an example of a corporate event?",
+    "options": {
+      "a": "Conferences",
+      "b": "Product launches",
+      "c": "Weddings",
+      "d": "Trade shows"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "34",
+    "question": "Logistics Management is a part of",
+    "options": {
+      "a": "Finance Management",
+      "b": "Supply Chain Management",
+      "c": "Marketing Management",
+      "d": "Human Resource Management"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "35",
+    "question": "Which of the following is NOT part of a supply chain?",
+    "options": {
+      "a": "Supplier",
+      "b": "Manufacturer",
+      "c": "Warehouse",
+      "d": "Accountant"
+    },
+    "answer": "d"
+  },
+  {
+    "id": "36",
+    "question": "Warehouse Management Systems (WMS) help in",
+    "options": {
+      "a": "Designing advertisements",
+      "b": "Tracking item location and stock movement",
+      "c": "Hiring staff",
+      "d": "Financial planning"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "37",
+    "question": "In Samsung's example, logistics management is responsible for ___",
+    "options": {
+      "a": "Designing mobile phones",
+      "b": "Advertising and sales promotions",
+      "c": "Moving finished phones from factory to customer",
+      "d": "Recruiting engineers"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "38",
+    "question": "'Team spirit (Esprit de Corps)' in HRM aims to",
+    "options": {
+      "a": "Promote individualism over collaboration",
+      "b": "Encourage co-operation and mutual trust",
+      "c": "Reduce communication",
+      "d": "Focus only on results, not relationships"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "39",
+    "question": "The correct link between supply chain and logistics components is ___",
+    "options": {
+      "a": "Retailers → Finance",
+      "b": "Warehouses → Inventory Control",
+      "c": "Customers → Transportation",
+      "d": "Suppliers → Customer Service"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "40",
+    "question": "Which of the following best defines recruitment?",
+    "options": {
+      "a": "Training existing employees",
+      "b": "Searching for and encouraging people to apply for employment",
+      "c": "Promoting current staff only",
+      "d": "Evaluating job performance"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "41",
+    "question": "Which IT tool is used for customer records and feedback?",
+    "options": {
+      "a": "ERP",
+      "b": "CRM",
+      "c": "RFID",
+      "d": "TMS"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "42",
+    "question": "Recruitment creates the base for which of the following HR activities?",
+    "options": {
+      "a": "Production planning",
+      "b": "Selection, training and development",
+      "c": "Advertising and marketing",
+      "d": "Accounting and finance"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "43",
+    "question": "'Stability and security' as a principle implies HR should ___",
+    "options": {
+      "a": "Keep roles vague",
+      "b": "Provide fair policies and career paths",
+      "c": "Use surprise layoffs often",
+      "d": "Avoid long-term planning"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "44",
+    "question": "Which of the following best describes a 'supply chain'?",
+    "options": {
+      "a": "Only the transport system of goods",
+      "b": "A network connecting suppliers, manufacturers, warehouses and retailers",
+      "c": "A financial accounting system",
+      "d": "A marketing strategy"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "45",
+    "question": "Recruitment also improves the organization's ___",
+    "options": {
+      "a": "Profit margin only",
+      "b": "Reputation as a good employer",
+      "c": "Physical infrastructure",
+      "d": "Tax benefits"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "46",
+    "question": "In the automobile company case, Supervisor B was rewarded because he",
+    "options": {
+      "a": "Was more senior than A",
+      "b": "Took credit for the work",
+      "c": "Worked sincerely, trained others and cared for performance",
+      "d": "Threatened to leave the company"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "47",
+    "question": "Walk-in interviews are a method of ___",
+    "options": {
+      "a": "Internal recruitment",
+      "b": "External recruitment",
+      "c": "Training",
+      "d": "Promotion"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "48",
+    "question": "Training and coaching skills help supervisors to ___",
+    "options": {
+      "a": "Ignore new employees",
+      "b": "Guide and develop subordinates through mentoring",
+      "c": "Avoid giving feedback",
+      "d": "Delegate all training to HR only"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "49",
+    "question": "Which of the following best describes the importance of recruitment?",
+    "options": {
+      "a": "It helps build a strong, talented workforce",
+      "b": "It increases absenteeism",
+      "c": "It reduces productivity",
+      "d": "It decreases organizational growth"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "50",
+    "question": "'Leads by example' means the supervisor:",
+    "options": {
+      "a": "Does the opposite of what he expects from others",
+      "b": "Follows the same discipline and rules as the team",
+      "c": "Avoids hard work",
+      "d": "Delegates all responsibilities"
+    },
+    "answer": "b"
+  }
+]

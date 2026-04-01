@@ -229,20 +229,25 @@ export default function DashboardPage() {
                 </Card>
               </motion.div>
 
-              {/* Placeholder for future units */}
+              {/* Unit-2 Quiz Card */}
               <motion.div
                 initial={{ opacity: 0, y: 30 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.6, delay: 0.8 }}
+                whileHover={{ scale: 1.05 }}
+                whileTap={{ scale: 0.95 }}
               >
-                <Card className="border-2 border-dashed border-gray-300 bg-gray-50/50">
-                  <CardContent className="pt-6 sm:pt-8 pb-4 sm:pb-6 px-4 sm:px-6 text-center">
-                    <div className="inline-flex items-center justify-center w-12 h-12 sm:w-16 sm:h-16 bg-gray-200 rounded-full mb-3 sm:mb-4">
-                      <span className="text-xl sm:text-2xl text-gray-400">+</span>
-                    </div>
-                    <div className="font-bold text-lg sm:text-xl text-gray-400 mb-1">Unit-2</div>
-                    <div className="text-xs sm:text-sm text-gray-400 mb-1">Coming Soon</div>
-                    <div className="text-xs text-gray-400">More units coming soon</div>
+                <Card className="hover:shadow-lg transition-all duration-300 border-0 bg-gradient-to-br from-emerald-50 to-teal-50 cursor-pointer group">
+                  <CardContent className="pt-6 sm:pt-8 pb-4 sm:pb-6 px-4 sm:px-6">
+                    <Link href={`/quiz?unit=unit-2&questions=30`} className="block text-center">
+                      <div className="inline-flex items-center justify-center w-12 h-12 sm:w-16 sm:h-16 bg-emerald-100 rounded-full mb-3 sm:mb-4 group-hover:scale-110 transition-transform duration-300">
+                        <TrendingUp className="h-6 w-6 sm:h-8 sm:w-8 text-emerald-600" />
+                      </div>
+                      <div className="font-bold text-lg sm:text-2xl text-gray-900 mb-1">Unit-2</div>
+                      <div className="text-xs sm:text-sm font-medium text-gray-700 mb-1">Quality & Marketing</div>
+                      <div className="text-xs text-gray-500 mb-2 sm:mb-3">30 questions from 50 available</div>
+                      <div className="text-xs text-emerald-600 font-medium">Choose your timing</div>
+                    </Link>
                   </CardContent>
                 </Card>
               </motion.div>

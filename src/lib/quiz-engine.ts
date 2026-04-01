@@ -23,22 +23,43 @@ export class QuizEngine {
       
       const fetchQuestions = async () => {
         if (unit) {
-          // Fetch questions from unit_questions table for specific unit
+          // Fetch questions from specific unit table
           console.log(`Fetching questions for unit: ${unit}`)
-          const questions = await prisma.unitQuestion.findMany({
-            where: { unit: unit },
-            select: {
-              id: true,
-              question: true,
-              options: true,
-              answer: true,
-              difficulty: true,
-              category: true,
-              createdAt: true,
-              unit: true
-            }
-          });
-          console.log(`Found ${questions.length} questions for ${unit}`)
+          
+          let questions;
+          if (unit === 'unit-1') {
+            questions = await prisma.unit1Question.findMany({
+              where: { unit: unit },
+              select: {
+                id: true,
+                question: true,
+                options: true,
+                answer: true,
+                difficulty: true,
+                category: true,
+                createdAt: true,
+                unit: true
+              }
+            });
+          } else if (unit === 'unit-2') {
+            questions = await prisma.unit2Question.findMany({
+              where: { unit: unit },
+              select: {
+                id: true,
+                question: true,
+                options: true,
+                answer: true,
+                difficulty: true,
+                category: true,
+                createdAt: true,
+                unit: true
+              }
+            });
+          } else {
+             throw new Error(`Invalid or unsupported unit: ${unit}`);
+          }
+          
+          console.log(`Found ${questions?.length} questions for ${unit}`)
           return questions;
         } else {
           // Fetch questions from main questions table

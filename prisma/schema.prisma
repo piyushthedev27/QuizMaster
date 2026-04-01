@@ -31,17 +31,30 @@ model Question {
   @@map("questions")
 }
 
-model UnitQuestion {
+model Unit1Question {
   id         String     @id @default(cuid())
   question   String
   options    Json
   answer     String
   difficulty Difficulty @default(MEDIUM)
   category   String
-  unit       String     // Unit identifier (e.g., "unit-1", "unit-2", etc.)
+  unit       String     // Unit identifier
   createdAt  DateTime   @default(now())
 
-  @@map("unit_questions")
+  @@map("unit_1")
+}
+
+model Unit2Question {
+  id         String     @id @default(cuid())
+  question   String
+  options    Json
+  answer     String
+  difficulty Difficulty @default(MEDIUM)
+  category   String
+  unit       String     // Unit identifier
+  createdAt  DateTime   @default(now())
+
+  @@map("unit_2")
 }
 
 model QuizAttempt {
