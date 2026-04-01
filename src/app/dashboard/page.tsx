@@ -237,7 +237,12 @@ export default function DashboardPage() {
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
               >
-                <Card className="hover:shadow-lg transition-all duration-300 border-0 bg-gradient-to-br from-emerald-50 to-teal-50 cursor-pointer group">
+                <Card className="relative hover:shadow-lg transition-all duration-300 border-0 bg-gradient-to-br from-emerald-50 to-teal-50 cursor-pointer group">
+                  <div className="absolute -top-2 -right-2 z-10">
+                    <Badge className="bg-emerald-500 hover:bg-emerald-600 text-white border-0 shadow-md px-2.5 py-0.5 text-[10px] font-bold uppercase tracking-wider">
+                      New
+                    </Badge>
+                  </div>
                   <CardContent className="pt-6 sm:pt-8 pb-4 sm:pb-6 px-4 sm:px-6">
                     <Link href={`/quiz?unit=unit-2&questions=30`} className="block text-center">
                       <div className="inline-flex items-center justify-center w-12 h-12 sm:w-16 sm:h-16 bg-emerald-100 rounded-full mb-3 sm:mb-4 group-hover:scale-110 transition-transform duration-300">
