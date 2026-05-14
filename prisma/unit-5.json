@@ -1,0 +1,1597 @@
+[
+  {
+    "id": "5.1",
+    "question": "Supply Chain Management (SCM) mainly focuses on",
+    "options": {
+      "a": "Only manufacturing products",
+      "b": "Managing and co-ordinating the flow of goods and services from supplier to customer",
+      "c": "Advertising and promotion only",
+      "d": "Human resource management"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.2",
+    "question": "Which of the following best describes a \"supply chain\"?",
+    "options": {
+      "a": "Only the transport system of goods",
+      "b": "A network connecting suppliers, manufacturers, warehouses and retailers",
+      "c": "A financial accounting system",
+      "d": "A marketing strategy"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.3",
+    "question": "The main goal of SCM is to ensure",
+    "options": {
+      "a": "Expensive products and limited availability",
+      "b": "Right product, right customer, right time, right cost",
+      "c": "Only local distribution",
+      "d": "Focus only on production"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.4",
+    "question": "In the supply chain of biscuits, the final stage is",
+    "options": {
+      "a": "Milling wheat into flour",
+      "b": "Packaging in factories",
+      "c": "Selling to the consumer",
+      "d": "Storage in warehouse"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.5",
+    "question": "Which of the following is NOT part of a supply chain",
+    "options": {
+      "a": "Supplier",
+      "b": "Manufacturer",
+      "c": "Warehouse",
+      "d": "Accountant"
+    },
+    "answer": "d"
+  },
+  {
+    "id": "5.6",
+    "question": "Supply Chain Management involves",
+    "options": {
+      "a": "Only production and manufacturing",
+      "b": "Planning, controlling and improving material and information flow",
+      "c": "Only transportation and packaging",
+      "d": "Advertising and promotion"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.7",
+    "question": "Which of the following is an important benefit of SCM?",
+    "options": {
+      "a": "Increased cost and delays",
+      "b": "Reduced customer satisfaction",
+      "c": "Smooth flow of goods and reduced waste",
+      "d": "Ignoring supplier relationships"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.8",
+    "question": "Better co-ordination in SCM means",
+    "options": {
+      "a": "Working in isolation",
+      "b": "Improved communication among suppliers, factories and dealers",
+      "c": "Reducing employee communication",
+      "d": "Focus only on retailers"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.9",
+    "question": "Logistics Management is a part of",
+    "options": {
+      "a": "Finance Management",
+      "b": "Supply Chain Management",
+      "c": "Marketing Management",
+      "d": "Human Resource Management"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.10",
+    "question": "The main focus of logistics management is",
+    "options": {
+      "a": "Manufacturing new products",
+      "b": "Managing transportation, warehousing and distribution",
+      "c": "Creating advertisements",
+      "d": "Hiring employees"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.11",
+    "question": "When an online order is packed, shipped and delivered, it is part of",
+    "options": {
+      "a": "Finance operations",
+      "b": "Marketing campaign",
+      "c": "Logistics management",
+      "d": "Accounting"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.12",
+    "question": "Which of the following is NOT a major function of logistics management?",
+    "options": {
+      "a": "Transportation",
+      "b": "Warehousing",
+      "c": "Order processing",
+      "d": "Advertising design"
+    },
+    "answer": "d"
+  },
+  {
+    "id": "5.13",
+    "question": "Inventory control in logistics ensures",
+    "options": {
+      "a": "No stock is kept",
+      "b": "The right quantity of goods is available when needed",
+      "c": "Overproduction of goods",
+      "d": "Only storing goods for a long time"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.14",
+    "question": "The main difference between SCM and Logistics is",
+    "options": {
+      "a": "Logistics is broader than SCM",
+      "b": "SCM focuses on overall co-ordination, while logistics focuses on transport and storage",
+      "c": "SCM and logistics are unrelated",
+      "d": "SCM only deals with advertising"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.15",
+    "question": "In Samsung's example, logistics management is responsible for",
+    "options": {
+      "a": "Designing mobile phones",
+      "b": "Advertising and sales promotions",
+      "c": "Moving finished phones from factory to customer",
+      "d": "Recruiting engineers"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.16",
+    "question": "Supply Chain Management (SCM) connects",
+    "options": {
+      "a": "Only customers and retailers",
+      "b": "Only manufacturers and warehouses",
+      "c": "Suppliers, manufacturers, warehouses, distributors and customers",
+      "d": "Only producers and government agencies"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.17",
+    "question": "The main purpose of logistics management is to ensure",
+    "options": {
+      "a": "Smooth financial transactions only",
+      "b": "Fast, safe and cost-effective movement of goods",
+      "c": "Recruitment of supply staff",
+      "d": "Designing new products"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.18",
+    "question": "A successful supply chain depends on",
+    "options": {
+      "a": "Advertising and sales promotion",
+      "b": "Smooth flow of materials, information and money",
+      "c": "Reducing suppliers",
+      "d": "Closing warehouses"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.19",
+    "question": "The supply chain starts with",
+    "options": {
+      "a": "Retailers",
+      "b": "Distributors",
+      "c": "Suppliers",
+      "d": "Customers"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.20",
+    "question": "Suppliers are important because they",
+    "options": {
+      "a": "Manufacture finished goods",
+      "b": "Provide raw materials and components",
+      "c": "Sell products to customers directly",
+      "d": "Handle customer service"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.21",
+    "question": "Manufacturers convert",
+    "options": {
+      "a": "Finished goods into raw materials",
+      "b": "Money into information",
+      "c": "Raw materials into finished goods",
+      "d": "Retail stores into warehouses"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.22",
+    "question": "Efficiency at the manufacturing level affects",
+    "options": {
+      "a": "Production cost and speed",
+      "b": "Only advertising budget",
+      "c": "Recruitment of employees",
+      "d": "Number of suppliers"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "5.23",
+    "question": "Warehouses mainly function as",
+    "options": {
+      "a": "Permanent storage for products",
+      "b": "Temporary storage centers connecting production and market",
+      "c": "Customer service offices",
+      "d": "Training centers for staff"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.24",
+    "question": "Modern warehouses use which technology for efficiency?",
+    "options": {
+      "a": "Barcoding and automated systems",
+      "b": "Typewriters and manual registers",
+      "c": "Paper-based reports",
+      "d": "Loudspeaker announcements"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "5.25",
+    "question": "Distributors and wholesalers help by",
+    "options": {
+      "a": "Buying in bulk and selling to retailers",
+      "b": "Manufacturing products",
+      "c": "Advertising to customers",
+      "d": "Storing goods permanently"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "5.26",
+    "question": "Retailers act as the",
+    "options": {
+      "a": "First link in the supply chain",
+      "b": "Bridge between wholesalers and customers",
+      "c": "Supplier of raw materials",
+      "d": "Transport operator"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.27",
+    "question": "Retailers provide feedback mainly to",
+    "options": {
+      "a": "Transport agencies",
+      "b": "Manufacturers and wholesalers",
+      "c": "Customers only",
+      "d": "Local government offices"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.28",
+    "question": "Customers are considered the",
+    "options": {
+      "a": "Starting point of the supply chain",
+      "b": "Middle stage in the supply chain",
+      "c": "Final destination of the supply chain",
+      "d": "Warehouse managers"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.29",
+    "question": "Information flow in the supply chain helps to",
+    "options": {
+      "a": "Spread rumors in the market",
+      "b": "Track demand, stock levels and deliveries",
+      "c": "Increase paperwork",
+      "d": "Reduce co-ordination"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.30",
+    "question": "Financial flow refers to",
+    "options": {
+      "a": "Movement of goods between warehouses",
+      "b": "Movement of money between supply chain participants",
+      "c": "Exchange of documents only",
+      "d": "Stock counting process"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.31",
+    "question": "The most visible part of logistics is",
+    "options": {
+      "a": "Marketing",
+      "b": "Transportation",
+      "c": "Accounting",
+      "d": "Customer surveys"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.32",
+    "question": "Selecting the right mode of transport depends on",
+    "options": {
+      "a": "Cost, distance and time",
+      "b": "Number of employees",
+      "c": "Size of warehouse",
+      "d": "Advertising budget"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "5.33",
+    "question": "Warehousing in logistics involves",
+    "options": {
+      "a": "Storing goods safely and systematically",
+      "b": "Designing advertisements",
+      "c": "Selling products directly",
+      "d": "Manufacturing spare parts"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "5.34",
+    "question": "Inventory management aims to",
+    "options": {
+      "a": "Produce unlimited stock",
+      "b": "Avoid both shortage and overstock",
+      "c": "Focus only on raw materials",
+      "d": "Eliminate suppliers"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.35",
+    "question": "Order processing starts when",
+    "options": {
+      "a": "The warehouse closes",
+      "b": "A customer places an order",
+      "c": "Goods are shipped to the factory",
+      "d": "Raw materials are purchased"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.36",
+    "question": "Which of the following is part of order processing?",
+    "options": {
+      "a": "Hiring employees",
+      "b": "Order entry, packaging and tracking",
+      "c": "Market research",
+      "d": "Product designing"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.37",
+    "question": "Packaging and material handling are important because",
+    "options": {
+      "a": "They protect goods during storage and transport",
+      "b": "They increase advertising cost",
+      "c": "They reduce employee safety",
+      "d": "They help create invoices"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "5.38",
+    "question": "Customer service in logistics focuses on",
+    "options": {
+      "a": "Employee satisfaction",
+      "b": "Timely delivery and resolving complaints",
+      "c": "Designing packaging",
+      "d": "Hiring warehouse staff"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.39",
+    "question": "Which of the following technologies supports modern logistics management?",
+    "options": {
+      "a": "GPS, barcoding and ERP systems",
+      "b": "Fax machines and manual registers",
+      "c": "Typewriters",
+      "d": "Telephone directories"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "5.40",
+    "question": "The correct link between supply chain and logistics components is",
+    "options": {
+      "a": "Retailers - Finance",
+      "b": "Warehouses - Inventory Control",
+      "c": "Customers - Transportation",
+      "d": "Suppliers - Customer Service"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.41",
+    "question": "In a modern supply chain, which moves faster than materials?",
+    "options": {
+      "a": "Money",
+      "b": "Information",
+      "c": "Vehicles",
+      "d": "Labor"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.42",
+    "question": "Information Technology (IT) in supply chain refers to",
+    "options": {
+      "a": "Using manual systems to record data",
+      "b": "Using computers, software and networks to manage data",
+      "c": "Hiring more employees for communication",
+      "d": "Replacing suppliers"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.43",
+    "question": "The main purpose of IT in supply chain and logistics is to",
+    "options": {
+      "a": "Increase paperwork",
+      "b": "Delay delivery for accuracy",
+      "c": "Improve speed, accuracy and co-ordination",
+      "d": "Focus only on marketing"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.44",
+    "question": "Which statement best defines Supply Chain IT systems?",
+    "options": {
+      "a": "They manage human resources",
+      "b": "They co-ordinate material, information and money flow",
+      "c": "They handle only billing",
+      "d": "They record entertainment data"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.45",
+    "question": "\"Information moves faster than materials\" means",
+    "options": {
+      "a": "Communication supports physical operations",
+      "b": "Trucks move slower than computers",
+      "c": "Factories stop production",
+      "d": "Warehouses need less data"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "5.46",
+    "question": "IT improves communication by",
+    "options": {
+      "a": "Disconnecting suppliers and customers",
+      "b": "Connecting all partners through real-time data sharing",
+      "c": "Reducing the use of emails",
+      "d": "Increasing manual paperwork"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.47",
+    "question": "How does IT increase efficiency in the supply chain?",
+    "options": {
+      "a": "Through automation and reduced paperwork",
+      "b": "By hiring more manual labor",
+      "c": "By removing computers",
+      "d": "By increasing storage costs"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "5.48",
+    "question": "IT enhances transparency by",
+    "options": {
+      "a": "Keeping data secret",
+      "b": "Showing real-time shipment and stock details",
+      "c": "Limiting access to managers only",
+      "d": "Deleting order records"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.49",
+    "question": "Using digital records instead of manual entries helps",
+    "options": {
+      "a": "Increase typing errors",
+      "b": "Reduce human errors and duplication",
+      "c": "Delay order processing",
+      "d": "Increase cost"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.50",
+    "question": "Customer satisfaction improves through IT because",
+    "options": {
+      "a": "Orders are delayed",
+      "b": "Customers can track and receive accurate updates",
+      "c": "Complaints are ignored",
+      "d": "No communication is done"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.51",
+    "question": "In supply management, IT helps through",
+    "options": {
+      "a": "Manual purchase orders",
+      "b": "Online procurement systems and supplier tracking",
+      "c": "Verbal communication only",
+      "d": "Offline cash payments"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.52",
+    "question": "ERP (Enterprise Resource Planning) software mainly supports",
+    "options": {
+      "a": "Production planning and co-ordination",
+      "b": "Product advertisement",
+      "c": "Staff entertainment",
+      "d": "Customer complaints"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "5.53",
+    "question": "Inventory control through IT is achieved by",
+    "options": {
+      "a": "Random checking",
+      "b": "Automatic monitoring and reorder alerts",
+      "c": "Physical stock counting only",
+      "d": "Manual ledger entry"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.54",
+    "question": "Which technology is used in warehouses for tracking goods?",
+    "options": {
+      "a": "Barcodes and RFID tags",
+      "b": "Loudspeakers and signs",
+      "c": "GPS alone",
+      "d": "CCTV only"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "5.55",
+    "question": "Which IT tool is used for customer records and feedback?",
+    "options": {
+      "a": "ERP",
+      "b": "CRM (Customer Relationship Management)",
+      "c": "RFID",
+      "d": "TMS"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.56",
+    "question": "Order processing in logistics is improved by",
+    "options": {
+      "a": "Receiving and forwarding orders online automatically",
+      "b": "Manual phone calls only",
+      "c": "Writing orders in notebooks",
+      "d": "Ignoring customer emails"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "5.57",
+    "question": "Transportation management in logistics uses",
+    "options": {
+      "a": "GPS and fleet-tracking systems",
+      "b": "Paper maps only",
+      "c": "Random routes",
+      "d": "Verbal driver instructions"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "5.58",
+    "question": "Warehouse Management Systems (WMS) help in",
+    "options": {
+      "a": "Designing advertisements",
+      "b": "Tracking item location and stock movement",
+      "c": "Hiring staff",
+      "d": "Financial planning"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.59",
+    "question": "Route optimization software helps logistics companies to",
+    "options": {
+      "a": "Choose slower but scenic routes",
+      "b": "Find the fastest and most fuel-efficient paths",
+      "c": "Increase travel distance",
+      "d": "Avoid digital data"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.60",
+    "question": "Cloud computing in logistics helps by",
+    "options": {
+      "a": "Storing data manually",
+      "b": "Keeping information safe and accessible across locations",
+      "c": "Making data secret",
+      "d": "Blocking access to managers"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.61",
+    "question": "RFID stands for",
+    "options": {
+      "a": "Rapid File Information Data",
+      "b": "Radio Frequency Identification",
+      "c": "Random Flow Input Device",
+      "d": "Remote File Internet Delivery"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.62",
+    "question": "TMS (Transportation Management System) is used for",
+    "options": {
+      "a": "Staff salaries",
+      "b": "Planning, executing and monitoring vehicle movements",
+      "c": "Managing human resources",
+      "d": "Designing products"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.63",
+    "question": "EDI (Electronic Data Interchange) is mainly used to",
+    "options": {
+      "a": "Share business documents electronically",
+      "b": "Print invoices manually",
+      "c": "Conduct physical audits",
+      "d": "Replace marketing teams"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "5.64",
+    "question": "Which IT tool helps in analyzing trends and improving decisions?",
+    "options": {
+      "a": "Business Intelligence (BI) software",
+      "b": "GPS",
+      "c": "Barcodes",
+      "d": "Cloud storage"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "5.65",
+    "question": "E-commerce platforms play a role in supply chain by",
+    "options": {
+      "a": "Disconnecting suppliers and buyers",
+      "b": "Enabling direct online sales and order co-ordination",
+      "c": "Reducing communication",
+      "d": "Increasing paper documentation"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.66",
+    "question": "HRM primarily deals with managing which organizational resource?",
+    "options": {
+      "a": "Money",
+      "b": "Materials",
+      "c": "People",
+      "d": "Machines"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.67",
+    "question": "Which statement best captures the core meaning of HRM?",
+    "options": {
+      "a": "Managing only payroll",
+      "b": "Recruiting people and leaving the rest to line managers",
+      "c": "Planning, organizing, directing and controlling people-related functions",
+      "d": "Outsourcing all people processes"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.68",
+    "question": "Which of the following is NOT typically a function covered under HRM?",
+    "options": {
+      "a": "Training and development",
+      "b": "Performance appraisal",
+      "c": "Product pricing",
+      "d": "Recruitment and selection"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.69",
+    "question": "According to the chapter, HRM ensures growth for",
+    "options": {
+      "a": "Only the organization",
+      "b": "Only the employees",
+      "c": "Both organization and employees",
+      "d": "Government regulators"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.70",
+    "question": "\"Right man for the right job\" is primarily ensured through:",
+    "options": {
+      "a": "Advertising alone",
+      "b": "Scientific recruitment and selection",
+      "c": "Overtime allocation",
+      "d": "Transfer policies only"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.71",
+    "question": "Which point reflects HRM's role in motivation and morale building?",
+    "options": {
+      "a": "Restricting communication",
+      "b": "Punitive measures only",
+      "c": "Incentives, rewards and recognition",
+      "d": "Ignoring employee needs"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.72",
+    "question": "Optimum utilization of human resources implies",
+    "options": {
+      "a": "Overburdening efficient employees",
+      "b": "Underutilizing skilled workers",
+      "c": "Matching skills to jobs to reduce waste",
+      "d": "Rotating staff randomly"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.73",
+    "question": "Healthy employer-employee relations in HRM focus on",
+    "options": {
+      "a": "Suppressing grievances",
+      "b": "Open communication and trust",
+      "c": "Avoiding unions at all costs",
+      "d": "Eliminating feedback"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.74",
+    "question": "Which of the following is part of Personnel Administration within HRM scope?",
+    "options": {
+      "a": "Collective bargaining",
+      "b": "Wage and salary administration",
+      "c": "Leadership development workshops",
+      "d": "CSR initiatives"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.75",
+    "question": "Human Resource Development (HRD) mainly emphasizes",
+    "options": {
+      "a": "Only discipline and rules",
+      "b": "Short-term staffing fixes",
+      "c": "Developing knowledge, skills and attitudes",
+      "d": "External hiring only"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.76",
+    "question": "Industrial/Employee Relations primarily includes",
+    "options": {
+      "a": "Market research",
+      "b": "Grievance handling and collective bargaining",
+      "c": "Warehouse design",
+      "d": "Pricing strategy"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.77",
+    "question": "Which is a modern expansion area within HRM?",
+    "options": {
+      "a": "Ignoring diversity",
+      "b": "HR analytics and technology",
+      "c": "Reducing training budgets to zero",
+      "d": "Eliminating welfare measures"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.78",
+    "question": "Which principle highlights fairness and non-discrimination?",
+    "options": {
+      "a": "Equity and Fairness",
+      "b": "Competition and Punishment",
+      "c": "Maximum Control",
+      "d": "Silence and Secrecy"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "5.79",
+    "question": "\"Team spirit (Esprit de Corps)\" in HRM aims to",
+    "options": {
+      "a": "Promote individualism over collaboration",
+      "b": "Encourage co-operation and mutual trust",
+      "c": "Reduce communication",
+      "d": "Focus only on results, not relationships"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.80",
+    "question": "The principle of Effective Communication in HRM promotes",
+    "options": {
+      "a": "One-way top-down messaging",
+      "b": "Open, honest, two-way communication",
+      "c": "Withholding information",
+      "d": "Only written memos"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.81",
+    "question": "Which of the following BEST represents HRM's contribution to legal/ethical compliance?",
+    "options": {
+      "a": "Ignoring labor laws for speed",
+      "b": "Ensuring policies follow labor and safety standards",
+      "c": "Outsourcing all legal issues to vendors",
+      "d": "Relying on verbal agreements"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.82",
+    "question": "An example of HRM in practice from the chapter is an HR manager who",
+    "options": {
+      "a": "Designs new products",
+      "b": "Conducts safety training and motivates employees",
+      "c": "Sets market prices",
+      "d": "Manages factory machinery repairs"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.83",
+    "question": "\"Stability and security\" as a principle implies HR should",
+    "options": {
+      "a": "Keep roles vague",
+      "b": "Provide fair policies and career paths",
+      "c": "Use surprise layoffs often",
+      "d": "Avoid long-term planning"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.84",
+    "question": "Work-life balance, diversity & inclusion and CSR are listed under",
+    "options": {
+      "a": "Personnel Administration",
+      "b": "HRD only",
+      "c": "Additional/modern areas within HRM scope",
+      "d": "Finance function"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.85",
+    "question": "National importance of HRM refers to its role in",
+    "options": {
+      "a": "Only internal office politics",
+      "b": "Reducing employment opportunities",
+      "c": "Enhancing productivity and economic growth",
+      "d": "Increasing legal disputes"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.86",
+    "question": "Recruitment is the process of",
+    "options": {
+      "a": "Selecting the best candidate from applications",
+      "b": "Identifying and attracting potential candidates to apply for jobs",
+      "c": "Conducting performance appraisals",
+      "d": "Dismissing unsuitable employees"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.87",
+    "question": "Recruitment is called a positive process because",
+    "options": {
+      "a": "It eliminates unqualified candidates",
+      "b": "It invites and attracts people to apply for jobs",
+      "c": "It focuses on rejection",
+      "d": "It reduces the labor force"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.88",
+    "question": "Which of the following best defines recruitment?",
+    "options": {
+      "a": "Training existing employees",
+      "b": "Searching for and encouraging people to apply for employment",
+      "c": "Promoting current staff only",
+      "d": "Evaluating job performance"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.89",
+    "question": "The main purpose of recruitment is to",
+    "options": {
+      "a": "Decrease the number of applications",
+      "b": "Attract maximum qualified candidates for a job",
+      "c": "Focus only on internal transfers",
+      "d": "Avoid future manpower planning"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.90",
+    "question": "Recruitment creates the base for which of the following HR activities?",
+    "options": {
+      "a": "Production planning",
+      "b": "Selection, training and development",
+      "c": "Advertising and marketing",
+      "d": "Accounting and finance"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.91",
+    "question": "Recruitment aims to",
+    "options": {
+      "a": "Replace HR functions",
+      "b": "Build a pool of qualified applicants",
+      "c": "Minimize organizational structure",
+      "d": "Remove unproductive employees"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.92",
+    "question": "Which of the following is NOT a feature of recruitment?",
+    "options": {
+      "a": "It is a continuous activity",
+      "b": "It is a negative process",
+      "c": "It involves both internal and external sources",
+      "d": "It helps match people and jobs"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.93",
+    "question": "An important objective of recruitment is",
+    "options": {
+      "a": "To increase hiring costs",
+      "b": "To fill job vacancies quickly and efficiently",
+      "c": "To discourage competition",
+      "d": "To reduce communication"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.94",
+    "question": "Recruitment helps to maintain",
+    "options": {
+      "a": "Machinery",
+      "b": "Raw materials",
+      "c": "Human resource supply for future needs",
+      "d": "Trade union relations only"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.95",
+    "question": "Recruitment also improves the organization's",
+    "options": {
+      "a": "Profit margin only",
+      "b": "Reputation as a good employer",
+      "c": "Physical infrastructure",
+      "d": "Tax benefits"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.96",
+    "question": "Internal recruitment refers to",
+    "options": {
+      "a": "Hiring people from outside the organization",
+      "b": "Filling vacancies through existing employees",
+      "c": "Appointing consultants",
+      "d": "Recruiting temporary staff only"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.97",
+    "question": "Which of the following is NOT an internal source of recruitment?",
+    "options": {
+      "a": "Promotion",
+      "b": "Transfer",
+      "c": "Employment exchanges",
+      "d": "Employee referrals"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.98",
+    "question": "An advantage of internal recruitment is",
+    "options": {
+      "a": "It brings new ideas",
+      "b": "It saves time and cost",
+      "c": "It increases jealousy among employees",
+      "d": "It creates communication gaps"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.99",
+    "question": "A limitation of internal recruitment is that",
+    "options": {
+      "a": "It reduces employee morale",
+      "b": "It limits the inflow of new ideas",
+      "c": "It requires expensive advertising",
+      "d": "It causes delays in decision-making"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.100",
+    "question": "External sources of recruitment include all EXCEPT",
+    "options": {
+      "a": "Campus recruitment",
+      "b": "Job portals and advertisements",
+      "c": "Transfers within the company",
+      "d": "Private agencies"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.101",
+    "question": "Campus recruitment mainly helps to hire",
+    "options": {
+      "a": "Retired employees",
+      "b": "Fresh graduates and trainees",
+      "c": "Foreign managers",
+      "d": "Part-time staff only"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.102",
+    "question": "Walk-in interviews are a method of",
+    "options": {
+      "a": "Internal recruitment",
+      "b": "External recruitment",
+      "c": "Training",
+      "d": "Promotion"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.103",
+    "question": "Which of the following is an advantage of external recruitment?",
+    "options": {
+      "a": "Saves cost and time",
+      "b": "Brings fresh talent and diversity",
+      "c": "Reduces competition",
+      "d": "Prevents change in workforce"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.104",
+    "question": "Which method of recruitment is conducted online through sites like LinkedIn or Naukri.com?",
+    "options": {
+      "a": "Campus recruitment",
+      "b": "Employment exchange",
+      "c": "E-recruitment / Social media",
+      "d": "Walk-in interview"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.105",
+    "question": "A major disadvantage of external recruitment is that it",
+    "options": {
+      "a": "Is time-consuming and costly",
+      "b": "Reduces variety of candidates",
+      "c": "Lowers diversity",
+      "d": "Demotivates external applicants"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "5.106",
+    "question": "Which is the first step in the recruitment process?",
+    "options": {
+      "a": "Job analysis",
+      "b": "Advertising the vacancy",
+      "c": "Identifying vacancy",
+      "d": "Receiving applications"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.107",
+    "question": "Job analysis in recruitment includes",
+    "options": {
+      "a": "Creating job description and job specification",
+      "b": "Giving training to new recruits",
+      "c": "Conducting interviews",
+      "d": "Preparing pay slips"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "5.108",
+    "question": "The recruitment process ends when",
+    "options": {
+      "a": "Job advertisements are issued",
+      "b": "Selection interviews are completed",
+      "c": "A pool of eligible candidates is created",
+      "d": "Appointment letters are distributed"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.109",
+    "question": "Proper recruitment helps reduce employee turnover because",
+    "options": {
+      "a": "It focuses only on cost reduction",
+      "b": "It ensures better job-employee fit",
+      "c": "It limits employee promotions",
+      "d": "It avoids supervision"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.110",
+    "question": "Which of the following best describes the importance of recruitment?",
+    "options": {
+      "a": "It helps build a strong, talented workforce",
+      "b": "It increases absenteeism",
+      "c": "It reduces productivity",
+      "d": "It decreases organizational growth"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "5.111",
+    "question": "The Chalk Circle concept in HRM primarily teaches",
+    "options": {
+      "a": "How to conduct employee training",
+      "b": "That true ownership belongs to the person who genuinely cares and contributes",
+      "c": "How to manage financial resources",
+      "d": "That authority is always linked with position"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.112",
+    "question": "In HR terms, the Chalk Circle reminds managers to reward",
+    "options": {
+      "a": "Power and seniority",
+      "b": "Formal authority",
+      "c": "Competence, commitment and ethics",
+      "d": "Popularity among staff"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.113",
+    "question": "The Chalk Circle is a test of",
+    "options": {
+      "a": "Financial management",
+      "b": "Fairness, integrity and care",
+      "c": "Physical strength",
+      "d": "Organizational size"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.114",
+    "question": "According to the Chalk Circle model, promotions should be based on",
+    "options": {
+      "a": "Seniority and years of service",
+      "b": "Employee's personal connections",
+      "c": "Contribution, care and responsibility",
+      "d": "Salary expectations"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.115",
+    "question": "Which principle of the Chalk Circle Model emphasizes that true ownership lies with those who care for organizational goals?",
+    "options": {
+      "a": "Merit over Seniority",
+      "b": "Value-Based Ownership",
+      "c": "Fair Judgment",
+      "d": "Ethical Decision-Making"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.116",
+    "question": "The Chalk Circle approach in performance appraisal means",
+    "options": {
+      "a": "Rewarding those who claim credit",
+      "b": "Ignoring teamwork",
+      "c": "Rewarding employees who contribute to team growth",
+      "d": "Preferring senior employees"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.117",
+    "question": "The main shift highlighted by the Chalk Circle concept is from",
+    "options": {
+      "a": "Who has experience? to Who has training?",
+      "b": "Who owns the role? to Who deserves the responsibility?",
+      "c": "Who has power? to Who has money?",
+      "d": "Who is oldest? to Who is newest?"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.118",
+    "question": "Which of the following is NOT a benefit of applying the Chalk Circle concept in HRM?",
+    "options": {
+      "a": "Promotes fairness and justice",
+      "b": "Encourages ethical leadership",
+      "c": "Reduces conflicts and bias",
+      "d": "Increases favoritism and partiality"
+    },
+    "answer": "d"
+  },
+  {
+    "id": "5.119",
+    "question": "In the automobile company case, Supervisor B was rewarded because he",
+    "options": {
+      "a": "Was more senior than A",
+      "b": "Took credit for the work",
+      "c": "Worked sincerely, trained others and cared for performance",
+      "d": "Threatened to leave the company"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.120",
+    "question": "The Chalk Circle model encourages HR managers to make decisions based on:",
+    "options": {
+      "a": "Power and hierarchy",
+      "b": "Facts, fairness and contribution",
+      "c": "Gossip and influence",
+      "d": "Emotions and favoritism"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.121",
+    "question": "The most essential quality of a successful supervisor is",
+    "options": {
+      "a": "Strictness",
+      "b": "Leadership ability",
+      "c": "Friendship",
+      "d": "Delegation"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.122",
+    "question": "A good supervisor leads the team by",
+    "options": {
+      "a": "Giving orders only",
+      "b": "Leading by example and inspiring confidence",
+      "c": "Avoiding responsibility",
+      "d": "Ignoring workers' opinions"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.123",
+    "question": "Good communication means",
+    "options": {
+      "a": "Giving instructions only",
+      "b": "Listening and giving feedback effectively",
+      "c": "Writing long reports",
+      "d": "Avoiding discussions"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.124",
+    "question": "Effective two-way communication builds",
+    "options": {
+      "a": "Fear and control",
+      "b": "Confusion and delay",
+      "c": "Trust and co-operation",
+      "d": "Isolation among workers"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.125",
+    "question": "Technical knowledge helps a supervisor to",
+    "options": {
+      "a": "Avoid work allocation",
+      "b": "Understand and solve job-related problems",
+      "c": "Depend completely on others",
+      "d": "Focus only on paperwork"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.126",
+    "question": "Decision-making ability is important because supervisors",
+    "options": {
+      "a": "Face daily operational problems",
+      "b": "Rarely make any decisions",
+      "c": "Always follow orders from others",
+      "d": "Prefer to delay solutions"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "5.127",
+    "question": "Fairness and objectivity mean",
+    "options": {
+      "a": "Showing favoritism",
+      "b": "Treating all employees equally without bias",
+      "c": "Supporting only seniors",
+      "d": "Being lenient with one group"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.128",
+    "question": "A good supervisor motivates employees by",
+    "options": {
+      "a": "Punishing mistakes",
+      "b": "Encouraging, praising and recognizing efforts",
+      "c": "Avoiding communication",
+      "d": "Creating competition among team members"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.129",
+    "question": "Patience and emotional stability help supervisors to",
+    "options": {
+      "a": "React angrily under stress",
+      "b": "Stay calm and composed in difficult situations",
+      "c": "Ignore team issues",
+      "d": "Work without empathy"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.130",
+    "question": "Planning and organizing ability ensures",
+    "options": {
+      "a": "Random work allocation",
+      "b": "Delays in completion",
+      "c": "Smooth workflow and timely results",
+      "d": "More paperwork"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.131",
+    "question": "A positive attitude in a supervisor helps to",
+    "options": {
+      "a": "Create fear among workers",
+      "b": "Build a cheerful and co-operative environment",
+      "c": "Increase absenteeism",
+      "d": "Spread negativity"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.132",
+    "question": "Integrity means",
+    "options": {
+      "a": "Honesty and sincerity in all actions",
+      "b": "Being popular among workers",
+      "c": "Ignoring discipline rules",
+      "d": "Following others blindly"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "5.133",
+    "question": "A supervisor with integrity is usually",
+    "options": {
+      "a": "Dishonest but friendly",
+      "b": "Strict without reason",
+      "c": "Respected and trusted by employees",
+      "d": "Avoided by workers"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.134",
+    "question": "Team-building skill involves",
+    "options": {
+      "a": "Encouraging co-ordination and harmony among members",
+      "b": "Promoting competition and jealousy",
+      "c": "Working alone",
+      "d": "Avoiding group discussions"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "5.135",
+    "question": "Problem-solving ability means",
+    "options": {
+      "a": "Avoiding problems until they grow",
+      "b": "Using logic and experience to find effective solutions",
+      "c": "Leaving problems to subordinates",
+      "d": "Depending on chance"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.136",
+    "question": "Training and coaching skills help supervisors to",
+    "options": {
+      "a": "Ignore new employees",
+      "b": "Guide and develop subordinates through mentoring",
+      "c": "Avoid giving feedback",
+      "d": "Delegate all training to HR only"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.137",
+    "question": "Adaptability means",
+    "options": {
+      "a": "Resisting any change",
+      "b": "Accepting new ideas and changes with flexibility",
+      "c": "Sticking to old methods only",
+      "d": "Avoiding new technology"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.138",
+    "question": "A supervisor with a sense of responsibility",
+    "options": {
+      "a": "Blames others for failures",
+      "b": "Takes ownership of results",
+      "c": "Delegates everything",
+      "d": "Avoids decision-making"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.139",
+    "question": "Which of the following is NOT a quality of a good supervisor?",
+    "options": {
+      "a": "Patience",
+      "b": "Integrity",
+      "c": "Bias and favoritism",
+      "d": "Motivation"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "5.140",
+    "question": "\"Leads by example\" means the supervisor",
+    "options": {
+      "a": "Does the opposite of what he expects from others",
+      "b": "Follows the same discipline and rules as the team",
+      "c": "Avoids hard work",
+      "d": "Delegates all responsibilities"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.141",
+    "question": "Autocratic leaders",
+    "options": {
+      "a": "Share authority equally",
+      "b": "Make all decisions alone and expect obedience",
+      "c": "Encourage participation",
+      "d": "Avoid giving instructions"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.142",
+    "question": "Democratic leaders focus on",
+    "options": {
+      "a": "Employee participation and teamwork",
+      "b": "Strict command and control",
+      "c": "Rules and formalities",
+      "d": "Punishments and fear"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "5.143",
+    "question": "Laissez-Faire leadership is best suited for",
+    "options": {
+      "a": "Unskilled workers needing guidance",
+      "b": "Highly skilled and self-motivated teams",
+      "c": "Situations requiring strict control",
+      "d": "Emergency conditions"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "5.144",
+    "question": "A bureaucratic leader emphasizes",
+    "options": {
+      "a": "Rules, structure and procedures",
+      "b": "Emotions and flexibility",
+      "c": "Innovation and creativity",
+      "d": "Informal decision-making"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "5.145",
+    "question": "Transformational leaders are known for",
+    "options": {
+      "a": "Inspiring vision and motivating people for higher performance",
+      "b": "Avoiding innovation",
+      "c": "Following rules only",
+      "d": "Focusing on punishments"
+    },
+    "answer": "a"
+  }
+]

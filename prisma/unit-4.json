@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "4.1",
+    "question": "Marketing Management mainly involves __.",
+    "options": {
+      "a": "Only selling products",
+      "b": "Planning, organizing, directing and controlling marketing activities",
+      "c": "Managing only finance and production",
+      "d": "Delivering services without promotion"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.2",
+    "question": "The main aim of marketing management is to __.",
+    "options": {
+      "a": "Increase costs",
+      "b": "Satisfy customer needs and achieve business goals",
+      "c": "Produce as much as possible without demand",
+      "d": "Focus only on pricing"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.3",
+    "question": "Who defined marketing management as \"the process of planning and executing the conception, pricing, promotion and distribution of ideas, goods and services\"?",
+    "options": {
+      "a": "Peter Drucker",
+      "b": "Philip Kotler",
+      "c": "Henry Fayol",
+      "d": "F.W. Taylor"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.4",
+    "question": "According to Stanton, marketing management involves __.",
+    "options": {
+      "a": "Only advertising and sales",
+      "b": "Planning, organizing, directing and controlling exchange activities",
+      "c": "Financial decision-making",
+      "d": "Human resource management"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.5",
+    "question": "Marketing management connects the company with __.",
+    "options": {
+      "a": "The government",
+      "b": "The suppliers",
+      "c": "The customers",
+      "d": "The employees only"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "4.6",
+    "question": "Marketing management focuses on building __.",
+    "options": {
+      "a": "Machinery",
+      "b": "Strong customer relationships",
+      "c": "Employee unions",
+      "d": "Government ties"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.7",
+    "question": "In simple terms, marketing management means __.",
+    "options": {
+      "a": "Managing only advertisements",
+      "b": "Managing all marketing activities for business success",
+      "c": "Controlling employee attendance",
+      "d": "Creating only product designs"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.8",
+    "question": "The heart of business success, according to marketing management, is __.",
+    "options": {
+      "a": "Production",
+      "b": "Marketing",
+      "c": "Finance",
+      "d": "Accounting"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.9",
+    "question": "The first step in effective marketing management is __.",
+    "options": {
+      "a": "Pricing the product",
+      "b": "Identifying customer needs",
+      "c": "Advertising",
+      "d": "Recruiting employees"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.10",
+    "question": "Marketing management helps in creating demand through __.",
+    "options": {
+      "a": "Promotions and advertising",
+      "b": "Cost cutting",
+      "c": "Employee training",
+      "d": "Product maintenance"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "4.11",
+    "question": "Marketing management encourages companies to develop __.",
+    "options": {
+      "a": "Outdated products",
+      "b": "New and innovative products",
+      "c": "Only cheap products",
+      "d": "Products with no packaging"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.12",
+    "question": "Efficient distribution in marketing ensures products reach __.",
+    "options": {
+      "a": "Suppliers on time",
+      "b": "Customers at the right place and right time",
+      "c": "Government agencies",
+      "d": "Competitors"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.13",
+    "question": "Customer satisfaction and loyalty are achieved by __.",
+    "options": {
+      "a": "Ignoring customer feedback",
+      "b": "Overcharging customers",
+      "c": "Providing value and good relationships",
+      "d": "Avoiding service after sales"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "4.14",
+    "question": "Marketing helps in facing competition by __.",
+    "options": {
+      "a": "Copying competitors' products",
+      "b": "Studying the market and developing better strategies",
+      "c": "Ignoring customer needs",
+      "d": "Reducing product quality"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.15",
+    "question": "Which of the following is a contribution of marketing to the economy?",
+    "options": {
+      "a": "Job creation and trade growth",
+      "b": "Reduction in innovation",
+      "c": "Lower employment",
+      "d": "Limiting product variety"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "4.16",
+    "question": "Marketing management helps in efficient use of resources by __.",
+    "options": {
+      "a": "Focusing only on profitable markets",
+      "b": "Ignoring consumer feedback",
+      "c": "Using manpower randomly",
+      "d": "Producing more than required"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "4.17",
+    "question": "Brand image building through marketing means __.",
+    "options": {
+      "a": "Creating a negative reputation",
+      "b": "Building a positive public perception",
+      "c": "Focusing only on pricing",
+      "d": "Avoiding advertisements"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.18",
+    "question": "The 7 Ps model was expanded from the original __.",
+    "options": {
+      "a": "3 Ps",
+      "b": "4 Ps",
+      "c": "5 Ps",
+      "d": "6 Ps"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.19",
+    "question": "Which of the following is NOT part of the 7 Ps of marketing?",
+    "options": {
+      "a": "Product",
+      "b": "People",
+      "c": "Promotion",
+      "d": "Partnership"
+    },
+    "answer": "d"
+  },
+  {
+    "id": "4.20",
+    "question": "'Product' in marketing mix refers to __.",
+    "options": {
+      "a": "Advertising methods",
+      "b": "Goods or services offered to customers",
+      "c": "Company profit goals",
+      "d": "Employee performance"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.21",
+    "question": "'Price' in the 7 Ps represents __.",
+    "options": {
+      "a": "Company investment",
+      "b": "Amount customers pay for the product",
+      "c": "Employee salary",
+      "d": "Factory cost only"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.22",
+    "question": "'Place' in marketing refers to __.",
+    "options": {
+      "a": "Location where products are stored only",
+      "b": "Distribution channels used to reach customers",
+      "c": "Only retail shops",
+      "d": "Manufacturing plants"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.23",
+    "question": "Which element of the 7 Ps involves advertising, sales promotion and public relations?",
+    "options": {
+      "a": "Product",
+      "b": "Promotion",
+      "c": "Process",
+      "d": "People"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.24",
+    "question": "'People' in the marketing mix includes __.",
+    "options": {
+      "a": "Only customers",
+      "b": "Employees, sales staff and service providers",
+      "c": "Only management",
+      "d": "Suppliers"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.25",
+    "question": "'Physical Evidence' in marketing refers to __.",
+    "options": {
+      "a": "Tangible elements that represent service quality",
+      "b": "Company budget",
+      "c": "Human behavior",
+      "d": "Legal proof"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "4.26",
+    "question": "In marketing, \"needs\" are defined as __.",
+    "options": {
+      "a": "Things that people desire for luxury",
+      "b": "Basic human requirements for survival and well-being",
+      "c": "Cultural preferences",
+      "d": "Marketing products sold by companies"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.27",
+    "question": "Which of the following is NOT a basic human need?",
+    "options": {
+      "a": "Food",
+      "b": "Shelter",
+      "c": "Respect",
+      "d": "Television"
+    },
+    "answer": "d"
+  },
+  {
+    "id": "4.28",
+    "question": "Wants are best described as __.",
+    "options": {
+      "a": "The same for all humans",
+      "b": "Specific preferences influenced by culture and personality",
+      "c": "Completely independent of needs",
+      "d": "Fixed and unchanging"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.29",
+    "question": "When a person has both desire and ability to pay for a product, it is called __.",
+    "options": {
+      "a": "Need",
+      "b": "Want",
+      "c": "Demand",
+      "d": "Expectation"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "4.30",
+    "question": "According to marketing principles, the starting point of marketing is __.",
+    "options": {
+      "a": "The product",
+      "b": "The promotion",
+      "c": "Understanding customer needs",
+      "d": "The distribution channel"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "4.31",
+    "question": "A person feels hungry - this is an example of __.",
+    "options": {
+      "a": "A want",
+      "b": "A demand",
+      "c": "A need",
+      "d": "A product"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "4.32",
+    "question": "A customer wanting to buy a pizza instead of home-cooked food shows __.",
+    "options": {
+      "a": "A need",
+      "b": "A want",
+      "c": "A demand",
+      "d": "A desire"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.33",
+    "question": "When someone orders a Domino's pizza using their salary money, it becomes a __.",
+    "options": {
+      "a": "Need",
+      "b": "Want",
+      "c": "Demand",
+      "d": "Preference"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "4.34",
+    "question": "Which statement correctly shows the relationship between the three?",
+    "options": {
+      "a": "Want -> Need -> Demand",
+      "b": "Need -> Want -> Demand",
+      "c": "Demand -> Need -> Want",
+      "d": "Need -> Demand -> Want"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.35",
+    "question": "Marketing begins not with products but with __.",
+    "options": {
+      "a": "Pricing",
+      "b": "Advertising",
+      "c": "Customer needs",
+      "d": "Profit"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "4.36",
+    "question": "A customer saying, \"I want a cheap mobile phone\", refers to __.",
+    "options": {
+      "a": "Secret need",
+      "b": "Stated need",
+      "c": "Delight need",
+      "d": "Unstated need"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.37",
+    "question": "A customer actually requiring a durable, long-lasting mobile phone refers to a __.",
+    "options": {
+      "a": "Real need",
+      "b": "Stated need",
+      "c": "Secret need",
+      "d": "Hidden want"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "4.38",
+    "question": "A customer expecting good after-sales service but not mentioning it shows __.",
+    "options": {
+      "a": "Unstated need",
+      "b": "Stated need",
+      "c": "Real need",
+      "d": "Delight need"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "4.39",
+    "question": "Getting free accessories or surprise gifts with a product represents a __.",
+    "options": {
+      "a": "Secret need",
+      "b": "Delight need",
+      "c": "Real need",
+      "d": "Stated need"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.40",
+    "question": "Buying a premium brand for status or recognition indicates a __.",
+    "options": {
+      "a": "Secret need",
+      "b": "Real need",
+      "c": "Stated need",
+      "d": "Unstated need"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "4.41",
+    "question": "Understanding customer needs is the __ of marketing.",
+    "options": {
+      "a": "End point",
+      "b": "Foundation",
+      "c": "Optional part",
+      "d": "Final step"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.42",
+    "question": "Identifying needs and wants helps companies in __.",
+    "options": {
+      "a": "Guessing demand",
+      "b": "Developing products that meet real expectations",
+      "c": "Increasing production only",
+      "d": "Avoiding product innovation"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.43",
+    "question": "When marketers understand true customer needs, they can __.",
+    "options": {
+      "a": "Reduce business risk",
+      "b": "Increase confusion",
+      "c": "Waste resources",
+      "d": "Ignore feedback"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "4.44",
+    "question": "Different customer groups with different needs and wants help in __.",
+    "options": {
+      "a": "Advertising only",
+      "b": "Market segmentation and targeting",
+      "c": "Cost control",
+      "d": "Product packaging"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.45",
+    "question": "A company that meets customer needs better than competitors gains __.",
+    "options": {
+      "a": "Customer dissatisfaction",
+      "b": "Competitive advantage",
+      "c": "Legal risk",
+      "d": "Market confusion"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.46",
+    "question": "In the smartphone market, the need is for __.",
+    "options": {
+      "a": "A particular brand",
+      "b": "Communication and connectivity",
+      "c": "Entertainment only",
+      "d": "Brand recognition"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.47",
+    "question": "The want in the smartphone market example is __.",
+    "options": {
+      "a": "Owning any phone",
+      "b": "A smartphone with camera and internet",
+      "c": "Having no phone",
+      "d": "Using a landline"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.48",
+    "question": "The demand in the smartphone example occurs when __.",
+    "options": {
+      "a": "The customer has no money",
+      "b": "The customer purchases an iPhone or Samsung",
+      "c": "The customer just browses online",
+      "d": "The customer asks for product details"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.49",
+    "question": "The main difference between want and demand is __.",
+    "options": {
+      "a": "Want has financial support; demand does not",
+      "b": "Demand has willingness and ability to pay; want may not",
+      "c": "Both are same",
+      "d": "Demand is emotional; want is practical"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.50",
+    "question": "Marketers study needs, wants and demands primarily to __.",
+    "options": {
+      "a": "Produce what is easiest",
+      "b": "Force customers to buy",
+      "c": "Design products that satisfy real human requirements",
+      "d": "Focus only on profit"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "4.51",
+    "question": "Marketing is mainly concerned with __.",
+    "options": {
+      "a": "Producing goods only",
+      "b": "Promoting and selling products or services",
+      "c": "Accounting and finance",
+      "d": "Hiring employees"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.52",
+    "question": "The main difference between traditional and digital marketing is __.",
+    "options": {
+      "a": "Target audience",
+      "b": "Use of the internet and technology",
+      "c": "Company size",
+      "d": "Type of product sold"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.53",
+    "question": "Both traditional and digital marketing aim to __.",
+    "options": {
+      "a": "Reduce customer engagement",
+      "b": "Reach customers and increase sales",
+      "c": "Eliminate advertising",
+      "d": "Focus only on local areas"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.54",
+    "question": "Traditional marketing refers to __.",
+    "options": {
+      "a": "Online promotion through websites",
+      "b": "Offline promotion using print, radio and TV",
+      "c": "Email and social media marketing",
+      "d": "Mobile app advertising"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.55",
+    "question": "Which of the following is NOT a traditional marketing method?",
+    "options": {
+      "a": "Television commercials",
+      "b": "Newspaper ads",
+      "c": "Search engine optimization",
+      "d": "Billboards"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "4.56",
+    "question": "Direct marketing in traditional methods include __.",
+    "options": {
+      "a": "Door-to-door sales and phone calls",
+      "b": "Social media posts",
+      "c": "YouTube ads",
+      "d": "Website pop-ups"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "4.57",
+    "question": "Outdoor advertising includes __.",
+    "options": {
+      "a": "Brochures",
+      "b": "TV commercials",
+      "c": "Billboards and posters",
+      "d": "Email newsletters"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "4.58",
+    "question": "Which of the following is an advantage of traditional marketing?",
+    "options": {
+      "a": "High flexibility",
+      "b": "Builds trust through personal contact",
+      "c": "Global reach",
+      "d": "Real-time feedback"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.59",
+    "question": "One major limitation of traditional marketing is that __.",
+    "options": {
+      "a": "It's cheap and fast",
+      "b": "It's difficult to measure results",
+      "c": "It's mostly online",
+      "d": "It requires no manpower"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.60",
+    "question": "Traditional marketing is most suitable for __.",
+    "options": {
+      "a": "Businesses targeting a local audience",
+      "b": "Online-only companies",
+      "c": "Global e-commerce firms",
+      "d": "Virtual reality advertising"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "4.61",
+    "question": "Digital marketing promotes products through __.",
+    "options": {
+      "a": "Offline methods",
+      "b": "The internet and digital platforms",
+      "c": "Physical stores",
+      "d": "Newspapers"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.62",
+    "question": "Which of the following is NOT a method of digital marketing?",
+    "options": {
+      "a": "Search Engine Optimization (SEO)",
+      "b": "Radio advertising",
+      "c": "Email marketing",
+      "d": "Social media marketing"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.63",
+    "question": "Social media marketing uses platforms such as __.",
+    "options": {
+      "a": "Facebook, Instagram and YouTube",
+      "b": "Newspapers and magazines",
+      "c": "Radio and TV",
+      "d": "Door-to-door sales"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "4.64",
+    "question": "SEO in digital marketing helps to __.",
+    "options": {
+      "a": "Increase website visibility on search engines",
+      "b": "Design attractive posters",
+      "c": "Print advertisements",
+      "d": "Reduce website traffic"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "4.65",
+    "question": "Pay-Per-Click (PPC) advertising means __.",
+    "options": {
+      "a": "Paying employees per task",
+      "b": "Paying only when users click your advertisement",
+      "c": "Paying for TV commercials",
+      "d": "Paying for product packaging"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.66",
+    "question": "An advantage of digital marketing is __.",
+    "options": {
+      "a": "Expensive and time-consuming",
+      "b": "Hard to measure performance",
+      "c": "Real-time feedback and analytics",
+      "d": "No global access"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "4.67",
+    "question": "Which of the following is a limitation of digital marketing?",
+    "options": {
+      "a": "Requires internet access and digital skills",
+      "b": "Limited customer engagement",
+      "c": "High printing costs",
+      "d": "Hard to target specific audiences"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "4.68",
+    "question": "Influencer marketing refers to __.",
+    "options": {
+      "a": "Hiring famous personalities on social media to promote products",
+      "b": "Sending flyers to houses",
+      "c": "Radio promotion",
+      "d": "Buying billboard space"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "4.69",
+    "question": "Mobile marketing involves __.",
+    "options": {
+      "a": "Only email campaigns",
+      "b": "SMS, app notifications and mobile ads",
+      "c": "Door-to-door campaigns",
+      "d": "TV sponsorships"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.70",
+    "question": "Traditional marketing provides mostly __.",
+    "options": {
+      "a": "One-way communication",
+      "b": "Two-way interaction",
+      "c": "Real-time feedback",
+      "d": "Personalized experience"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "4.71",
+    "question": "Digital marketing provides __.",
+    "options": {
+      "a": "One-way communication",
+      "b": "Limited reach",
+      "c": "Two-way communication and engagement",
+      "d": "Only local advertising"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "4.72",
+    "question": "Which of the following has higher flexibility?",
+    "options": {
+      "a": "Traditional marketing",
+      "b": "Digital marketing",
+      "c": "Both are equal",
+      "d": "None"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.73",
+    "question": "Measuring results and analytics are easier in __.",
+    "options": {
+      "a": "Traditional marketing",
+      "b": "Digital marketing",
+      "c": "Both are same",
+      "d": "None"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.74",
+    "question": "In terms of cost, digital marketing is generally __.",
+    "options": {
+      "a": "More expensive than TV advertising",
+      "b": "Lower in cost and affordable for small businesses",
+      "c": "Not measurable",
+      "d": "Useless for startups"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.75",
+    "question": "Which of the following statements is TRUE?",
+    "options": {
+      "a": "Traditional marketing has global reach",
+      "b": "Digital marketing allows instant feedback",
+      "c": "Traditional marketing uses social media platforms",
+      "d": "Digital marketing cannot be measured"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.76",
+    "question": "Event Management mainly involves __.",
+    "options": {
+      "a": "Producing goods for sale",
+      "b": "Planning, organizing and executing events",
+      "c": "Managing financial accounts only",
+      "d": "Hiring employees for companies"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.77",
+    "question": "The main purpose of event management is to __.",
+    "options": {
+      "a": "Entertain only the organizers",
+      "b": "Plan and conduct events efficiently to achieve goals",
+      "c": "Spend money without planning",
+      "d": "Focus only on decorations"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.78",
+    "question": "Events can be divided based on __.",
+    "options": {
+      "a": "Season and weather",
+      "b": "Purpose, audience and scale",
+      "c": "Price and size",
+      "d": "Number of participants only"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.79",
+    "question": "Corporate events are mainly organized by __.",
+    "options": {
+      "a": "Government departments",
+      "b": "NGOs",
+      "c": "Business organizations and companies",
+      "d": "Individuals for family gatherings"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "4.80",
+    "question": "Which of the following is NOT an example of a corporate event?",
+    "options": {
+      "a": "Conferences",
+      "b": "Product launches",
+      "c": "Weddings",
+      "d": "Trade shows"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "4.81",
+    "question": "The main purpose of corporate events is to __.",
+    "options": {
+      "a": "Celebrate festivals",
+      "b": "Build brand image and strengthen business relations",
+      "c": "Promote local art and culture",
+      "d": "Organize community fairs"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.82",
+    "question": "Social events are related to __.",
+    "options": {
+      "a": "Professional development",
+      "b": "Family and personal celebrations",
+      "c": "Government awareness campaigns",
+      "d": "Sports competitions"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.83",
+    "question": "Which of the following is a social event?",
+    "options": {
+      "a": "Seminar",
+      "b": "Marathon",
+      "c": "Wedding",
+      "d": "Product exhibition"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "4.84",
+    "question": "Cultural events mainly aim to __.",
+    "options": {
+      "a": "Discuss business strategies",
+      "b": "Preserve art, music and traditions",
+      "c": "Conduct examinations",
+      "d": "Promote health awareness"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.85",
+    "question": "Which of the below given is a cultural event?",
+    "options": {
+      "a": "Job fair",
+      "b": "Dance competition",
+      "c": "Science exhibition",
+      "d": "Sports day"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.86",
+    "question": "Educational events are generally conducted by __.",
+    "options": {
+      "a": "Schools, colleges and training institutions",
+      "b": "Hospitals",
+      "c": "Sports clubs only",
+      "d": "The army"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "4.87",
+    "question": "The main goal of educational events is __.",
+    "options": {
+      "a": "Profit generation",
+      "b": "Fun and recreation",
+      "c": "Knowledge sharing and skill enhancement",
+      "d": "Business promotion"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "4.88",
+    "question": "Sports events primarily promote __.",
+    "options": {
+      "a": "Teamwork and sportsmanship",
+      "b": "Religious beliefs",
+      "c": "Political awareness",
+      "d": "Cultural heritage"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "4.89",
+    "question": "Which of the following is NOT a sports event?",
+    "options": {
+      "a": "Marathon",
+      "b": "Cricket match",
+      "c": "DJ night",
+      "d": "Football tournament"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "4.90",
+    "question": "Entertainment events are organized for __.",
+    "options": {
+      "a": "Fun, relaxation and enjoyment",
+      "b": "Education only",
+      "c": "Employee training",
+      "d": "Religious teaching"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "4.91",
+    "question": "Which of these is an example of an entertainment event?",
+    "options": {
+      "a": "Film award function",
+      "b": "Blood donation camp",
+      "c": "Republic Day parade",
+      "d": "Science exhibition"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "4.92",
+    "question": "Government and public events are usually organized for __.",
+    "options": {
+      "a": "Citizens' awareness and national pride",
+      "b": "Private family celebration",
+      "c": "Product advertising",
+      "d": "Sports competitions only"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "4.93",
+    "question": "Which of the following is a government or public event?",
+    "options": {
+      "a": "Marriage reception",
+      "b": "Independence Day celebration",
+      "c": "Music concert",
+      "d": "Dance festival"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.94",
+    "question": "Religious events mainly focus on __.",
+    "options": {
+      "a": "Marketing products",
+      "b": "Spiritual growth and community bonding",
+      "c": "Political campaigning",
+      "d": "Product training"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "4.95",
+    "question": "Which is an example of a religious event?",
+    "options": {
+      "a": "Ganesh Utsav",
+      "b": "Business conference",
+      "c": "Sports day",
+      "d": "Career fair"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "4.96",
+    "question": "Fundraising events are organized to __.",
+    "options": {
+      "a": "Raise funds for social causes",
+      "b": "Promote luxury brands",
+      "c": "Entertain celebrities",
+      "d": "Sell expensive tickets"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "4.97",
+    "question": "Which of the following is a fundraising event?",
+    "options": {
+      "a": "Charity dinner",
+      "b": "Music award show",
+      "c": "Workshop",
+      "d": "Science fair"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "4.98",
+    "question": "The purpose of fundraising and charity events is to __.",
+    "options": {
+      "a": "Support social welfare and development",
+      "b": "Increase entertainment value",
+      "c": "Train government employees",
+      "d": "Celebrate family milestones"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "4.99",
+    "question": "A college's \"Annual Day\" or \"Cultural Fest\" is an example of __.",
+    "options": {
+      "a": "Religious event",
+      "b": "Corporate event",
+      "c": "Educational and cultural event",
+      "d": "Fundraising event"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "4.100",
+    "question": "Which of the following correctly matches the event type with its purpose?",
+    "options": {
+      "a": "Corporate - Entertainment",
+      "b": "Social - Business growth",
+      "c": "Religious - Faith and devotion",
+      "d": "Educational - Family celebration"
+    },
+    "answer": "c"
+  }
+]

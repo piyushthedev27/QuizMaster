@@ -57,15 +57,57 @@ model Unit2Question {
   @@map("unit_2")
 }
 
+model Unit3Question {
+  id         String     @id @default(cuid())
+  question   String
+  options    Json
+  answer     String
+  difficulty Difficulty @default(MEDIUM)
+  category   String
+  unit       String     // Unit identifier
+  createdAt  DateTime   @default(now())
+
+  @@map("unit_3")
+}
+
+model Unit4Question {
+  id         String     @id @default(cuid())
+  question   String
+  options    Json
+  answer     String
+  difficulty Difficulty @default(MEDIUM)
+  category   String
+  unit       String     // Unit identifier
+  createdAt  DateTime   @default(now())
+
+  @@map("unit_4")
+}
+
+model Unit5Question {
+  id         String     @id @default(cuid())
+  question   String
+  options    Json
+  answer     String
+  difficulty Difficulty @default(MEDIUM)
+  category   String
+  unit       String     // Unit identifier
+  createdAt  DateTime   @default(now())
+
+  @@map("unit_5")
+}
+
 model QuizAttempt {
-  id        String   @id @default(cuid())
-  userId    String
-  score     Int
-  accuracy  Float
-  timeTaken Int
-  answers   Json
-  createdAt DateTime @default(now())
-  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  id             String   @id @default(cuid())
+  userId         String
+  sessionId      String?  @unique
+  score          Int
+  accuracy       Float
+  timeTaken      Int
+  answers        Json
+  unit           String?
+  totalQuestions Int?
+  createdAt      DateTime @default(now())
+  user           User     @relation(fields: [userId], references: [id], onDelete: Cascade)
 
   @@map("quiz_attempts")
 }

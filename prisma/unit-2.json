@@ -1,552 +1,1212 @@
 [
   {
-    "id": "1",
-    "question": "Six Sigma aims to ___",
+    "id": "2.1",
+    "question": "Creativity primarily refers to __.",
     "options": {
-      "a": "Reduce defects and variation",
-      "b": "Increase wastage",
-      "c": "Limit employee participation",
-      "d": "Focus on hierarchy"
+      "a": "Implementing ideas in the market",
+      "b": "Generating new and original ideas",
+      "c": "Reducing product costs only",
+      "d": "Advertising a product"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
-    "id": "2",
-    "question": "The relationship between service quality and customer satisfaction is",
+    "id": "2.2",
+    "question": "According to Torrance (1974), creativity involves all EXCEPT __.",
     "options": {
-      "a": "Direct - higher service quality leads to greater satisfaction",
-      "b": "Inverse - higher quality reduces satisfaction",
-      "c": "Unrelated",
-      "d": "Based only on price"
-    },
-    "answer": "a"
-  },
-  {
-    "id": "3",
-    "question": "TQM stands for ___",
-    "options": {
-      "a": "Total Quality Management",
-      "b": "Technical Quality Measurement",
-      "c": "Team Quality Monitoring",
-      "d": "Total Quantify Management"
-    },
-    "answer": "a"
-  },
-  {
-    "id": "4",
-    "question": "The PDCA cycle (Plan-Do-Check-Act) is often associated with ___",
-    "options": {
-      "a": "Kaizen",
-      "b": "TQM",
-      "c": "Six Sigma",
-      "d": "Both A and B"
+      "a": "Sensing problems or gaps",
+      "b": "Testing hypotheses",
+      "c": "Communicating results",
+      "d": "Fixing selling price"
     },
     "answer": "d"
   },
   {
-    "id": "5",
-    "question": "Which of the following is a benefit of TQM?",
+    "id": "2.3",
+    "question": "Which is NOT a characteristic of creative thinking?",
     "options": {
-      "a": "Improved morale and productivity",
-      "b": "More errors",
-      "c": "Reduced teamwork",
-      "d": "Lower customer satisfaction"
-    },
-    "answer": "a"
-  },
-  {
-    "id": "6",
-    "question": "The fifth 'S', 'Shitsuke,' means",
-    "options": {
-      "a": "Sorting",
-      "b": "Discipline and sustaining the habit of 5S",
-      "c": "Supervising workers",
-      "d": "Scheduling production"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "7",
-    "question": "Which of the following tools is used to map the flow of materials and information in Lean?",
-    "options": {
-      "a": "Value Stream Mapping (VSM)",
-      "b": "PERT Chart",
-      "c": "Gantt Chart",
-      "d": "SWOT Analysis"
-    },
-    "answer": "a"
-  },
-  {
-    "id": "8",
-    "question": "Kanban cards can be replaced by which modern equivalent?",
-    "options": {
-      "a": "Digital dashboards or software signals",
-      "b": "Printed posters",
-      "c": "Telephone calls",
-      "d": "Emails only"
-    },
-    "answer": "a"
-  },
-  {
-    "id": "9",
-    "question": "'Poka-Yoke' is a Lean tool used for ___",
-    "options": {
-      "a": "Mistake-proofing to prevent errors",
-      "b": "Increase machine speed",
-      "c": "Product promotion",
-      "d": "Hiring employees"
-    },
-    "answer": "a"
-  },
-  {
-    "id": "10",
-    "question": "The ultimate goal of TPM is to achieve",
-    "options": {
-      "a": "Zero accidents, zero defects and zero breakdowns",
-      "b": "50% reduction in production",
-      "c": "Higher machine downtime",
-      "d": "Overproduction"
-    },
-    "answer": "a"
-  },
-  {
-    "id": "11",
-    "question": "Which of the following is a major vendor of ERP software?",
-    "options": {
-      "a": "SAP",
-      "b": "Adobe",
-      "c": "Facebook",
-      "d": "Google"
-    },
-    "answer": "a"
-  },
-  {
-    "id": "12",
-    "question": "A dissatisfied customer is most likely to",
-    "options": {
-      "a": "Recommend the service to others",
-      "b": "Switch to a competitor and share negative feedback",
-      "c": "Increase company profits",
-      "d": "Ignore service experience"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "13",
-    "question": "The main benefit of implementing ISO quality standards is ___",
-    "options": {
-      "a": "Global recognition, better efficiency and improved customer confidence",
-      "b": "Higher taxation",
-      "c": "Increased cost only",
-      "d": "Reduction in safety"
-    },
-    "answer": "a"
-  },
-  {
-    "id": "14",
-    "question": "One of the key advantages of ERP is ___",
-    "options": {
-      "a": "Real-time data sharing and decision-making",
-      "b": "Duplication of records",
-      "c": "Lack of co-ordination",
-      "d": "Increased manual work"
-    },
-    "answer": "a"
-  },
-  {
-    "id": "15",
-    "question": "Which of the following is an example of ISO 14000 implementation?",
-    "options": {
-      "a": "Recycling industrial waste and reducing emissions",
-      "b": "Increasing packaging waste",
-      "c": "Ignoring environmental laws",
-      "d": "Expanding factory emissions"
-    },
-    "answer": "a"
-  },
-  {
-    "id": "16",
-    "question": "Examples of elements in a 'Servicescape' include ___",
-    "options": {
-      "a": "Lighting, layout, color, signage and music in a service setting",
-      "b": "Sales reports and graphs",
-      "c": "Staff salaries",
-      "d": "Company policies only"
-    },
-    "answer": "a"
-  },
-  {
-    "id": "17",
-    "question": "Which of the following is NOT a characteristic of ERP?",
-    "options": {
-      "a": "Integrated database",
-      "b": "Modular structure",
-      "c": "Manual data entry only",
-      "d": "Real-time processing"
-    },
-    "answer": "c"
-  },
-  {
-    "id": "18",
-    "question": "Marketing helps in facing competition by ___",
-    "options": {
-      "a": "Copying competitors' products",
-      "b": "Studying the market and developing better strategies",
-      "c": "Ignoring customer needs",
-      "d": "Reducing product quality"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "19",
-    "question": "The main goal of educational events is",
-    "options": {
-      "a": "Profit generation",
-      "b": "Fun and recreation",
-      "c": "Knowledge sharing and skill enhancement",
-      "d": "Business promotion"
-    },
-    "answer": "c"
-  },
-  {
-    "id": "20",
-    "question": "Marketing management helps in creating demand through ___",
-    "options": {
-      "a": "Promotions and advertising",
-      "b": "Cost cutting",
-      "c": "Employee training",
-      "d": "Product maintenance"
-    },
-    "answer": "a"
-  },
-  {
-    "id": "21",
-    "question": "Mobile marketing involves ___",
-    "options": {
-      "a": "Only email campaigns",
-      "b": "SMS, app notifications and mobile ads",
-      "c": "Door-to-door campaigns",
-      "d": "TV sponsorships"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "22",
-    "question": "Marketing management encourages companies to develop ___",
-    "options": {
-      "a": "Outdated products",
-      "b": "New and innovative products",
-      "c": "Only cheap products",
-      "d": "Products with no packaging"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "23",
-    "question": "'Price' in the 7 Ps represents",
-    "options": {
-      "a": "Company investment",
-      "b": "Amount customers pay for the product",
-      "c": "Employee salary",
-      "d": "Factory cost only"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "24",
-    "question": "A college's 'Annual Day' or 'Cultural Fest' is an example of ___",
-    "options": {
-      "a": "Religious event",
-      "b": "Corporate event",
-      "c": "Educational and cultural event",
-      "d": "Fundraising event"
-    },
-    "answer": "c"
-  },
-  {
-    "id": "25",
-    "question": "A customer expecting good after-sales service but not mentioning it shows",
-    "options": {
-      "a": "Unstated need",
-      "b": "Stated need",
-      "c": "Real need",
-      "d": "Delight need"
-    },
-    "answer": "a"
-  },
-  {
-    "id": "26",
-    "question": "When a person has both desire and ability to pay for a product, it is called ___",
-    "options": {
-      "a": "Need",
-      "b": "Want",
-      "c": "Demand",
-      "d": "Expectation"
-    },
-    "answer": "c"
-  },
-  {
-    "id": "27",
-    "question": "Both traditional and digital marketing aim to",
-    "options": {
-      "a": "Reduce customer engagement",
-      "b": "Reach customers and increase sales",
-      "c": "Eliminate advertising",
-      "d": "Focus only on local areas"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "28",
-    "question": "When marketers understand true customer needs, they can ___",
-    "options": {
-      "a": "Reduce business risk",
-      "b": "Increase confusion",
-      "c": "Waste resources",
-      "d": "Ignore feedback"
-    },
-    "answer": "a"
-  },
-  {
-    "id": "29",
-    "question": "Which of the following is NOT a method of digital marketing?",
-    "options": {
-      "a": "Search Engine Optimization (SEO)",
-      "b": "Radio advertising",
-      "c": "Email marketing",
-      "d": "Social media marketing"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "30",
-    "question": "In the smartphone market, the need is for ___",
-    "options": {
-      "a": "A particular brand",
-      "b": "Communication and connectivity",
-      "c": "Entertainment only",
-      "d": "Brand recognition"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "31",
-    "question": "Which of the following statements is TRUE?",
-    "options": {
-      "a": "Traditional marketing has global reach",
-      "b": "Digital marketing allows instant feedback",
-      "c": "Traditional marketing uses social media platforms",
-      "d": "Digital marketing cannot be measured"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "32",
-    "question": "Direct marketing in traditional methods includes ___",
-    "options": {
-      "a": "Door-to-door sales and phone calls",
-      "b": "Social media posts",
-      "c": "YouTube ads",
-      "d": "Website pop-ups"
-    },
-    "answer": "a"
-  },
-  {
-    "id": "33",
-    "question": "Which of the following is NOT an example of a corporate event?",
-    "options": {
-      "a": "Conferences",
-      "b": "Product launches",
-      "c": "Weddings",
-      "d": "Trade shows"
-    },
-    "answer": "c"
-  },
-  {
-    "id": "34",
-    "question": "Logistics Management is a part of",
-    "options": {
-      "a": "Finance Management",
-      "b": "Supply Chain Management",
-      "c": "Marketing Management",
-      "d": "Human Resource Management"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "35",
-    "question": "Which of the following is NOT part of a supply chain?",
-    "options": {
-      "a": "Supplier",
-      "b": "Manufacturer",
-      "c": "Warehouse",
-      "d": "Accountant"
+      "a": "Originality",
+      "b": "Flexibility",
+      "c": "Curiosity",
+      "d": "Rigidity"
     },
     "answer": "d"
   },
   {
-    "id": "36",
-    "question": "Warehouse Management Systems (WMS) help in",
+    "id": "2.4",
+    "question": "Innovation best means __.",
     "options": {
-      "a": "Designing advertisements",
-      "b": "Tracking item location and stock movement",
-      "c": "Hiring staff",
-      "d": "Financial planning"
+      "a": "Daydreaming new possibilities",
+      "b": "Implementing creative ideas into value-adding outcomes",
+      "c": "Collecting customer complaints",
+      "d": "Copying existing solutions"
     },
     "answer": "b"
   },
   {
-    "id": "37",
-    "question": "In Samsung's example, logistics management is responsible for ___",
+    "id": "2.5",
+    "question": "Peter Drucker called innovation the instrument of __.",
     "options": {
-      "a": "Designing mobile phones",
-      "b": "Advertising and sales promotions",
-      "c": "Moving finished phones from factory to customer",
-      "d": "Recruiting engineers"
+      "a": "Finance",
+      "b": "Production",
+      "c": "Entrepreneurship",
+      "d": "Marketing"
     },
     "answer": "c"
   },
   {
-    "id": "38",
-    "question": "'Team spirit (Esprit de Corps)' in HRM aims to",
+    "id": "2.6",
+    "question": "Example of innovation from the content is __.",
     "options": {
-      "a": "Promote individualism over collaboration",
-      "b": "Encourage co-operation and mutual trust",
-      "c": "Reduce communication",
-      "d": "Focus only on results, not relationships"
+      "a": "Sketching a concept car only",
+      "b": "Turning EV idea into production cars",
+      "c": "Reading about AI",
+      "d": "Listing features of old phones"
     },
     "answer": "b"
   },
   {
-    "id": "39",
-    "question": "The correct link between supply chain and logistics components is ___",
+    "id": "2.7",
+    "question": "Which point is NOT listed as an importance of creativity/innovation in management?",
     "options": {
-      "a": "Retailers → Finance",
-      "b": "Warehouses → Inventory Control",
-      "c": "Customers → Transportation",
-      "d": "Suppliers → Customer Service"
+      "a": "Product development",
+      "b": "Improved productivity",
+      "c": "Competitive advantage",
+      "d": "Increased taxation"
+    },
+    "answer": "d"
+  },
+  {
+    "id": "2.8",
+    "question": "A common barrier to creativity and innovation is __.",
+    "options": {
+      "a": "Management support",
+      "b": "Fear of failure",
+      "c": "Teamwork",
+      "d": "Long-term focus"
     },
     "answer": "b"
   },
   {
-    "id": "40",
-    "question": "Which of the following best defines recruitment?",
+    "id": "2.9",
+    "question": "A manager's role in innovation includes __.",
     "options": {
-      "a": "Training existing employees",
-      "b": "Searching for and encouraging people to apply for employment",
-      "c": "Promoting current staff only",
-      "d": "Evaluating job performance"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "41",
-    "question": "Which IT tool is used for customer records and feedback?",
-    "options": {
-      "a": "ERP",
-      "b": "CRM",
-      "c": "RFID",
-      "d": "TMS"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "42",
-    "question": "Recruitment creates the base for which of the following HR activities?",
-    "options": {
-      "a": "Production planning",
-      "b": "Selection, training and development",
-      "c": "Advertising and marketing",
-      "d": "Accounting and finance"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "43",
-    "question": "'Stability and security' as a principle implies HR should ___",
-    "options": {
-      "a": "Keep roles vague",
-      "b": "Provide fair policies and career paths",
-      "c": "Use surprise layoffs often",
-      "d": "Avoid long-term planning"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "44",
-    "question": "Which of the following best describes a 'supply chain'?",
-    "options": {
-      "a": "Only the transport system of goods",
-      "b": "A network connecting suppliers, manufacturers, warehouses and retailers",
-      "c": "A financial accounting system",
-      "d": "A marketing strategy"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "45",
-    "question": "Recruitment also improves the organization's ___",
-    "options": {
-      "a": "Profit margin only",
-      "b": "Reputation as a good employer",
-      "c": "Physical infrastructure",
-      "d": "Tax benefits"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "46",
-    "question": "In the automobile company case, Supervisor B was rewarded because he",
-    "options": {
-      "a": "Was more senior than A",
-      "b": "Took credit for the work",
-      "c": "Worked sincerely, trained others and cared for performance",
-      "d": "Threatened to leave the company"
+      "a": "Punishing all mistakes",
+      "b": "Blocking communication",
+      "c": "Linking innovation to goals and rewarding creativity",
+      "d": "Eliminating collaboration"
     },
     "answer": "c"
   },
   {
-    "id": "47",
-    "question": "Walk-in interviews are a method of ___",
+    "id": "2.10",
+    "question": "Creativity techniques are used mainly to __.",
     "options": {
-      "a": "Internal recruitment",
-      "b": "External recruitment",
-      "c": "Training",
-      "d": "Promotion"
+      "a": "Enforce strict rules",
+      "b": "Think differently and generate useful ideas",
+      "c": "Replace teamwork",
+      "d": "Eliminate imagination"
     },
     "answer": "b"
   },
   {
-    "id": "48",
-    "question": "Training and coaching skills help supervisors to ___",
+    "id": "2.11",
+    "question": "Who developed Brainstorming?",
     "options": {
-      "a": "Ignore new employees",
-      "b": "Guide and develop subordinates through mentoring",
-      "c": "Avoid giving feedback",
-      "d": "Delegate all training to HR only"
+      "a": "Edward de Bono",
+      "b": "Fritz Zwicky",
+      "c": "Alex Osborn",
+      "d": "Tony Buzan"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "2.12",
+    "question": "Which is a core rule of brainstorming?",
+    "options": {
+      "a": "Criticize bad ideas immediately",
+      "b": "Limit quantity of ideas",
+      "c": "Encourage unusual ideas",
+      "d": "Keep ideas secret"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "2.13",
+    "question": "A listed limitation of brainstorming is __.",
+    "options": {
+      "a": "Always ensures focus",
+      "b": "Groupthink can reduce independent thinking",
+      "c": "Guarantees high-quality ideas only",
+      "d": "Eliminates evaluation time"
     },
     "answer": "b"
   },
   {
-    "id": "49",
-    "question": "Which of the following best describes the importance of recruitment?",
+    "id": "2.14",
+    "question": "Checklist Technique mainly uses __.",
     "options": {
-      "a": "It helps build a strong, talented workforce",
-      "b": "It increases absenteeism",
-      "c": "It reduces productivity",
-      "d": "It decreases organizational growth"
+      "a": "Random selection of ideas",
+      "b": "Standard \"idea-spurring\" questions",
+      "c": "Secret voting",
+      "d": "Only numerical analysis"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.15",
+    "question": "Which pair belongs to Osborn's checklist?",
+    "options": {
+      "a": "Synthesize - Simulate",
+      "b": "Put to other uses - Reverse",
+      "c": "Sell - Store",
+      "d": "Budget - Benchmark"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.16",
+    "question": "Reverse Brainstorming starts by asking __.",
+    "options": {
+      "a": "How to solve the problem fastest?",
+      "b": "How to cause or worsen the problem?",
+      "c": "Who is to blame?",
+      "d": "How to avoid any ideas?"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.17",
+    "question": "Correct order in Reverse Brainstorming is __.",
+    "options": {
+      "a": "Reverse question -> Generate negative ideas -> Reverse into solutions",
+      "b": "Generate solutions -> Pick a problem -> Celebrate",
+      "c": "Evaluate first -> Collect negative ideas -> Define problem",
+      "d": "Assign tasks -> Punish errors -> Archive"
     },
     "answer": "a"
   },
   {
-    "id": "50",
-    "question": "'Leads by example' means the supervisor:",
+    "id": "2.18",
+    "question": "Morphological Analysis was developed by __.",
     "options": {
-      "a": "Does the opposite of what he expects from others",
-      "b": "Follows the same discipline and rules as the team",
-      "c": "Avoids hard work",
-      "d": "Delegates all responsibilities"
+      "a": "Peter Drucker",
+      "b": "Fritz Zwicky",
+      "c": "Alex Osborn",
+      "d": "Tony Buzan"
     },
     "answer": "b"
+  },
+  {
+    "id": "2.19",
+    "question": "First step in Morphological Analysis is __.",
+    "options": {
+      "a": "Create ads",
+      "b": "Define the problem clearly",
+      "c": "Set selling price",
+      "d": "Conduct market survey only"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.20",
+    "question": "In Six Thinking Hats, which hat is for facts and data?",
+    "options": {
+      "a": "Red",
+      "b": "Yellow",
+      "c": "White",
+      "d": "Green"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "2.21",
+    "question": "In Six Thinking Hats, the Black Hat focuses on __.",
+    "options": {
+      "a": "Emotions",
+      "b": "Risks and cautions",
+      "c": "Creativity",
+      "d": "Process control"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.22",
+    "question": "In Six Thinking Hats, the Blue Hat mainly handles __.",
+    "options": {
+      "a": "Feelings",
+      "b": "Benefits",
+      "c": "Process/control and next steps",
+      "d": "Data"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "2.23",
+    "question": "Mind Mapping primarily helps to __.",
+    "options": {
+      "a": "Replace teamwork",
+      "b": "Visualize relationships around a central idea",
+      "c": "Decide salaries",
+      "d": "Enforce rigid procedures"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.24",
+    "question": "In SCAMPER, 'E' stands for __.",
+    "options": {
+      "a": "Expand",
+      "b": "Estimate",
+      "c": "Eliminate",
+      "d": "Engage"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "2.25",
+    "question": "Brain writing differs from brainstorming because it __.",
+    "options": {
+      "a": "Is done silently in writing to avoid dominance",
+      "b": "Requires only managers to speak",
+      "c": "Allows criticism during idea entry",
+      "d": "Uses only digital tools"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "2.26",
+    "question": "New Product Development (NPD) primarily means __.",
+    "options": {
+      "a": "Cutting costs in production only",
+      "b": "Turning new ideas into marketable products",
+      "c": "Advertising existing products",
+      "d": "Outsourcing manufacturing"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.27",
+    "question": "Which stage is NOT typically part of NPD?",
+    "options": {
+      "a": "Idea generation",
+      "b": "Concept testing",
+      "c": "Product launch",
+      "d": "Annual tax audit"
+    },
+    "answer": "d"
+  },
+  {
+    "id": "2.28",
+    "question": "A core aim of NPD is to create products that are __.",
+    "options": {
+      "a": "Innovative, useful and profitable",
+      "b": "Expensive and exclusive only",
+      "c": "Hard to copy and legally risky",
+      "d": "Produced without customer input"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "2.29",
+    "question": "Which is a key need for NPD?",
+    "options": {
+      "a": "Stable customer preferences",
+      "b": "Lack of competition",
+      "c": "Technological advancements",
+      "d": "Unlimited resources"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "2.30",
+    "question": "NPD supports growth by __.",
+    "options": {
+      "a": "Replacing obsolete products",
+      "b": "Reducing staff benefits",
+      "c": "Avoiding market expansion",
+      "d": "Ignoring trends"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "2.31",
+    "question": "Which of the following improves brand image via NPD?",
+    "options": {
+      "a": "Frequent product recalls",
+      "b": "Launching creative, customer-valued products",
+      "c": "Cutting after-sales service",
+      "d": "Hiding environmental impacts"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.32",
+    "question": "Which point relates to legal/environmental drivers of NPD?",
+    "options": {
+      "a": "Copying competitors' designs",
+      "b": "Meeting safety and eco-friendly regulations",
+      "c": "Increasing packaging layers",
+      "d": "Reducing product lifetime deliberately"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.33",
+    "question": "Product Management mainly involves __.",
+    "options": {
+      "a": "Only pricing decisions",
+      "b": "Planning, developing, launching and managing a product across its life cycle",
+      "c": "HR policy design",
+      "d": "Internal auditing of taxes"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.34",
+    "question": "Product Management requires co-ordination primarily among __.",
+    "options": {
+      "a": "Only marketing and sales",
+      "b": "Design, production, finance, marketing and sales",
+      "c": "Legal and taxation only",
+      "d": "Vendors only"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.35",
+    "question": "Change Management focuses on __.",
+    "options": {
+      "a": "Avoiding change",
+      "b": "Planning, implementing and monitoring change with minimal resistance",
+      "c": "Punishing resistors",
+      "d": "Outsourcing all operations"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.36",
+    "question": "Which is NOT a listed type of organizational change?",
+    "options": {
+      "a": "Strategic change",
+      "b": "Structural change",
+      "c": "Culinary change",
+      "d": "People-centric change"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "2.37",
+    "question": "A good first step in the Change Management process is to __.",
+    "options": {
+      "a": "Implement immediately",
+      "b": "Recognize the need for change",
+      "c": "Downsize staff",
+      "d": "Ignore communication"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.38",
+    "question": "A common barrier to change is __.",
+    "options": {
+      "a": "Clear leadership vision",
+      "b": "Employee resistance or insecurity",
+      "c": "Adequate resources",
+      "d": "Effective training"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.39",
+    "question": "Which technique helps overcome resistance to change?",
+    "options": {
+      "a": "Hiding information",
+      "b": "Effective communication and participation",
+      "c": "Eliminating training",
+      "d": "Delaying feedback"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.40",
+    "question": "A key advantage of Change Management is __.",
+    "options": {
+      "a": "More disruption",
+      "b": "Lower employee morale",
+      "c": "Faster achievement of organizational goals",
+      "d": "Increased confusion"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "2.41",
+    "question": "Sustainable product design primarily aims to __.",
+    "options": {
+      "a": "Maximize short-term sales only",
+      "b": "Meet needs while minimizing environmental impact",
+      "c": "Use the cheapest materials regardless of impact",
+      "d": "Increase packaging weight"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.42",
+    "question": "Which is an example of material selection sustainability?",
+    "options": {
+      "a": "Toxic paints",
+      "b": "Virgin plastics only",
+      "c": "Bamboo or recycled metals",
+      "d": "Lead-based solder in all products"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "2.43",
+    "question": "\"Design for energy efficiency\" means __.",
+    "options": {
+      "a": "Adding power-hungry features",
+      "b": "Reducing use of energy in manufacturing processes",
+      "c": "Ignoring water consumption",
+      "d": "Extending process times"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.44",
+    "question": "Designing for durability and reuse typically includes __.",
+    "options": {
+      "a": "Non-repairable construction",
+      "b": "Modular designs and replaceable parts",
+      "c": "Gluing all components permanently",
+      "d": "Single-use materials"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.45",
+    "question": "A step that reduces environmental impact in packaging is to __.",
+    "options": {
+      "a": "Use unnecessary layers",
+      "b": "Prefer lightweight, recyclable materials",
+      "c": "Print heavy inks extensively",
+      "d": "Use mixed, non-recyclable laminates"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.46",
+    "question": "End-of-life planning in sustainable design involves __.",
+    "options": {
+      "a": "Making disassembly difficult",
+      "b": "Designing for easy recycling and take-back",
+      "c": "Ignoring waste streams",
+      "d": "Banning refurbishment"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.47",
+    "question": "A listed economic benefit of sustainable design is __.",
+    "options": {
+      "a": "Guaranteed higher costs",
+      "b": "Cost savings via energy-efficient processes",
+      "c": "Reduced market demand",
+      "d": "Higher carbon taxes"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.48",
+    "question": "A listed social benefit of sustainable design is __.",
+    "options": {
+      "a": "Increased pollution",
+      "b": "Weaker brand image",
+      "c": "Improved public health and responsible consumption",
+      "d": "Shorter product lifespan"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "2.49",
+    "question": "Which organizational benefit is associated with sustainability?",
+    "options": {
+      "a": "Higher legal risk",
+      "b": "Lower employee satisfaction",
+      "c": "Long-term growth and risk reduction",
+      "d": "Less compliance with laws"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "2.50",
+    "question": "Which sequence best represents a practical flow from strategy to result in sustainable NPD?",
+    "options": {
+      "a": "Define sustainability goals -> Select materials -> Design for efficiency/durability -> Optimize manufacturing -> Minimize packaging -> Plan end-of-life -> Monitor & improve",
+      "b": "Launch product -> Plan goals -> Recycle -> Choose materials",
+      "c": "Manufacture -> Product -> Package -> Design -> Set goals",
+      "d": "Advertise -> Set goals -> Ignore manufacturing -> Dispose"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "2.51",
+    "question": "Agile Product Management mainly focuses on __.",
+    "options": {
+      "a": "Rigid long-term plans",
+      "b": "Continuous improvement and customer feedback",
+      "c": "Ignoring customer input",
+      "d": "Annual project reviews only"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.52",
+    "question": "The term \"iterations\" or \"sprints\" in Agile refers to __.",
+    "options": {
+      "a": "One-time final product launches",
+      "b": "Small, manageable development cycles",
+      "c": "Annual meetings",
+      "d": "Marketing campaigns"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.53",
+    "question": "Agile Product Management is most suitable for __.",
+    "options": {
+      "a": "Static, unchanging markets",
+      "b": "Government accounting systems",
+      "c": "Dynamic industries with rapid technology changes",
+      "d": "Manufacturing of traditional goods only"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "2.54",
+    "question": "Which of the following is a key benefit of Agile Product Management?",
+    "options": {
+      "a": "Slow delivery cycles",
+      "b": "Continuous customer feedback and faster releases",
+      "c": "Ignoring errors until the end",
+      "d": "Avoiding team discussions"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.55",
+    "question": "In Agile, a sprint generally ends with __.",
+    "options": {
+      "a": "A complete final product",
+      "b": "A usable, testable version of the product",
+      "c": "Only planning documents",
+      "d": "Employee evaluations"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.56",
+    "question": "One of the biggest advantages of Agile is __.",
+    "options": {
+      "a": "High documentation and strict plans",
+      "b": "Better flexibility and adaptability",
+      "c": "No customer involvement",
+      "d": "Working alone"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.57",
+    "question": "Agile teams usually conduct short, daily meetings called __.",
+    "options": {
+      "a": "Town halls",
+      "b": "Stand-ups",
+      "c": "Conferences",
+      "d": "Reviews"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.58",
+    "question": "In Agile, customer satisfaction is achieved by __.",
+    "options": {
+      "a": "Delivering value early and frequently",
+      "b": "Avoiding changes after planning",
+      "c": "Reducing communication",
+      "d": "Making one large release at the end"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "2.59",
+    "question": "\"Accept Changes Anytime\" means __.",
+    "options": {
+      "a": "Only managers can suggest changes",
+      "b": "Teams must resist all new ideas",
+      "c": "Teams can adjust to new requirements anytime",
+      "d": "Products should never be modified"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "2.60",
+    "question": "Which principle emphasizes teamwork and open communication?",
+    "options": {
+      "a": "Keep Things Simple",
+      "b": "Work Together as One Team",
+      "c": "Continuous Delivery",
+      "d": "Customer Value over Targets"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.61",
+    "question": "According to the Agile Manifesto, the most accurate measure of progress is __.",
+    "options": {
+      "a": "Number of reports completed",
+      "b": "Amount of documentation",
+      "c": "A working product",
+      "d": "Budget spent"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "2.62",
+    "question": "\"Empowered Teams over Top-Down Management\" means __.",
+    "options": {
+      "a": "Only senior managers decide everything",
+      "b": "Teams are trusted to manage their own work",
+      "c": "Decisions must go through multiple approvals",
+      "d": "Teams cannot make any changes"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.63",
+    "question": "\"Continuous Delivery in Agile means __.",
+    "options": {
+      "a": "Delivering one big product at the end",
+      "b": "Regularly releasing small, working parts of the product",
+      "c": "Stopping after initial design",
+      "d": "Only testing in the last stage"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.64",
+    "question": "The Agile Manifesto values which of the following more?",
+    "options": {
+      "a": "Internal Targets over Customer Value",
+      "b": "Control over Collaboration",
+      "c": "Adaptability over Strict Planning",
+      "d": "Assumptions over Feedback"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "2.65",
+    "question": "After every sprint, Agile teams should __.",
+    "options": {
+      "a": "Ignore results",
+      "b": "Reflect, learn and improve",
+      "c": "Start a new project immediately",
+      "d": "Take a long break"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.66",
+    "question": "Project management primarily helps organizations to __.",
+    "options": {
+      "a": "Increase paperwork",
+      "b": "Plan, organize and complete projects successfully",
+      "c": "Delay project deadlines",
+      "d": "Avoid teamwork"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.67",
+    "question": "Which of the following ensures all team members work toward a common goal?",
+    "options": {
+      "a": "Advertising",
+      "b": "Project management",
+      "c": "Human resource planning only",
+      "d": "Cost accounting"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.68",
+    "question": "The first step in successful project management is __.",
+    "options": {
+      "a": "Execution",
+      "b": "Planning and goal setting",
+      "c": "Project closure",
+      "d": "Marketing"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.69",
+    "question": "Proper project planning helps in __.",
+    "options": {
+      "a": "Increasing confusion",
+      "b": "Avoiding organization",
+      "c": "Saving time and reducing mistakes",
+      "d": "Ignoring deadlines"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "2.70",
+    "question": "Efficient resource use in project management means __.",
+    "options": {
+      "a": "Wasting materials for faster work",
+      "b": "Using manpower, money and materials wisely",
+      "c": "Ignoring cost control",
+      "d": "Hiring more people than required"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.71",
+    "question": "Which factor ensures a project is completed within the deadline?",
+    "options": {
+      "a": "Time management",
+      "b": "Market research",
+      "c": "Customer surveys",
+      "d": "Advertising"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "2.72",
+    "question": "Keeping a project within the approved budget is part of __.",
+    "options": {
+      "a": "Quality management",
+      "b": "Cost control",
+      "c": "Time management",
+      "d": "Marketing"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.73",
+    "question": "Quality assurance in project management ensures __.",
+    "options": {
+      "a": "Products are cheap",
+      "b": "Outputs meet required standards",
+      "c": "Teams work longer hours",
+      "d": "Customer needs are ignored"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.74",
+    "question": "Identifying and reducing possible problems early is part of __.",
+    "options": {
+      "a": "Risk management",
+      "b": "Cost management",
+      "c": "Scope management",
+      "d": "Procurement"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "2.75",
+    "question": "Team co-ordination in project management helps __.",
+    "options": {
+      "a": "Promote competition within teams",
+      "b": "Ensure smooth communication and teamwork",
+      "c": "Create confusion",
+      "d": "Reduce efficiency"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.76",
+    "question": "Project Integration Management focuses on __.",
+    "options": {
+      "a": "Bringing all project parts together in one plan",
+      "b": "Recruiting project staff",
+      "c": "Buying materials",
+      "d": "Marketing project outcomes"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "2.77",
+    "question": "Project Scope Management mainly prevents __.",
+    "options": {
+      "a": "Quality improvement",
+      "b": "Scope creep or unnecessary work",
+      "c": "Resource allocation",
+      "d": "Stakeholder meetings"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.78",
+    "question": "Using tools like Gantt Charts or PERT is part of __.",
+    "options": {
+      "a": "Risk management",
+      "b": "Schedule (Time) management",
+      "c": "Procurement management",
+      "d": "Cost estimation"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.79",
+    "question": "Project Cost Management includes __.",
+    "options": {
+      "a": "Estimating, budgeting and controlling costs",
+      "b": "Hiring more staff",
+      "c": "Creating reports only",
+      "d": "Ignoring budgets"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "2.80",
+    "question": "Project Human Resource Management focuses on __.",
+    "options": {
+      "a": "Buying raw materials",
+      "b": "Selecting, training and motivating team members",
+      "c": "Setting budgets",
+      "d": "Planning project scope"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.81",
+    "question": "Project Communication Management ensures __.",
+    "options": {
+      "a": "Smooth and timely sharing of information",
+      "b": "Reduced communication",
+      "c": "More documentation only",
+      "d": "Hidden project updates"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "2.82",
+    "question": "In the 4Ps of project management, \"Plan\" refers to __.",
+    "options": {
+      "a": "The blueprint of what, when and how work will be done",
+      "b": "The number of people in a team",
+      "c": "The power of the project manager",
+      "d": "The budget for advertising"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "2.83",
+    "question": "In the 4Ps, \"People\" refers to __.",
+    "options": {
+      "a": "Only customers",
+      "b": "All individuals involved in the project",
+      "c": "Only management",
+      "d": "Suppliers only"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.84",
+    "question": "The \"Power\" element in project management means __.",
+    "options": {
+      "a": "Authority to make decisions and solve problems",
+      "b": "Energy consumption of machines",
+      "c": "Electrical systems in a plant",
+      "d": "Political influence"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "2.85",
+    "question": "Which is the correct order of the five project phases?",
+    "options": {
+      "a": "Planning -> Execution -> Initiation -> Closure -> Monitoring",
+      "b": "Initiation -> Planning -> Execution -> Monitoring & Controlling -> Closure",
+      "c": "Execution -> Initiation -> Closure -> Planning -> Monitoring",
+      "d": "Planning -> Execution -> Initiation -> Closure -> Monitoring"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.86",
+    "question": "The full form of CPM is __.",
+    "options": {
+      "a": "Critical Planning Method",
+      "b": "Critical Path Method",
+      "c": "Cost Performance Method",
+      "d": "Control Path Management"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.87",
+    "question": "The main objective of CPM is to __.",
+    "options": {
+      "a": "Identify the longest and shortest path in a project",
+      "b": "Determine the shortest possible project duration",
+      "c": "Estimate project cost only",
+      "d": "Manage human resources"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.88",
+    "question": "In CPM, activities on the critical path have __.",
+    "options": {
+      "a": "Some float time",
+      "b": "No float time",
+      "c": "Double duration",
+      "d": "Extra resources"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.89",
+    "question": "Critical Path helps the project manager to __.",
+    "options": {
+      "a": "Identify tasks that can be delayed",
+      "b": "Identify tasks that must not be delayed",
+      "c": "Increase project costs",
+      "d": "Ignore resource allocation"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.90",
+    "question": "Which of the following is NOT an advantage of CPM?",
+    "options": {
+      "a": "Helps in project scheduling",
+      "b": "Identifies critical and non-critical activities",
+      "c": "Ignores time estimation",
+      "d": "Assists in resource planning"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "2.91",
+    "question": "In CPM, time estimates for activities are considered __.",
+    "options": {
+      "a": "Deterministic (fixed)",
+      "b": "Probabilistic (variable)",
+      "c": "Random and uncertain",
+      "d": "Ignored completely"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "2.92",
+    "question": "The full form of PERT is __.",
+    "options": {
+      "a": "Project Estimation and Review Technique",
+      "b": "Program Evaluation and Review Technique",
+      "c": "Process Evaluation and Resource Technique",
+      "d": "Planning and Execution Resource Tool"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.93",
+    "question": "PERT is mainly used when __.",
+    "options": {
+      "a": "Activity time is uncertain",
+      "b": "Project duration is fixed",
+      "c": "Cost is the only concern",
+      "d": "There is no need for scheduling"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "2.94",
+    "question": "PERT uses which type of time estimation?",
+    "options": {
+      "a": "One-time estimate",
+      "b": "Three-time estimates",
+      "c": "Only pessimistic time",
+      "d": "Only average time"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.95",
+    "question": "In PERT, the expected time (TE) is calculated using the formula __.",
+    "options": {
+      "a": "(O+P+M)/2",
+      "b": "(O+4M+P)/6",
+      "c": "(O+M+P)/3",
+      "d": "(O+3M+P)/5"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.96",
+    "question": "PERT is best suited for __.",
+    "options": {
+      "a": "Repetitive projects",
+      "b": "Research and development projects",
+      "c": "Construction projects only",
+      "d": "Manufacturing plants"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.97",
+    "question": "Which of the following statements is true about PERT and CPM?",
+    "options": {
+      "a": "PERT deals with uncertain time, CPM with fixed time",
+      "b": "CPM deals with uncertain time, PERT with fixed time",
+      "c": "Both are the same",
+      "d": "Both ignore costs"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "2.98",
+    "question": "A Gantt chart is used for __.",
+    "options": {
+      "a": "Scheduling and tracking progress of activities",
+      "b": "Budget estimation only",
+      "c": "Identifying project risks",
+      "d": "Managing only manpower"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "2.99",
+    "question": "Who developed the Gantt Chart?",
+    "options": {
+      "a": "Henry Gantt",
+      "b": "Frederick Taylor",
+      "c": "Peter Drucker",
+      "d": "Elton Mayo"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "2.100",
+    "question": "In a Gantt chart, the horizontal bars represent __.",
+    "options": {
+      "a": "Activities and their duration",
+      "b": "Employees and salaries",
+      "c": "Project cost",
+      "d": "Risks and constraints"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "2.101",
+    "question": "A Gantt chart is most useful for __.",
+    "options": {
+      "a": "Visualizing timelines and overlapping activities",
+      "b": "Financial accounting",
+      "c": "Quality control",
+      "d": "Manpower recruitment"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "2.102",
+    "question": "One limitation of the Gantt chart is __.",
+    "options": {
+      "a": "It cannot show task sequence or dependency clearly",
+      "b": "It cannot display time duration",
+      "c": "It requires special software",
+      "d": "It is only used in small projects"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "2.103",
+    "question": "In project management, an estimate refers to __.",
+    "options": {
+      "a": "Guessing project profits",
+      "b": "Approximating cost, time and resources required",
+      "c": "Only manpower planning",
+      "d": "Predicting future profits"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.104",
+    "question": "The process of estimating total cost of the project is called __.",
+    "options": {
+      "a": "Cost budgeting",
+      "b": "Cost control",
+      "c": "Financial forecasting",
+      "d": "Time scheduling"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "2.105",
+    "question": "A project budget is __.",
+    "options": {
+      "a": "A fixed amount for project promotion",
+      "b": "A financial plan showing expected costs and allocations",
+      "c": "Only a record of past expenses",
+      "d": "An informal guess of project spending"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.106",
+    "question": "Which of the following is NOT an objective of budgeting?",
+    "options": {
+      "a": "Controlling project expenditure",
+      "b": "Tracking progress and efficiency",
+      "c": "Wasting resources intentionally",
+      "d": "Ensuring financial discipline"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "2.107",
+    "question": "A good cost estimate should be __.",
+    "options": {
+      "a": "Random and approximate",
+      "b": "Accurate, realistic and based on data",
+      "c": "Based on opinions only",
+      "d": "Avoided in short projects"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "2.108",
+    "question": "Budget monitoring during project execution helps in __.",
+    "options": {
+      "a": "Identifying cost overruns early",
+      "b": "Reducing teamwork",
+      "c": "Ignoring financial goals",
+      "d": "Increasing unnecessary costs"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "2.109",
+    "question": "Which of the following tools can be used together with budgeting for time control?",
+    "options": {
+      "a": "PERT and CPM",
+      "b": "SWOT analysis",
+      "c": "Fishbone diagram",
+      "d": "Pareto chart"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "2.110",
+    "question": "The main relationship among CPM, PERT and Gantt chart is that __.",
+    "options": {
+      "a": "All are planning and scheduling tools in project management",
+      "b": "All are budgeting tools",
+      "c": "All are quality control tools",
+      "d": "None of the above"
+    },
+    "answer": "a"
   }
 ]

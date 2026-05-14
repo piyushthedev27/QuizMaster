@@ -13,6 +13,9 @@ export async function GET() {
     const questionCount = await prisma.question.count();
     const unit1QuestionCount = await prisma.unit1Question.count();
     const unit2QuestionCount = await prisma.unit2Question.count();
+    const unit3QuestionCount = await prisma.unit3Question.count();
+    const unit4QuestionCount = await prisma.unit4Question.count();
+    const unit5QuestionCount = await prisma.unit5Question.count();
 
     return NextResponse.json({
       status: 'healthy',
@@ -21,7 +24,10 @@ export async function GET() {
         responseTime: `${responseTime}ms`,
         questionCount,
         unit1QuestionCount,
-        unit2QuestionCount
+        unit2QuestionCount,
+        unit3QuestionCount,
+        unit4QuestionCount,
+        unit5QuestionCount
       },
       timestamp: new Date().toISOString()
     });

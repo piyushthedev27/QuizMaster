@@ -19,6 +19,9 @@ export interface QuizAttemptData {
   answers: (AnswerOption | null)[];
   userEmail?: string;
   username?: string;
+  unit?: string;
+  totalQuestions?: number;
+  sessionId?: string;
 }
 
 export class ResultCalculator {
@@ -41,7 +44,10 @@ export class ResultCalculator {
       timeTaken: results.timeTaken,
       answers: session.answers,
       userEmail: userEmail || undefined,
-      username: username || undefined
+      username: username || undefined,
+      unit: session.unit,
+      totalQuestions: session.totalQuestions,
+      sessionId: session.id
     };
 
     // Save to database
@@ -119,13 +125,28 @@ export class ResultCalculator {
         }
       });
       
+      // Check if this session has already been saved to prevent duplicates
+      if (attemptData.sessionId) {
+        const existingAttempt = await prisma.quizAttempt.findUnique({
+          where: { sessionId: attemptData.sessionId }
+        });
+        
+        if (existingAttempt) {
+          console.log(`Quiz attempt for session ${attemptData.sessionId} already exists. Skipping save.`);
+          return existingAttempt;
+        }
+      }
+
       const savedAttempt = await prisma.quizAttempt.create({
         data: {
           userId: attemptData.userId,
           score: attemptData.score,
           accuracy: attemptData.accuracy,
           timeTaken: attemptData.timeTaken,
-          answers: attemptData.answers
+          answers: attemptData.answers,
+          unit: attemptData.unit,
+          totalQuestions: attemptData.totalQuestions,
+          sessionId: attemptData.sessionId
         },
         include: {
           user: {
@@ -246,6 +267,8 @@ export class ResultCalculator {
         answers: attempt.answers,
         createdAt: attempt.createdAt,
         user: attempt.user,
+        unit: attempt.unit,
+        totalQuestions: attempt.totalQuestions,
         rank: offset + index + 1,
         userRank: attempt.userRank // Which attempt this is for the user (1st, 2nd, or 3rd best)
       }));
@@ -304,6 +327,8 @@ export class ResultCalculator {
 
       return {
         ...bestAttempt,
+        unit: bestAttempt.unit,
+        totalQuestions: bestAttempt.totalQuestions,
         globalRank,
         totalAttempts
       };

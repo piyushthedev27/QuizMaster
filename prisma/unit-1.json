@@ -1,17 +1,182 @@
 [
   {
-    "id": "1",
-    "question": "Management provides to employees.",
+    "id": "1.1",
+    "question": "\"Management is both a science and an art\" in India evolved through how many broad stages?",
     "options": {
-      "a": "Competition and stress",
-      "b": "Leadership and direction",
-      "c": "Confusion",
-      "d": "Isolation"
+      "a": "Three",
+      "b": "Four",
+      "c": "Five",
+      "d": "Six"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.2",
+    "question": "Which bodies in the Vedic era reflected early democratic decision-making?",
+    "options": {
+      "a": "Panchayat and Nyaya",
+      "b": "Sabha and Samiti",
+      "c": "Sabha and Panchayat",
+      "d": "Samiti and Nyaya"
     },
     "answer": "b"
   },
   {
-    "id": "2",
+    "id": "1.3",
+    "question": "Who authored the Arthashastra?",
+    "options": {
+      "a": "Megasthenes",
+      "b": "Ashoka",
+      "c": "Kautilya (Chanakya)",
+      "d": "Kalidasa"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.4",
+    "question": "A core idea from Arthashastra that mirrors modern HR is",
+    "options": {
+      "a": "Job rotation",
+      "b": "Selection by merit and training before duty",
+      "c": "Open-book management",
+      "d": "Profit sharing"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.5",
+    "question": "In Arthashastra, which practice ensured accountability?",
+    "options": {
+      "a": "Guild formation",
+      "b": "Trial marketing",
+      "c": "Regular inspection and control",
+      "d": "Outsourcing audits"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.6",
+    "question": "The ethical leadership view in Arthashastra positions the king as",
+    "options": {
+      "a": "Absolute ruler",
+      "b": "Servant of the people",
+      "c": "Divine authority",
+      "d": "Military commander only"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.7",
+    "question": "The Delhi Sultanate's finance department was known as",
+    "options": {
+      "a": "Diwan-i-Arz",
+      "b": "Diwan-i-Wizarat",
+      "c": "Diwan-i-Insha",
+      "d": "Diwan-i-Riyasat"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.8",
+    "question": "Diwan-i-Arz primarily related to",
+    "options": {
+      "a": "Justice",
+      "b": "Revenue",
+      "c": "Military",
+      "d": "Foreign affairs"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.9",
+    "question": "Under Akbar, the system that classified officers by rank and performance was the",
+    "options": {
+      "a": "Iqta system",
+      "b": "Mansabdari system",
+      "c": "Jagirdari system",
+      "d": "Zamindari system"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.10",
+    "question": "Standardized land surveys and revenue rates across provinces are associated with",
+    "options": {
+      "a": "Alauddin Khalji",
+      "b": "Sher Shah Suri",
+      "c": "Raja Todar Mal under Akbar",
+      "d": "Aurangzeb"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.11",
+    "question": "The British East India Company primarily introduced which administrative feature?",
+    "options": {
+      "a": "Guild-based production",
+      "b": "Decentralized communes",
+      "c": "Formal bureaucracy with hierarchy and delegation",
+      "d": "Caste-based offices"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.12",
+    "question": "Large infrastructure like railways and irrigation in colonial India required",
+    "options": {
+      "a": "Minimal planning",
+      "b": "Ad-hoc budgeting",
+      "c": "Large-scale planning and control",
+      "d": "Only community volunteering"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.13",
+    "question": "Jamsetji Tata and G.D. Birla exemplified adoption of",
+    "options": {
+      "a": "Guild socialism",
+      "b": "Scientific management in factories",
+      "c": "Pure laissez-faire",
+      "d": "Only artisanal methods"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.14",
+    "question": "Early Indian industrialists emphasized employer welfare including",
+    "options": {
+      "a": "Only wages",
+      "b": "Housing, education and healthcare",
+      "c": "Military training",
+      "d": "Free travel abroad"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.15",
+    "question": "Post-Independence strategic management at the national level is best reflected by",
+    "options": {
+      "a": "Annual budgets only",
+      "b": "The Planning Commission and Five-Year Plans",
+      "c": "Privatization of all industries",
+      "d": "Village courts"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.16",
+    "question": "Examples of PSUs needing professional management include",
+    "options": {
+      "a": "Flipkart, Paytm, Zomato",
+      "b": "BHEL, ONGC, SAIL",
+      "c": "HUL, ITC, Maruti",
+      "d": "Infosys, Wipro, TCS"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.17",
     "question": "The first IIM established in 1961 was at",
     "options": {
       "a": "Ahmedabad",
@@ -19,21 +184,65 @@
       "c": "Calcutta (Kolkata)",
       "d": "Lucknow"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
-    "id": "3",
-    "question": "Henry Fayol is known as the",
+    "id": "1.18",
+    "question": "The idea that \"every engineer must also be a manager\" led to",
     "options": {
-      "a": "Father of Scientific Management",
-      "b": "Father of Modern Management",
-      "c": "Father of Psychology",
-      "d": "Father of Quality Control"
+      "a": "Ending engineering programs",
+      "b": "Management in technical curricula (AICTE/MSBTE)",
+      "c": "Only foreign MBAs",
+      "d": "Removing labs from colleges"
     },
     "answer": "b"
   },
   {
-    "id": "4",
+    "id": "1.19",
+    "question": "Rural co-operative success associated with Amul is credited to",
+    "options": {
+      "a": "J.R.D. Tata",
+      "b": "Dr. Verghese Kurien",
+      "c": "Dhirubhai Ambani",
+      "d": "N.R. Narayana Murthy"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.20",
+    "question": "In the modern era, which trend reflects technology-driven management?",
+    "options": {
+      "a": "Barter systems",
+      "b": "AI, data analytics, ERP, project software",
+      "c": "Handwritten ledgers",
+      "d": "Guild councils"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.21",
+    "question": "Government support for entrepreneurial risk-taking is seen in",
+    "options": {
+      "a": "Swachh Bharat",
+      "b": "Make in India",
+      "c": "Startup India",
+      "d": "Digital India only"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.22",
+    "question": "A modern emphasis alongside efficiency is leadership that is",
+    "options": {
+      "a": "Purely profit-centric",
+      "b": "Authoritarian",
+      "c": "Ethical and sustainable",
+      "d": "Military style"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.23",
     "question": "Blending East and West in Indian management typically means",
     "options": {
       "a": "Western ethics with Indian efficiency",
@@ -44,7 +253,139 @@
     "answer": "b"
   },
   {
-    "id": "5",
+    "id": "1.24",
+    "question": "Which organization is highlighted for long-term vision and ethics?",
+    "options": {
+      "a": "Infosys",
+      "b": "Tata Group",
+      "c": "Reliance Jio",
+      "d": "Delhi Sultanate"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.25",
+    "question": "Which company is noted for knowledge management and teamwork?",
+    "options": {
+      "a": "Infosys",
+      "b": "ONGC",
+      "c": "BHEL",
+      "d": "East India Company"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "1.26",
+    "question": "Which is praised for large-scale project planning and global strategy?",
+    "options": {
+      "a": "SAIL",
+      "b": "Reliance Industries",
+      "c": "Amul",
+      "d": "AICTE"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.27",
+    "question": "Which ancient councils exemplified group decision-making and policy discussion?",
+    "options": {
+      "a": "Sabha & Samiti",
+      "b": "Lok Sabha & Rajya Sabha",
+      "c": "Guild & Commune",
+      "d": "Parishad & Sabha ONLY in medieval era"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "1.28",
+    "question": "A key continuity from Arthashastra to modern management is reliance on",
+    "options": {
+      "a": "Luck and charisma",
+      "b": "Planning, control and ethical administration",
+      "c": "Military coercion",
+      "d": "Outsider consultants alone"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.29",
+    "question": "The Mughal administrative emphasis on reports and inspections primarily supported",
+    "options": {
+      "a": "Central taxation only",
+      "b": "Discipline, communication and control across a vast empire",
+      "c": "Court entertainment",
+      "d": "Religious conversions"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.30",
+    "question": "The overall lesson from India's management evolution is that, progress comes from",
+    "options": {
+      "a": "Static traditions",
+      "b": "Random innovation",
+      "c": "Continuous adaptation of organization, people and ethics to context",
+      "d": "Importing foreign methods unchanged"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.31",
+    "question": "Management means",
+    "options": {
+      "a": "Getting things done by oneself",
+      "b": "Getting things done through others efficiently and effectively",
+      "c": "Supervising workers only",
+      "d": "Planning for the future only"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.32",
+    "question": "According to F.W. Taylor, management is",
+    "options": {
+      "a": "The science of delegation",
+      "b": "The art of knowing what you want men to do and ensuring they do it efficiently",
+      "c": "The control of subordinates",
+      "d": "The theory of leadership"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.33",
+    "question": "Henry Fayol defined management as",
+    "options": {
+      "a": "To plan, control and evaluate",
+      "b": "To forecast, to plan, to organize, to command, to co-ordinate and to control",
+      "c": "To inspire and motivate only",
+      "d": "To manage finances only"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.34",
+    "question": "The main aim of management is",
+    "options": {
+      "a": "Profit maximization only",
+      "b": "Resource wastage",
+      "c": "Achievement of organizational goals",
+      "d": "Employee satisfaction only"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.35",
+    "question": "Which of the following best defines management?",
+    "options": {
+      "a": "A science only",
+      "b": "An art only",
+      "c": "Both a science and an art",
+      "d": "Neither a science nor an art"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.36",
     "question": "The first and most important function of management is",
     "options": {
       "a": "Planning",
@@ -55,194 +396,172 @@
     "answer": "a"
   },
   {
-    "id": "6",
-    "question": "Morphological Analysis was developed by",
+    "id": "1.37",
+    "question": "Which of the following is NOT a resource managed by management?",
     "options": {
-      "a": "Peter Drucker",
-      "b": "Fritz Zwicky",
-      "c": "Alex Osborn",
-      "d": "Tony Buzan"
+      "a": "Men",
+      "b": "Machines",
+      "c": "Money",
+      "d": "Weather"
     },
-    "answer": "b"
+    "answer": "d"
   },
   {
-    "id": "7",
-    "question": "In SCAMPER, 'E' stands for",
+    "id": "1.38",
+    "question": "The importance of management lies mainly in",
     "options": {
-      "a": "Expand",
-      "b": "Estimate",
-      "c": "Eliminate",
-      "d": "Engage"
-    },
-    "answer": "c"
-  },
-  {
-    "id": "8",
-    "question": "In a Gantt chart, the horizontal bars represent",
-    "options": {
-      "a": "Activities and their duration",
-      "b": "Employees and salaries",
-      "c": "Project cost",
-      "d": "Risks and constraints"
+      "a": "Achieving goals efficiently",
+      "b": "Following traditions",
+      "c": "Avoiding innovation",
+      "d": "Working without planning"
     },
     "answer": "a"
   },
   {
-    "id": "9",
-    "question": "The SMART principle in goal setting means",
+    "id": "1.39",
+    "question": "Management ensures optimum use of",
     "options": {
-      "a": "Strong, Moral, Active, Real, Timely",
-      "b": "Specific, Measurable, Achievable, Relevant, Time-bound",
-      "c": "Simple, Motivated, Accurate, Reliable, Tough",
-      "d": "Sharp, Major, Available, Realistic, Targeted"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "10",
-    "question": "Budget monitoring during project execution helps in",
-    "options": {
-      "a": "Identifying cost overruns early",
-      "b": "Reducing teamwork",
-      "c": "Ignoring financial goals",
-      "d": "Increasing unnecessary costs"
-    },
-    "answer": "a"
-  },
-  {
-    "id": "11",
-    "question": "After every sprint, Agile teams should",
-    "options": {
-      "a": "Ignore results",
-      "b": "Reflect, learn and improve",
-      "c": "Start a new project immediately",
-      "d": "Take a long break"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "12",
-    "question": "Work-life balance means",
-    "options": {
-      "a": "Giving priority only to work",
-      "b": "Managing professional and personal life effectively",
-      "c": "Ignoring family responsibilities",
-      "d": "Working without breaks"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "13",
-    "question": "Using tools like Gantt Charts or PERT is part of",
-    "options": {
-      "a": "Risk management",
-      "b": "Schedule (Time) management",
-      "c": "Procurement management",
-      "d": "Cost estimation"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "14",
-    "question": "The correct order of management levels from top to bottom is",
-    "options": {
-      "a": "Supervisory → Middle → Top",
-      "b": "Top → Supervisory → Middle",
-      "c": "Top → Middle → Supervisory",
-      "d": "Middle → Top → Supervisory"
-    },
-    "answer": "c"
-  },
-  {
-    "id": "15",
-    "question": "Henry Fayol defined management as",
-    "options": {
-      "a": "To plan, control and evaluate",
-      "b": "To forecast, plan, organize, command, coordinate and control",
-      "c": "To inspire and motivate only",
-      "d": "To manage finances only"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "16",
-    "question": "Project management primarily helps organizations to",
-    "options": {
-      "a": "Increase paperwork",
-      "b": "Plan, organize and complete projects successfully",
-      "c": "Delay project deadlines",
-      "d": "Avoid teamwork"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "17",
-    "question": "Which practice helps in maintaining work-life balance?",
-    "options": {
-      "a": "Taking work everywhere",
-      "b": "Prioritizing rest, hobbies and family time",
-      "c": "Ignoring personal needs",
-      "d": "Working 24x7"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "18",
-    "question": "Coordination is called the essence of management because",
-    "options": {
-      "a": "It is a separate function",
-      "b": "It runs through all other functions",
-      "c": "It replaces all functions",
-      "d": "It is optional"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "19",
-    "question": "Effective feedback should be",
-    "options": {
-      "a": "Late and emotional",
-      "b": "Timely, specific and respectful",
-      "c": "Harsh and vague",
-      "d": "Ignored by the receiver"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "20",
-    "question": "One of the biggest advantages of Agile is",
-    "options": {
-      "a": "High documentation and strict plans",
-      "b": "Better flexibility and adaptability",
-      "c": "No customer involvement",
-      "d": "Working alone"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "21",
-    "question": "Which is a key need for NPD?",
-    "options": {
-      "a": "Stable customer preferences",
-      "b": "Lack of competition",
-      "c": "Technological advancements",
+      "a": "Limited resources",
+      "b": "Only manpower",
+      "c": "Only money",
       "d": "Unlimited resources"
     },
-    "answer": "c"
+    "answer": "a"
   },
   {
-    "id": "22",
-    "question": "Supervisors and foremen mainly perform which function?",
+    "id": "1.40",
+    "question": "Co-ordination in management helps to",
     "options": {
-      "a": "Policy making",
-      "b": "Controlling and directing day-to-day operations",
-      "c": "Budget forecasting",
-      "d": "External relations"
+      "a": "Create competition between departments",
+      "b": "Bring unity among departments",
+      "c": "Increase confusion",
+      "d": "Reduce teamwork"
     },
     "answer": "b"
   },
   {
-    "id": "23",
+    "id": "1.41",
+    "question": "Good management increases productivity by",
+    "options": {
+      "a": "Increasing workload",
+      "b": "Motivating employees and monitoring performance",
+      "c": "Reducing employee benefits",
+      "d": "Ignoring supervision"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.42",
+    "question": "Encouraging creativity and new ideas is related to which importance of management?",
+    "options": {
+      "a": "Optimum use of resources",
+      "b": "Encouraging innovation",
+      "c": "Reducing cost",
+      "d": "Building teamwork"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.43",
+    "question": "Sound management ensures",
+    "options": {
+      "a": "Short-term profit only",
+      "b": "Instability and loss",
+      "c": "Stability and long-term growth",
+      "d": "Constant change without planning"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.44",
+    "question": "A well-managed organization maintains",
+    "options": {
+      "a": "Poor reputation",
+      "b": "No contact with society",
+      "c": "Good public image and goodwill",
+      "d": "Isolation from customers"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.45",
+    "question": "Management provides _______ to employees.",
+    "options": {
+      "a": "Competition and stress",
+      "b": "Leadership and direction",
+      "c": "Confusion",
+      "d": "Isolation"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.46",
+    "question": "Effective management contributes to",
+    "options": {
+      "a": "Personal benefit of managers only",
+      "b": "National development and growth",
+      "c": "Reduced productivity",
+      "d": "Employee turnover"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.47",
+    "question": "The main purpose of management is to achieve goals by",
+    "options": {
+      "a": "Using resources efficiently and effectively",
+      "b": "Avoiding co-ordination",
+      "c": "Increasing cost",
+      "d": "Reducing innovation"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "1.48",
+    "question": "Globalization is a management challenge related to",
+    "options": {
+      "a": "Domestic trade only",
+      "b": "Managing cross-cultural teams and global competition",
+      "c": "Local governance",
+      "d": "Regional finance"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.49",
+    "question": "Technological changes challenge managers to",
+    "options": {
+      "a": "Ignore innovation",
+      "b": "Adapt to automation and digital tools",
+      "c": "Avoid AI",
+      "d": "Work manually only"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.50",
+    "question": "Employee motivation is difficult because",
+    "options": {
+      "a": "All employees are the same",
+      "b": "Work environments are stress-free",
+      "c": "Employees have different needs and expectations",
+      "d": "No rewards are needed"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.51",
+    "question": "Resource management challenge means",
+    "options": {
+      "a": "Wasting resources intentionally",
+      "b": "Balancing limited time, money and manpower",
+      "c": "Ignoring financial planning",
+      "d": "Using resources carelessly"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.52",
     "question": "Ethical issues in management involve",
     "options": {
       "a": "Dishonesty and corruption",
@@ -253,8 +572,41 @@
     "answer": "b"
   },
   {
-    "id": "24",
-    "question": "Who is known as the Father of Scientific Management?",
+    "id": "1.53",
+    "question": "Changing government policies require managers to",
+    "options": {
+      "a": "Stay rigid",
+      "b": "Adjust to new laws and regulations",
+      "c": "Ignore compliance",
+      "d": "Resist taxation"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.54",
+    "question": "Communication barriers affect management by",
+    "options": {
+      "a": "Improving co-ordination",
+      "b": "Ensuring clear information flow",
+      "c": "Disturbing smooth flow of information",
+      "d": "Enhancing teamwork"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.55",
+    "question": "Crisis management refers to",
+    "options": {
+      "a": "Handling normal operations only",
+      "b": "Ignoring emergency problems",
+      "c": "Dealing with unexpected events like strikes or disasters",
+      "d": "Avoiding decision-making"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.56",
+    "question": "Who is known as the 'Father of Scientific Management'?",
     "options": {
       "a": "Henry Fayol",
       "b": "Peter Drucker",
@@ -264,109 +616,263 @@
     "answer": "c"
   },
   {
-    "id": "25",
-    "question": "Which statement is true about PERT and CPM?",
+    "id": "1.57",
+    "question": "Scientific Management is mainly concerned with",
     "options": {
-      "a": "PERT deals with uncertain time, CPM with fixed time",
-      "b": "CPM deals with uncertain time, PERT with fixed time",
-      "c": "Both are the same",
-      "d": "Both ignore costs"
-    },
-    "answer": "a"
-  },
-  {
-    "id": "26",
-    "question": "One limitation of the Gantt chart is",
-    "options": {
-      "a": "It cannot show task dependency clearly",
-      "b": "It cannot display time duration",
-      "c": "It requires special software",
-      "d": "It is only used in small projects"
-    },
-    "answer": "a"
-  },
-  {
-    "id": "27",
-    "question": "Accept Changes Anytime means",
-    "options": {
-      "a": "Only managers suggest changes",
-      "b": "Teams resist new ideas",
-      "c": "Teams can adjust to new requirements anytime",
-      "d": "Products should never be modified"
-    },
-    "answer": "c"
-  },
-  {
-    "id": "28",
-    "question": "Example of decision-making",
-    "options": {
-      "a": "Choosing a career based on aptitude",
-      "b": "Copying others",
-      "c": "Avoiding decisions",
-      "d": "Acting without thinking"
-    },
-    "answer": "a"
-  },
-  {
-    "id": "29",
-    "question": "In the 4Ps, People refers to",
-    "options": {
-      "a": "Only customers",
-      "b": "All individuals involved in the project",
-      "c": "Only management",
-      "d": "Suppliers only"
+      "a": "Personal opinions and traditions",
+      "b": "Scientific study and standardization of work",
+      "c": "Political decision-making",
+      "d": "Financial accounting"
     },
     "answer": "b"
   },
   {
-    "id": "30",
-    "question": "Mughal administrative emphasis on reports supported",
+    "id": "1.58",
+    "question": "The main objective of Scientific Management is",
     "options": {
-      "a": "Central taxation only",
-      "b": "Discipline, communication and control",
-      "c": "Court entertainment",
-      "d": "Religious conversions"
+      "a": "Maximum profit for management only",
+      "b": "Reduction in employee wages",
+      "c": "Increase in efficiency and productivity",
+      "d": "Manual labor without planning"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.59",
+    "question": "F.W. Taylor introduced his ideas during which period?",
+    "options": {
+      "a": "Late 18th century",
+      "b": "Early 20th century",
+      "c": "Mid-19th century",
+      "d": "Late 20th century"
     },
     "answer": "b"
   },
   {
-    "id": "31",
-    "question": "Which benefit is associated with sustainability?",
+    "id": "1.60",
+    "question": "Scientific Management emphasizes",
     "options": {
-      "a": "Higher legal risk",
-      "b": "Lower employee satisfaction",
-      "c": "Long-term growth and risk reduction",
-      "d": "Less compliance with laws"
+      "a": "Trial and error methods",
+      "b": "Random decision-making",
+      "c": "The \"one best way\" to do a job",
+      "d": "Ignoring workers' opinions"
     },
     "answer": "c"
   },
   {
-    "id": "32",
-    "question": "Which is NOT an advantage of CPM?",
+    "id": "1.61",
+    "question": "Which of the following is not a principle of Scientific Management?",
     "options": {
-      "a": "Helps in scheduling",
-      "b": "Identifies critical activities",
-      "c": "Ignores time estimation",
-      "d": "Assists in resource planning"
+      "a": "Science, not Rule of Thumb",
+      "b": "Harmony, not Discord",
+      "c": "Co-operation, not Individualism",
+      "d": "Profit Maximization only"
     },
-    "answer": "c"
+    "answer": "d"
   },
   {
-    "id": "33",
-    "question": "Which factor ensures project completion on time?",
+    "id": "1.62",
+    "question": "Taylor suggested replacing 'Rule of Thumb' with",
     "options": {
-      "a": "Time management",
-      "b": "Customer surveys",
-      "c": "Market research",
-      "d": "Advertising"
+      "a": "Personal judgment",
+      "b": "Scientific analysis and study",
+      "c": "Worker intuition",
+      "d": "Common sense"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.63",
+    "question": "Time study, motion study and work study are used to:",
+    "options": {
+      "a": "Increase conflicts",
+      "b": "Find the most efficient method of doing work",
+      "c": "Reduce the number of workers",
+      "d": "Avoid supervision"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.64",
+    "question": "The principle \"Harmony, not Discord\" emphasizes",
+    "options": {
+      "a": "Conflict between labor and management",
+      "b": "Mutual co-operation and unity",
+      "c": "Strict control and punishment",
+      "d": "Working individually without co-ordination"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.65",
+    "question": "According to Taylor, success in management depends on",
+    "options": {
+      "a": "Mutual co-operation between workers and management",
+      "b": "Competition among workers",
+      "c": "Strict supervision only",
+      "d": "Firing underperformers"
     },
     "answer": "a"
   },
   {
-    "id": "34",
+    "id": "1.66",
+    "question": "The idea \"Co-operation, not Individualism\" means",
+    "options": {
+      "a": "Workers should work independently",
+      "b": "Both management and workers should work as partners",
+      "c": "Management should work alone",
+      "d": "Individual workers should dominate"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.67",
+    "question": "Which of the following helps build trust and reduce disputes?",
+    "options": {
+      "a": "Exploiting workers",
+      "b": "Sharing profits and incentives",
+      "c": "Ignoring complaints",
+      "d": "Increasing working hours"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.68",
+    "question": "Taylor believed that workers should be trained",
+    "options": {
+      "a": "Informally by senior employees",
+      "b": "Through a systematic scientific method",
+      "c": "Without supervision",
+      "d": "Only when mistakes occur"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.69",
+    "question": "\"Development of each worker to his greatest efficiency\" means",
+    "options": {
+      "a": "Giving promotions only to seniors",
+      "b": "Selecting and training the right person for the right job",
+      "c": "Hiring untrained workers",
+      "d": "Ignoring worker growth"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.70",
+    "question": "Which of the following best describes Taylor's overall goal?",
+    "options": {
+      "a": "Reduce cost and increase efficiency for both management and workers",
+      "b": "Focus on profits only",
+      "c": "Promote individualism",
+      "d": "Avoid worker participation"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "1.71",
+    "question": "Henry Fayol is known as the",
+    "options": {
+      "a": "Father of Scientific Management",
+      "b": "Father of Modern Management",
+      "c": "Father of Psychology",
+      "d": "Father of Quality Control"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.72",
+    "question": "The main difference between Taylor and Fayol is that",
+    "options": {
+      "a": "Taylor focused on factory operations, Fayol on overall administration",
+      "b": "Both focused only on workers",
+      "c": "Fayol was against planning",
+      "d": "Taylor ignored productivity"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "1.73",
+    "question": "Taylor's approach is mainly applicable at",
+    "options": {
+      "a": "Top management level",
+      "b": "Middle management",
+      "c": "Shop-floor or supervisory level",
+      "d": "Corporate planning level"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.74",
+    "question": "Fayol's management ideas are mainly useful for",
+    "options": {
+      "a": "Laborers only",
+      "b": "Entire administrative organization and management",
+      "c": "Manual workers",
+      "d": "Clerical staff only"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.75",
+    "question": "The principle \"Harmony, not Discord\" aims to replace",
+    "options": {
+      "a": "Co-operation with conflict",
+      "b": "\"Us versus them\" attitude with teamwork",
+      "c": "Scientific study with personal judgment",
+      "d": "Rewards with punishments"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.76",
+    "question": "Self-management means",
+    "options": {
+      "a": "Managing others' work",
+      "b": "Taking responsibility for one's own action, emotions and time",
+      "c": "Delegating tasks to subordinates",
+      "d": "Avoiding personal decisions"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.77",
+    "question": "The foundation of self-management is",
+    "options": {
+      "a": "Self-discipline",
+      "b": "Self-awareness",
+      "c": "Time management",
+      "d": "Stress management"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.78",
+    "question": "A self-aware person",
+    "options": {
+      "a": "Ignores emotions",
+      "b": "Understands strengths, weaknesses and feelings",
+      "c": "Depends on others for feedback",
+      "d": "Avoids self-reflection"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.79",
+    "question": "Which method helps to improve self-awareness?",
+    "options": {
+      "a": "Watching television",
+      "b": "Maintaining a daily self-reflection journal",
+      "c": "Avoiding feedback",
+      "d": "Ignoring mistakes"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.80",
     "question": "Self-discipline means",
     "options": {
-      "a": "Controlling impulses to stay focused",
+      "a": "Controlling impulses to stay focused on goals",
       "b": "Acting without thinking",
       "c": "Avoiding commitments",
       "d": "Doing tasks randomly"
@@ -374,30 +880,1207 @@
     "answer": "a"
   },
   {
-    "id": "35",
-    "question": "In Six Thinking Hats, Blue Hat handles",
+    "id": "1.81",
+    "question": "The bridge between goals and achievement is",
     "options": {
-      "a": "Feelings",
-      "b": "Benefits",
-      "c": "Process and control",
-      "d": "Data"
-    },
-    "answer": "c"
-  },
-  {
-    "id": "36",
-    "question": "Critical path activities have",
-    "options": {
-      "a": "Some float",
-      "b": "No float",
-      "c": "Double duration",
-      "d": "Extra resources"
+      "a": "Motivation",
+      "b": "Discipline",
+      "c": "Luck",
+      "d": "Co-operation"
     },
     "answer": "b"
   },
   {
-    "id": "37",
-    "question": "When both parties give up something",
+    "id": "1.82",
+    "question": "Self-disciplined people are known for",
+    "options": {
+      "a": "Laziness and delay",
+      "b": "Consistency and punctuality",
+      "c": "Carelessness",
+      "d": "Irresponsibility"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.83",
+    "question": "Which of the following is not a way to improve self-discipline?",
+    "options": {
+      "a": "Avoiding procrastination",
+      "b": "Rewarding yourself for timely work",
+      "c": "Ignoring your schedule",
+      "d": "Making a daily routine"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.84",
+    "question": "Self-motivation means",
+    "options": {
+      "a": "Relying on others for encouragement",
+      "b": "Working only under supervision",
+      "c": "Having an inner drive to achieve goals",
+      "d": "Avoiding responsibility"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.85",
+    "question": "Motivation that comes from internal satisfaction is called",
+    "options": {
+      "a": "Extrinsic motivation",
+      "b": "Intrinsic motivation",
+      "c": "External motivation",
+      "d": "Indirect motivation"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.86",
+    "question": "Example of self-motivation is",
+    "options": {
+      "a": "Studying only when forced by parents",
+      "b": "Preparing daily for an exam inspired by a dream career",
+      "c": "Quitting after one failure",
+      "d": "Avoiding competition"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.87",
+    "question": "The SMART principle in goal setting means",
+    "options": {
+      "a": "Strong, Moral, Active, Real, Timely",
+      "b": "Specific, Measurable, Achievable, Relevant, Time-bound",
+      "c": "Simple, Motivated, Accurate, Reliable, Tough",
+      "d": "Sharp, Major, Available, Realistic, Targeted"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.88",
+    "question": "Without goals, effort becomes",
+    "options": {
+      "a": "Focused",
+      "b": "Scattered and directionless",
+      "c": "Highly productive",
+      "d": "Well-planned"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.89",
+    "question": "Which of the following is a SMART goal?",
+    "options": {
+      "a": "\"I want to study someday\"",
+      "b": "\"I will complete my diploma with distinction in 3 years\"",
+      "c": "\"I hope to succeed one day\"",
+      "d": "\"Maybe I'll try hard this year\""
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.90",
+    "question": "Time management means",
+    "options": {
+      "a": "Doing everything at once",
+      "b": "Using time efficiently for work and rest",
+      "c": "Wasting time on unimportant tasks",
+      "d": "Avoiding schedules"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.91",
+    "question": "Which is a good time-management practice?",
+    "options": {
+      "a": "Avoiding planning",
+      "b": "Using a daily or weekly schedule",
+      "c": "Doing urgent work last",
+      "d": "Ignoring priorities"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.92",
+    "question": "The most valuable, non-renewable resource is",
+    "options": {
+      "a": "Money",
+      "b": "Time",
+      "c": "Technology",
+      "d": "Energy"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.93",
+    "question": "A good decision maker is",
+    "options": {
+      "a": "Emotional and confused",
+      "b": "Logical, confident and responsible",
+      "c": "Dependent on others",
+      "d": "Hesitant and fearful"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.94",
+    "question": "The first step in decision-making is",
+    "options": {
+      "a": "Implement the choice immediately",
+      "b": "Identify the problem",
+      "c": "Ask for random opinions",
+      "d": "Evaluate all options first"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.95",
+    "question": "Example of decision-making",
+    "options": {
+      "a": "Choosing a career branch based on aptitude and demand",
+      "b": "Copying others' choices",
+      "c": "Avoiding decisions",
+      "d": "Acting without thinking"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "1.96",
+    "question": "Which of these helps improve decision-making?",
+    "options": {
+      "a": "Acting emotionally",
+      "b": "Learning from past experiences",
+      "c": "Ignoring advice",
+      "d": "Avoiding responsibility"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.97",
+    "question": "Stress management means",
+    "options": {
+      "a": "Avoiding all work pressure",
+      "b": "Handling stress calmly and positively",
+      "c": "Ignoring emotional health",
+      "d": "Increasing anxiety intentionally"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.98",
+    "question": "Positive stress that motivates is called",
+    "options": {
+      "a": "Distress",
+      "b": "Eustress",
+      "c": "Overstress",
+      "d": "Hyperstress"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.99",
+    "question": "Which of the following helps reduce stress?",
+    "options": {
+      "a": "Overthinking",
+      "b": "Regular exercise or meditation",
+      "c": "Skipping rest",
+      "d": "Avoiding friends and family"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.100",
+    "question": "Example of stress management",
+    "options": {
+      "a": "Taking a 10-minute relaxation break during study sessions",
+      "b": "Working continuously without rest",
+      "c": "Ignoring problems",
+      "d": "Complaining constantly"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "1.101",
+    "question": "Work-life balance means",
+    "options": {
+      "a": "Giving priority only to work",
+      "b": "Managing professional and personal life effectively",
+      "c": "Ignoring family responsibilities",
+      "d": "Working without breaks"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.102",
+    "question": "Maintaining work-life balance helps to",
+    "options": {
+      "a": "Increase burnout",
+      "b": "Improve happiness and performance",
+      "c": "Reduce productivity",
+      "d": "Eliminate teamwork"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.103",
+    "question": "Which practice helps in maintaining work-life balance?",
+    "options": {
+      "a": "Taking work everywhere",
+      "b": "Prioritizing rest, hobbies and family time",
+      "c": "Ignoring personal needs",
+      "d": "Working 24x7"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.104",
+    "question": "Multitasking means",
+    "options": {
+      "a": "Doing one task at a time",
+      "b": "Performing several activities efficiently at once",
+      "c": "Avoiding difficult work",
+      "d": "Working carelessly"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.105",
+    "question": "Smart multitasking involves:",
+    "options": {
+      "a": "Doing everything simultaneously without focus",
+      "b": "Combining similar tasks efficiently without losing quality",
+      "c": "Constantly checking the phone while studying",
+      "d": "Ignoring priorities"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.106",
+    "question": "Management aims at achieving",
+    "options": {
+      "a": "Individual satisfaction only",
+      "b": "Undefined objectives",
+      "c": "Specific organizational goals efficiently",
+      "d": "Maximum profits only"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.107",
+    "question": "The main objective of management is to",
+    "options": {
+      "a": "Waste resources",
+      "b": "Achieve goals efficiently and effectively",
+      "c": "Create conflicts among departments",
+      "d": "Avoid teamwork"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.108",
+    "question": "The term \"Universal Application\" in management means",
+    "options": {
+      "a": "Management applies only to business organizations",
+      "b": "Management applies to all types of organizations",
+      "c": "Management is limited to top executives",
+      "d": "Management principles change completely in each field"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.109",
+    "question": "Management is considered a continuous process because",
+    "options": {
+      "a": "It is done once a year",
+      "b": "It involves ongoing planning, implementation and evaluation",
+      "c": "It stops after goals are achieved",
+      "d": "It applies only during crises"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.110",
+    "question": "Management is a group activity because",
+    "options": {
+      "a": "It is performed by one individual",
+      "b": "It requires teamwork and co-ordination among people",
+      "c": "It depends only on machines",
+      "d": "It excludes employee participation"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.111",
+    "question": "Which of the following is an example of management as an intangible force?",
+    "options": {
+      "a": "Manager's attendance",
+      "b": "A written rule book",
+      "c": "Improved efficiency and disciplined workforce",
+      "d": "Office buildings"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.112",
+    "question": "Management is intangible because",
+    "options": {
+      "a": "It cannot be seen but its results are visible",
+      "b": "It is always visible",
+      "c": "It depends only on materials",
+      "d": "It can be touched physically"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "1.113",
+    "question": "Management is dynamic because",
+    "options": {
+      "a": "It remains constant forever",
+      "b": "It changes according to environment and technology",
+      "c": "It avoids new trends",
+      "d": "It works only in stable conditions"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.114",
+    "question": "The flexibility of management means",
+    "options": {
+      "a": "Rigid and fixed practices",
+      "b": "Inability to adapt",
+      "c": "Adapting to changes in business environment",
+      "d": "Ignoring competition"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.115",
+    "question": "The multidisciplinary nature of management means",
+    "options": {
+      "a": "It only studies economics",
+      "b": "It draws knowledge from various subjects like sociology, psychology and statistics",
+      "c": "It depends only on finance",
+      "d": "It ignores other disciplines"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.116",
+    "question": "Decision-making is an important function of management because",
+    "options": {
+      "a": "Managers must make choices and solve problems effectively",
+      "b": "Decisions are made by workers",
+      "c": "Decisions are always automatic",
+      "d": "Decisions are unimportant in management"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "1.117",
+    "question": "The integrating role of management refers to",
+    "options": {
+      "a": "Dividing people and resources",
+      "b": "Bringing together people, materials and money harmoniously",
+      "c": "Working independently",
+      "d": "Separating different departments"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.118",
+    "question": "Management is both a science and an art because",
+    "options": {
+      "a": "It has systematic knowledge and requires creativity",
+      "b": "It is only theoretical",
+      "c": "It is only practical experience",
+      "d": "It does not involve human skills"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "1.119",
+    "question": "Modern management is considered a profession because",
+    "options": {
+      "a": "It requires no education",
+      "b": "It requires specialized knowledge, ethics and competence",
+      "c": "It is based on luck",
+      "d": "It avoids responsibility"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.120",
+    "question": "Which of the following best summarizes the nature of management?",
+    "options": {
+      "a": "Static and rigid activity",
+      "b": "One-time personal effort",
+      "c": "Continuous, goal-oriented and group activity",
+      "d": "Irregular and unorganized activity"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.121",
+    "question": "The main purpose of management is to",
+    "options": {
+      "a": "Increase conflict",
+      "b": "Achieve goals efficiently and effectively",
+      "c": "Reduce productivity",
+      "d": "Avoid supervision"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.122",
+    "question": "The key steps in organizing are",
+    "options": {
+      "a": "Forecasting and budgeting",
+      "b": "Identifying activities, assigning tasks and delegating authority",
+      "c": "Training and development",
+      "d": "Leading and motivating"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.123",
+    "question": "The main aim of organizing is to",
+    "options": {
+      "a": "Bring clarity in roles and create structure",
+      "b": "Increase confusion among workers",
+      "c": "Avoid communication",
+      "d": "Promote competition among departments"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "1.124",
+    "question": "In short, organizing can be described as",
+    "options": {
+      "a": "The art of motivation",
+      "b": "Turning plans into action by building a working structure",
+      "c": "Measuring performance",
+      "d": "Hiring new employees"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.125",
+    "question": "Staffing deals mainly with",
+    "options": {
+      "a": "Machines and materials",
+      "b": "Recruitment, selection and development of people",
+      "c": "Supervision only",
+      "d": "Financial management"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.126",
+    "question": "Staffing ensures",
+    "options": {
+      "a": "Maximum confusion",
+      "b": "Skilled and motivated workforce",
+      "c": "Poor communication",
+      "d": "Low morale"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.127",
+    "question": "The slogan \"Right person in the right job\" relates to",
+    "options": {
+      "a": "Planning",
+      "b": "Staffing",
+      "c": "Controlling",
+      "d": "Directing"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.128",
+    "question": "Which of the following is not a part of staffing?",
+    "options": {
+      "a": "Recruitment",
+      "b": "Training",
+      "c": "Performance appraisal",
+      "d": "Budget planning"
+    },
+    "answer": "d"
+  },
+  {
+    "id": "1.129",
+    "question": "Directing means",
+    "options": {
+      "a": "Planning work schedules",
+      "b": "Guiding, leading and motivating employees",
+      "c": "Arranging resources",
+      "d": "Comparing results"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.130",
+    "question": "The elements of directing include",
+    "options": {
+      "a": "Planning and control",
+      "b": "Leadership, motivation, communication and supervision",
+      "c": "Delegation and co-ordination",
+      "d": "Recruitment and training"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.131",
+    "question": "The function that converts plans into performance is",
+    "options": {
+      "a": "Staffing",
+      "b": "Directing",
+      "c": "Organizing",
+      "d": "Controlling"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.132",
+    "question": "The main aim of directing is to",
+    "options": {
+      "a": "Create conflict",
+      "b": "Inspire and guide employees toward goals",
+      "c": "Enforce strict punishment",
+      "d": "Avoid communication"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.133",
+    "question": "Controlling ensures",
+    "options": {
+      "a": "Deviation from goals",
+      "b": "Monitoring and comparing actual performance with standards",
+      "c": "Avoiding measurement of work",
+      "d": "Increasing mistakes"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.134",
+    "question": "The last step in the controlling process is",
+    "options": {
+      "a": "Setting standards",
+      "b": "Measuring performance",
+      "c": "Taking corrective actions",
+      "d": "Planning again"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.135",
+    "question": "The importance of controlling lies in",
+    "options": {
+      "a": "Increasing errors",
+      "b": "Ensuring goals are achieved efficiently",
+      "c": "Reducing supervision",
+      "d": "Ignoring feedback"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.136",
+    "question": "The first step in the controlling process is",
+    "options": {
+      "a": "Measuring performance",
+      "b": "Setting performance standards",
+      "c": "Taking corrective action",
+      "d": "Evaluating results"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.137",
+    "question": "Co-ordination in management means",
+    "options": {
+      "a": "Working independently",
+      "b": "Harmonizing efforts of individuals and departments",
+      "c": "Creating competition between teams",
+      "d": "Dividing employees into groups"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.138",
+    "question": "Co-ordination is called the \"essence of management\" because",
+    "options": {
+      "a": "It is a separate function",
+      "b": "It runs through all other functions",
+      "c": "It replaces all functions",
+      "d": "It is optional"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.139",
+    "question": "Co-ordination helps in",
+    "options": {
+      "a": "Duplicating efforts",
+      "b": "Avoiding teamwork",
+      "c": "Ensuring unity of direction and teamwork",
+      "d": "Reducing communication"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.140",
+    "question": "Example of controlling in management is",
+    "options": {
+      "a": "Planning a new product",
+      "b": "Comparing monthly sales with targets",
+      "c": "Recruiting new employees",
+      "d": "Giving training to workers"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.141",
+    "question": "Example of directing is",
+    "options": {
+      "a": "A manager motivating his team to finish a project",
+      "b": "Preparing an annual budget",
+      "c": "Hiring a new accountant",
+      "d": "Buying new machines"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "1.142",
+    "question": "Which function is related to \"deciding what to do, when and how\"?",
+    "options": {
+      "a": "Staffing",
+      "b": "Planning",
+      "c": "Directing",
+      "d": "Controlling"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.143",
+    "question": "The function that builds the organization's structure is",
+    "options": {
+      "a": "Organizing",
+      "b": "Staffing",
+      "c": "Planning",
+      "d": "Controlling"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "1.144",
+    "question": "The function that measures performance and corrects deviations is",
+    "options": {
+      "a": "Directing",
+      "b": "Staffing",
+      "c": "Controlling",
+      "d": "Planning"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.145",
+    "question": "The relationship among all functions of management can be described as",
+    "options": {
+      "a": "Independent and random",
+      "b": "Interrelated and continuous",
+      "c": "Separate and unrelated",
+      "d": "Fixed and unchangeable"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.146",
+    "question": "Which of the following is a major challenge due to globalization?",
+    "options": {
+      "a": "Working only in local markets",
+      "b": "Competing in international markets and managing cross-cultural teams",
+      "c": "Ignoring foreign customers",
+      "d": "Avoiding global partnerships"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.147",
+    "question": "Technological changes in management require",
+    "options": {
+      "a": "Avoiding digital tools",
+      "b": "Adapting to innovations like automation and AI",
+      "c": "Reducing the use of technology",
+      "d": "Depending only on manual systems"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.148",
+    "question": "Maintaining honesty, transparency and responsibility in business relates to",
+    "options": {
+      "a": "Ethical issues",
+      "b": "Government policy",
+      "c": "Globalization",
+      "d": "Crisis management"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "1.149",
+    "question": "Managing limited time, money and manpower effectively is a challenge of",
+    "options": {
+      "a": "Motivation",
+      "b": "Resource management",
+      "c": "Communication",
+      "d": "Competition"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.150",
+    "question": "Handling unexpected problems like strikes, market failures or disasters is called",
+    "options": {
+      "a": "Crisis management",
+      "b": "Resource planning",
+      "c": "Employee motivation",
+      "d": "Policy formulation"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "1.151",
+    "question": "How many main levels of management are there in an organization?",
+    "options": {
+      "a": "One",
+      "b": "Two",
+      "c": "Three",
+      "d": "Four"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.152",
+    "question": "The three levels of management are",
+    "options": {
+      "a": "Top, Middle and Supervisory",
+      "b": "High, Medium and Low",
+      "c": "Senior, Junior and Trainee",
+      "d": "Administrative, Operational and Worker"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "1.153",
+    "question": "The top-level management mainly focuses on",
+    "options": {
+      "a": "Day-to-day operations",
+      "b": "Policy making and long-term planning",
+      "c": "Training workers",
+      "d": "Supervising production"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.154",
+    "question": "Which of the following positions belongs to the top level of management?",
+    "options": {
+      "a": "Supervisor",
+      "b": "Foreman",
+      "c": "Managing Director",
+      "d": "Clerk"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.155",
+    "question": "Middle-level management acts as a link between",
+    "options": {
+      "a": "Workers and customers",
+      "b": "Top-level and lower-level management",
+      "c": "Employees and suppliers",
+      "d": "Directors and shareholders"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.156",
+    "question": "Departmental heads and branch managers are part of",
+    "options": {
+      "a": "Top management",
+      "b": "Middle management",
+      "c": "Lower management",
+      "d": "None of these"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.157",
+    "question": "Supervisory or lower-level management is also known as",
+    "options": {
+      "a": "Administrative management",
+      "b": "Operational management",
+      "c": "Executive management",
+      "d": "Strategic management"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.158",
+    "question": "The main function of top-level management is to",
+    "options": {
+      "a": "Prepare strategic plans and company policies",
+      "b": "Supervise workers directly",
+      "c": "Maintain machinery",
+      "d": "Handle routine paperwork"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "1.159",
+    "question": "The middle-level management mainly performs the function of",
+    "options": {
+      "a": "Executing policies and co-ordinating between top and lower levels",
+      "b": "Making national policies",
+      "c": "Financial auditing",
+      "d": "Recruiting directors"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "1.160",
+    "question": "The lower-level management is responsible for",
+    "options": {
+      "a": "Setting company objectives",
+      "b": "Policy framing",
+      "c": "Implementing plans and supervising workers",
+      "d": "Creating budgets"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.161",
+    "question": "Which level of management deals most closely with employees or workers?",
+    "options": {
+      "a": "Top level",
+      "b": "Middle level",
+      "c": "Lower or Supervisory level",
+      "d": "Strategic level"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.162",
+    "question": "The top-level management is also called",
+    "options": {
+      "a": "Functional management",
+      "b": "Strategic or Administrative management",
+      "c": "Operational management",
+      "d": "Technical management"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.163",
+    "question": "Middle-level managers perform which key role?",
+    "options": {
+      "a": "Translating top-level goals into departmental plans",
+      "b": "Framing company vision",
+      "c": "Supervising workers directly",
+      "d": "Approving government policies"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "1.164",
+    "question": "Supervisors and foremen mainly perform which function?",
+    "options": {
+      "a": "Policy making",
+      "b": "Controlling and directing day-to-day operations",
+      "c": "Budget forecasting",
+      "d": "External relations"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.165",
+    "question": "The correct order of management levels from top to bottom is",
+    "options": {
+      "a": "Supervisory -> Middle -> Top",
+      "b": "Top -> Supervisory -> Middle",
+      "c": "Top -> Middle -> Supervisory",
+      "d": "Middle -> Top -> Supervisory"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.166",
+    "question": "Negotiation means",
+    "options": {
+      "a": "Forcing others to accept your decision",
+      "b": "A discussion to reach a mutually beneficial agreement",
+      "c": "Avoiding communication with others",
+      "d": "Arguing until one party gives up"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.167",
+    "question": "The main goal of negotiation is to achieve a",
+    "options": {
+      "a": "Win-lose situation",
+      "b": "One-sided agreement",
+      "c": "Win-win outcome",
+      "d": "Quick decision without discussion"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.168",
+    "question": "Which of the following is the first step in the negotiation process?",
+    "options": {
+      "a": "Bargaining",
+      "b": "Agreement",
+      "c": "Preparation",
+      "d": "Implementation"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.169",
+    "question": "In negotiation, BATNA stands for",
+    "options": {
+      "a": "Best Alternative to a Negotiated Agreement",
+      "b": "Basic Action for Team Negotiation Approach",
+      "c": "Business Agreement through New Alternatives",
+      "d": "Better Arrangement for Team Negotiation Agreement"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "1.170",
+    "question": "The \"Exchange of Information\" step in negotiation involves",
+    "options": {
+      "a": "Keeping all data secret",
+      "b": "Presenting arguments logically and politely",
+      "c": "Ignoring others' opinions",
+      "d": "Making emotional decisions"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.171",
+    "question": "Which quality is most essential for a good negotiator?",
+    "options": {
+      "a": "Impatience",
+      "b": "Aggressiveness",
+      "c": "Listening skills",
+      "d": "Overconfidence"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.172",
+    "question": "Which of the following is not a quality of a good negotiator?",
+    "options": {
+      "a": "Integrity",
+      "b": "Emotional control",
+      "c": "Dishonesty",
+      "d": "Problem-solving attitude"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.173",
+    "question": "The final step in the negotiation process is",
+    "options": {
+      "a": "Implementation and Review",
+      "b": "Opening the Discussion",
+      "c": "Preparation",
+      "d": "Bargaining"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "1.174",
+    "question": "A production manager negotiating with a supplier is an example of",
+    "options": {
+      "a": "Conflict Resolution",
+      "b": "Team Building",
+      "c": "Negotiation Skill",
+      "d": "Feedback"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.175",
+    "question": "One major benefit of negotiation for managers is",
+    "options": {
+      "a": "Increased conflict",
+      "b": "Better decision-making and co-operation",
+      "c": "Poor communication",
+      "d": "Reduced productivity"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.176",
+    "question": "Team management means",
+    "options": {
+      "a": "Working alone for quick decisions",
+      "b": "Organizing and guiding a group to achieve common goals",
+      "c": "Avoiding delegation",
+      "d": "Supervising without communication"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.177",
+    "question": "A well-managed team leads to",
+    "options": {
+      "a": "Confusion and delay",
+      "b": "Higher productivity and co-operation",
+      "c": "More conflicts",
+      "d": "Individual dominance"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.178",
+    "question": "Which of the following is not a benefit of team management?",
+    "options": {
+      "a": "Promotes unity",
+      "b": "Improves morale",
+      "c": "Increases misunderstandings",
+      "d": "Encourages innovation"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.179",
+    "question": "The key element of team management that ensures everyone knows their tasks is",
+    "options": {
+      "a": "Role Clarity",
+      "b": "Avoidance",
+      "c": "Control",
+      "d": "Conflict"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "1.180",
+    "question": "Strong leadership in a team means:",
+    "options": {
+      "a": "Forcing members to obey",
+      "b": "Guiding, inspiring and resolving conflicts fairly",
+      "c": "Working without goals",
+      "d": "Ignoring team inputs"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.181",
+    "question": "Effective communication in teams helps to",
+    "options": {
+      "a": "Create confusion",
+      "b": "Increase delays",
+      "c": "Ensure co-ordination and transparency",
+      "d": "Reduce interaction"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "1.182",
+    "question": "Which of the following qualities is important for a good team manager?",
+    "options": {
+      "a": "Dictatorship",
+      "b": "Empathy and decision-making ability",
+      "c": "Avoiding delegation",
+      "d": "Ignoring conflicts"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.183",
+    "question": "Rewarding and appreciating team members' performance",
+    "options": {
+      "a": "Decreases motivation",
+      "b": "Boosts morale and teamwork",
+      "c": "Creates jealousy",
+      "d": "Wastes time"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.184",
+    "question": "Which element ensures that team goals are achieved efficiently?",
+    "options": {
+      "a": "Competition",
+      "b": "Collective effort and co-ordination",
+      "c": "Isolation",
+      "d": "Individualism"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.185",
+    "question": "A project manager co-ordinating engineers and designers is showing",
+    "options": {
+      "a": "Conflict Management",
+      "b": "Team Management Skills",
+      "c": "Feedback Skills",
+      "d": "Negotiation Skills"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.186",
+    "question": "Conflict resolution means",
+    "options": {
+      "a": "Avoiding differences",
+      "b": "Finding a peaceful solution to disagreements",
+      "c": "Encouraging fights among teams",
+      "d": "Ignoring problems"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.187",
+    "question": "A common cause of workplace conflict is",
+    "options": {
+      "a": "Poor communication",
+      "b": "Clear goals",
+      "c": "Team unity",
+      "d": "Proper planning"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "1.188",
+    "question": "Conflict resolution helps managers to",
+    "options": {
+      "a": "Reduce co-operation",
+      "b": "Maintain harmony and productivity",
+      "c": "Increase stress",
+      "d": "Avoid communication"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.189",
+    "question": "The first step in the conflict resolution process is",
+    "options": {
+      "a": "Find common ground",
+      "b": "Identify the source of conflict",
+      "c": "Develop possible solutions",
+      "d": "Follow up"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.190",
+    "question": "When both parties give up something to reach a middle ground, it is called",
     "options": {
       "a": "Collaboration",
       "b": "Compromise",
@@ -407,107 +2090,8 @@
     "answer": "b"
   },
   {
-    "id": "38",
-    "question": "Agile Product Management suits",
-    "options": {
-      "a": "Static markets",
-      "b": "Government accounting",
-      "c": "Dynamic industries",
-      "d": "Traditional goods"
-    },
-    "answer": "c"
-  },
-  {
-    "id": "39",
-    "question": "Daily Agile meetings are called",
-    "options": {
-      "a": "Town halls",
-      "b": "Stand-ups",
-      "c": "Conferences",
-      "d": "Reviews"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "40",
-    "question": "A well-managed team leads to",
-    "options": {
-      "a": "Confusion",
-      "b": "Higher productivity",
-      "c": "More conflicts",
-      "d": "Individual dominance"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "41",
-    "question": "According to F.W. Taylor, management is",
-    "options": {
-      "a": "Science of delegation",
-      "b": "Art of ensuring work is done efficiently",
-      "c": "Control of subordinates",
-      "d": "Theory of leadership"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "42",
-    "question": "The first IIM was established at",
-    "options": {
-      "a": "Ahmedabad",
-      "b": "Bangalore",
-      "c": "Calcutta",
-      "d": "Lucknow"
-    },
-    "answer": "a"
-  },
-  {
-    "id": "43",
-    "question": "Coordination is the essence of management because",
-    "options": {
-      "a": "It is separate",
-      "b": "It runs through all functions",
-      "c": "It replaces functions",
-      "d": "It is optional"
-    },
-    "answer": "b"
-  },
-  {
-    "id": "44",
-    "question": "Sustainable material selection example",
-    "options": {
-      "a": "Toxic paints",
-      "b": "Virgin plastics",
-      "c": "Bamboo or recycled metals",
-      "d": "Lead solder"
-    },
-    "answer": "c"
-  },
-  {
-    "id": "45",
-    "question": "Reducing problems early is part of",
-    "options": {
-      "a": "Risk management",
-      "b": "Cost management",
-      "c": "Scope management",
-      "d": "Procurement"
-    },
-    "answer": "a"
-  },
-  {
-    "id": "46",
-    "question": "Management as an intangible force example",
-    "options": {
-      "a": "Manager attendance",
-      "b": "Rule book",
-      "c": "Improved efficiency",
-      "d": "Office buildings"
-    },
-    "answer": "c"
-  },
-  {
-    "id": "47",
-    "question": "Win-win technique is",
+    "id": "1.191",
+    "question": "The technique that creates a \"win-win\" situation is",
     "options": {
       "a": "Collaboration",
       "b": "Avoidance",
@@ -517,35 +2101,46 @@
     "answer": "a"
   },
   {
-    "id": "48",
-    "question": "Ancient councils for group decision-making",
+    "id": "1.192",
+    "question": "A good conflict resolver should be",
     "options": {
-      "a": "Sabha & Samiti",
-      "b": "Lok Sabha & Rajya Sabha",
-      "c": "Guild & Commune",
-      "d": "Parishad & Sabha"
-    },
-    "answer": "a"
-  },
-  {
-    "id": "49",
-    "question": "Major globalization challenge",
-    "options": {
-      "a": "Local markets only",
-      "b": "International competition & cross-cultural teams",
-      "c": "Ignoring foreign customers",
-      "d": "Avoiding partnerships"
+      "a": "Impatient and biased",
+      "b": "Fair, patient and a good listener",
+      "c": "Aggressive and emotional",
+      "d": "Avoidant and defensive"
     },
     "answer": "b"
   },
   {
-    "id": "50",
-    "question": "SMART principle means",
+    "id": "1.193",
+    "question": "An HR manager settling a dispute between employees is practicing",
     "options": {
-      "a": "Strong, Moral, Active, Real, Timely",
-      "b": "Specific, Measurable, Achievable, Relevant, Time-bound",
-      "c": "Simple, Motivated, Accurate, Reliable, Tough",
-      "d": "Sharp, Major, Available, Realistic, Targeted"
+      "a": "Feedback",
+      "b": "Conflict Resolution",
+      "c": "Negotiation",
+      "d": "Supervision"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.194",
+    "question": "Feedback is the process of",
+    "options": {
+      "a": "Criticizing others harshly",
+      "b": "Sharing information about performance for improvement",
+      "c": "Avoiding discussions about work",
+      "d": "Punishing employees for mistakes"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "1.195",
+    "question": "Effective feedback should be",
+    "options": {
+      "a": "Late and emotional",
+      "b": "Timely, specific and respectful",
+      "c": "Harsh and vague",
+      "d": "Ignored by the receiver"
     },
     "answer": "b"
   }

@@ -27,6 +27,8 @@ export interface QuizSession {
   endTime?: Date;
   timeRemaining: number;
   status: 'active' | 'completed' | 'abandoned';
+  unit?: string;
+  totalQuestions: number;
 }
 
 export interface Answer {

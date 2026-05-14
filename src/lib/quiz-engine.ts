@@ -55,6 +55,48 @@ export class QuizEngine {
                 unit: true
               }
             });
+          } else if (unit === 'unit-3') {
+            questions = await prisma.unit3Question.findMany({
+              where: { unit: unit },
+              select: {
+                id: true,
+                question: true,
+                options: true,
+                answer: true,
+                difficulty: true,
+                category: true,
+                createdAt: true,
+                unit: true
+              }
+            });
+          } else if (unit === 'unit-4') {
+            questions = await prisma.unit4Question.findMany({
+              where: { unit: unit },
+              select: {
+                id: true,
+                question: true,
+                options: true,
+                answer: true,
+                difficulty: true,
+                category: true,
+                createdAt: true,
+                unit: true
+              }
+            });
+          } else if (unit === 'unit-5') {
+            questions = await prisma.unit5Question.findMany({
+              where: { unit: unit },
+              select: {
+                id: true,
+                question: true,
+                options: true,
+                answer: true,
+                difficulty: true,
+                category: true,
+                createdAt: true,
+                unit: true
+              }
+            });
           } else {
              throw new Error(`Invalid or unsupported unit: ${unit}`);
           }
@@ -140,7 +182,9 @@ export class QuizEngine {
         answers: [],
         startTime: new Date(),
         timeRemaining: this.QUIZ_DURATION,
-        status: 'active'
+        status: 'active',
+        unit,
+        totalQuestions: questions.length
       };
 
       console.log(`Quiz session initialized successfully with ${questions.length} questions`);

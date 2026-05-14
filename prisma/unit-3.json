@@ -1,0 +1,1784 @@
+[
+  {
+    "id": "3.1",
+    "question": "The main purpose of a Quality Circle is to",
+    "options": {
+      "a": "Solve workplace problems through teamwork",
+      "b": "Conduct financial audits",
+      "c": "Replace management",
+      "d": "Supervise marketing activities"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.2",
+    "question": "Quality Circles operate on the principle of",
+    "options": {
+      "a": "Hierarchical control",
+      "b": "Employee participation and empowerment",
+      "c": "Autocratic leadership",
+      "d": "External consultancy"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.3",
+    "question": "The concept of Quality Circles originated in",
+    "options": {
+      "a": "USA",
+      "b": "Japan",
+      "c": "Germany",
+      "d": "India"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.4",
+    "question": "The founder of the Quality Circle concept is",
+    "options": {
+      "a": "Kaoru Ishikawa",
+      "b": "W. Edwards Deming",
+      "c": "Joseph Juran",
+      "d": "F. W. Taylor"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.5",
+    "question": "A typical Quality Circle includes",
+    "options": {
+      "a": "5-10 members from the same department",
+      "b": "Only managers",
+      "c": "Outsiders and consultants",
+      "d": "Directors and shareholders"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.6",
+    "question": "Quality Circles aim at",
+    "options": {
+      "a": "Developing creativity and problem-solving skills",
+      "b": "Punishing poor performers",
+      "c": "Cutting salaries",
+      "d": "Reducing communication"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.7",
+    "question": "The main outcome of a Quality Circle meeting is",
+    "options": {
+      "a": "New rules",
+      "b": "Suggestions for improvement",
+      "c": "Promotions",
+      "d": "Financial reports"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.8",
+    "question": "Which of these tools is often used in Quality Circles?",
+    "options": {
+      "a": "Fishbone diagram",
+      "b": "Balance sheet",
+      "c": "SWOT matrix only",
+      "d": "Ledger book"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.9",
+    "question": "Quality Circle activities enhance",
+    "options": {
+      "a": "Motivation and teamwork",
+      "b": "Isolation among workers",
+      "c": "Political influence",
+      "d": "Financial accounting"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.10",
+    "question": "Quality Circles were first introduced in India at",
+    "options": {
+      "a": "BHEL",
+      "b": "Tata Steel",
+      "c": "Indian Railways",
+      "d": "Hindustan Motors"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.11",
+    "question": "The ultimate benefit of Quality Circles is",
+    "options": {
+      "a": "Improved quality and productivity",
+      "b": "Higher bureaucracy",
+      "c": "Increased absenteeism",
+      "d": "Less employee involvement"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.12",
+    "question": "Quality Circles promote which management approach?",
+    "options": {
+      "a": "Bottom-up",
+      "b": "Top-down",
+      "c": "Centralized",
+      "d": "Bureaucratic"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.13",
+    "question": "The term Kaizen means",
+    "options": {
+      "a": "Continuous improvement",
+      "b": "Sudden innovation",
+      "c": "Large-scale change",
+      "d": "Temporary solution"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.14",
+    "question": "Kaizen is a concept developed in",
+    "options": {
+      "a": "China",
+      "b": "Japan",
+      "c": "USA",
+      "d": "France"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.15",
+    "question": "The philosophy of Kaizen emphasizes",
+    "options": {
+      "a": "Small improvements made regularly",
+      "b": "Major one-time reforms",
+      "c": "Only technology upgrades",
+      "d": "Top management control"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.16",
+    "question": "Which statement is TRUE about Kaizen?",
+    "options": {
+      "a": "It depends only on expensive equipment",
+      "b": "It requires employee involvement at all levels",
+      "c": "It ignores small changes",
+      "d": "It is used only in manufacturing"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.17",
+    "question": "The main goal of Kaizen is to",
+    "options": {
+      "a": "Maintain current standards",
+      "b": "Achieve continuous betterment",
+      "c": "Increase cost",
+      "d": "Focus on individuals only"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.18",
+    "question": "Which Japanese management practice is closely related to Kaizen?",
+    "options": {
+      "a": "Just-in-Time (JIT)",
+      "b": "Benchmarking",
+      "c": "Outsourcing",
+      "d": "Downsizing"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.19",
+    "question": "A good example of Kaizen is",
+    "options": {
+      "a": "Re-arranging tools to save motion time",
+      "b": "Hiring more supervisors",
+      "c": "Conducting annual party",
+      "d": "Ignoring small defects"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.20",
+    "question": "Kaizen primarily depends on",
+    "options": {
+      "a": "Continuous employee suggestions",
+      "b": "Large investments",
+      "c": "Expensive consultants",
+      "d": "High turnover"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.21",
+    "question": "Which of the following is NOT a principle of Kaizen?",
+    "options": {
+      "a": "Involve everyone",
+      "b": "Think improvement every day",
+      "c": "Blame employees for mistakes",
+      "d": "Eliminate waste"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "3.22",
+    "question": "The PDCA cycle (Plan-Do-Check-Act) is often associated with",
+    "options": {
+      "a": "Kaizen",
+      "b": "TQM",
+      "c": "Six Sigma",
+      "d": "Both A and B"
+    },
+    "answer": "d"
+  },
+  {
+    "id": "3.23",
+    "question": "Six Sigma aims to",
+    "options": {
+      "a": "Reduce defects and variation",
+      "b": "Increase wastage",
+      "c": "Limit employee participation",
+      "d": "Focus on hierarchy"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.24",
+    "question": "Six Sigma was developed by",
+    "options": {
+      "a": "Motorola",
+      "b": "Toyota",
+      "c": "General Electric",
+      "d": "Ford"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.25",
+    "question": "The statistical goal of Six Sigma is",
+    "options": {
+      "a": "3.4 defects per million opportunities",
+      "b": "100 defects per million",
+      "c": "99% accuracy",
+      "d": "Zero defects"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.26",
+    "question": "The term \"Sigma\" represents",
+    "options": {
+      "a": "Standard deviation",
+      "b": "Mean value",
+      "c": "Frequency",
+      "d": "Total quality"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.27",
+    "question": "The DMAIC cycle stands for",
+    "options": {
+      "a": "Define, Measure, Analyze, Improve, Control",
+      "b": "Design, Manage, Apply, Implement, Control",
+      "c": "Direct, Motivate, Assess, Improve, Conclude",
+      "d": "Define, Monitor, Act, Integrate, Conclude"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.28",
+    "question": "Six Sigma focuses on",
+    "options": {
+      "a": "Data-driven decision-making",
+      "b": "Guesswork",
+      "c": "Top-level authority only",
+      "d": "Financial auditing"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.29",
+    "question": "In Six Sigma, Green Belts are",
+    "options": {
+      "a": "Employees trained to support improvement projects",
+      "b": "Senior executives",
+      "c": "Accountants",
+      "d": "Temporary workers"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.30",
+    "question": "Black Belts in Six Sigma are",
+    "options": {
+      "a": "Team leaders and experts who mentor others",
+      "b": "New interns",
+      "c": "Managers of HR department",
+      "d": "Outsiders"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.31",
+    "question": "Master Black Belt refers to",
+    "options": {
+      "a": "Person who leads Six Sigma program company-wide",
+      "b": "Marketing executive",
+      "c": "Junior trainee",
+      "d": "None of these"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.32",
+    "question": "The main focus of Six Sigma is",
+    "options": {
+      "a": "Customer satisfaction through defect prevention",
+      "b": "Product advertising",
+      "c": "Financial reporting",
+      "d": "Staff reduction"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.33",
+    "question": "Six Sigma projects use which key tool?",
+    "options": {
+      "a": "Statistical analysis",
+      "b": "Astrology",
+      "c": "Random guessing",
+      "d": "Marketing mix"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.34",
+    "question": "Which company popularized Six Sigma after Motorola?",
+    "options": {
+      "a": "General Electric (GE)",
+      "b": "Toyota",
+      "c": "Sony",
+      "d": "Apple"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.35",
+    "question": "In Six Sigma, process capability is measured in terms of",
+    "options": {
+      "a": "Sigma levels",
+      "b": "Mean deviation",
+      "c": "Cost per unit",
+      "d": "Time only"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.36",
+    "question": "The ultimate goal of Six Sigma is to achieve",
+    "options": {
+      "a": "99.99966% accuracy",
+      "b": "80% efficiency",
+      "c": "Average quality",
+      "d": "Maximum supervision"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.37",
+    "question": "TQM stands for",
+    "options": {
+      "a": "Total Quality Management",
+      "b": "Technical Quality Measurement",
+      "c": "Team Quality Monitoring",
+      "d": "Total Quantity Management"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.38",
+    "question": "The key objective of TQM is",
+    "options": {
+      "a": "Continuous improvement and customer satisfaction",
+      "b": "Cost cutting only",
+      "c": "Bureaucratic control",
+      "d": "Quick profit"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.39",
+    "question": "The foundation of TQM lies in",
+    "options": {
+      "a": "Quality at every stage",
+      "b": "Inspection only",
+      "c": "Blaming workers",
+      "d": "Reducing production"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.40",
+    "question": "TQM requires participation of",
+    "options": {
+      "a": "All employees",
+      "b": "Only managers",
+      "c": "Only production staff",
+      "d": "External consultants"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.41",
+    "question": "The famous 14 points of quality management were proposed by",
+    "options": {
+      "a": "W. Edwards Deming",
+      "b": "Joseph Juran",
+      "c": "Kaoru Ishikawa",
+      "d": "Philip Crosby"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.42",
+    "question": "\"Fitness for use\" definition of quality was given by",
+    "options": {
+      "a": "Juran",
+      "b": "Deming",
+      "c": "Taylor",
+      "d": "Crosby"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.43",
+    "question": "The \"Zero Defect\" concept was given by",
+    "options": {
+      "a": "Philip Crosby",
+      "b": "Ishikawa",
+      "c": "Juran",
+      "d": "Deming"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.44",
+    "question": "The core principle of TQM is",
+    "options": {
+      "a": "Doing things right the first time",
+      "b": "Reworking after errors",
+      "c": "Blaming others",
+      "d": "Ignoring feedback"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.45",
+    "question": "TQM promotes",
+    "options": {
+      "a": "Customer-driven organization",
+      "b": "Profit-driven only",
+      "c": "Technology-driven only",
+      "d": "Manager-driven"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.46",
+    "question": "TQM emphasizes the use of",
+    "options": {
+      "a": "Quality tools like Pareto chart, Histogram, Check Sheet",
+      "b": "Financial tools",
+      "c": "Advertising campaigns",
+      "d": "Stock analysis"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.47",
+    "question": "Which of the following is NOT an element of TQM?",
+    "options": {
+      "a": "Continuous improvement",
+      "b": "Employee participation",
+      "c": "Customer focus",
+      "d": "Rigid hierarchy"
+    },
+    "answer": "d"
+  },
+  {
+    "id": "3.48",
+    "question": "The Plan-Do-Check-Act (PDCA) cycle is used in TQM for",
+    "options": {
+      "a": "Continuous improvement",
+      "b": "Marketing",
+      "c": "Recruitment",
+      "d": "Financial planning"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.49",
+    "question": "Which of the following is a benefit of TQM?",
+    "options": {
+      "a": "Improved morale and productivity",
+      "b": "More errors",
+      "c": "Reduced teamwork",
+      "d": "Lower customer satisfaction"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.50",
+    "question": "The ultimate aim of TQM is to achieve",
+    "options": {
+      "a": "Long-term customer loyalty and organizational excellence",
+      "b": "Short-term gains",
+      "c": "Maximum supervision",
+      "d": "Minimum employee involvement"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.51",
+    "question": "The main purpose of 5S is to",
+    "options": {
+      "a": "Increase sales",
+      "b": "Organize the workplace and improve efficiency",
+      "c": "Hire more workers",
+      "d": "Reduce salaries"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.52",
+    "question": "5S originated in which country?",
+    "options": {
+      "a": "China",
+      "b": "USA",
+      "c": "Japan",
+      "d": "Germany"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "3.53",
+    "question": "In 5S, \"Seiri\" stands for",
+    "options": {
+      "a": "Set in order",
+      "b": "Sort - remove unnecessary items",
+      "c": "Shine - clean the area",
+      "d": "Sustain-maintain standards"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.54",
+    "question": "The second \"S\", \"Seiton\" means",
+    "options": {
+      "a": "Standardize",
+      "b": "Set things in order for easy access",
+      "c": "Shine the workplace",
+      "d": "Sustain improvements"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.55",
+    "question": "\"Seiso\" refers to",
+    "options": {
+      "a": "Keeping the workplace neat and clean",
+      "b": "Sorting out materials",
+      "c": "Labeling items",
+      "d": "Conducting audits"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.56",
+    "question": "The fourth \"S\" - \"Seiketsu\" means",
+    "options": {
+      "a": "Shining tools",
+      "b": "Standardizing procedures",
+      "c": "Sustaining improvements",
+      "d": "Sorting and discarding waste"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.57",
+    "question": "The fifth \"S\", \"Shitsuke,\" means",
+    "options": {
+      "a": "Sorting",
+      "b": "Discipline and sustaining the habit of 5S",
+      "c": "Supervising workers",
+      "d": "Scheduling production"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.58",
+    "question": "The main benefit of 5S is",
+    "options": {
+      "a": "Lower product quality",
+      "b": "Clean, safe and efficient workplace",
+      "c": "Increased paperwork",
+      "d": "Less teamwork"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.59",
+    "question": "Which of the following is NOT part of the 5S system?",
+    "options": {
+      "a": "Seiri",
+      "b": "Seiso",
+      "c": "Shitsuke",
+      "d": "Six Sigma"
+    },
+    "answer": "d"
+  },
+  {
+    "id": "3.60",
+    "question": "The 5S method is most closely related to",
+    "options": {
+      "a": "Lean manufacturing and continuous improvement",
+      "b": "Advertising strategy",
+      "c": "Finance and accounting",
+      "d": "Marketing management."
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.61",
+    "question": "A red tag is commonly used during which 5S stage?",
+    "options": {
+      "a": "Seiketsu",
+      "b": "Seiri (Sorting)",
+      "c": "Seiso",
+      "d": "Shitsuke"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.62",
+    "question": "The goal of \"Set in Order\" is to",
+    "options": {
+      "a": "Arrange items so they are easy to find and return",
+      "b": "Store everything randomly",
+      "c": "Remove all tools from the area",
+      "d": "Paint the walls"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.63",
+    "question": "Regular cleaning, inspection and maintenance belong to which S?",
+    "options": {
+      "a": "Seiso (Shine)",
+      "b": "Seiketsu (Standardize)",
+      "c": "Shitsuke (Sustain)",
+      "d": "Seiri (Sort)"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.64",
+    "question": "5S helps to eliminate which of the following wastes?",
+    "options": {
+      "a": "Overproduction",
+      "b": "Unnecessary motion and time waste",
+      "c": "Marketing costs",
+      "d": "None of these"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.65",
+    "question": "The ultimate goal of 5S is to",
+    "options": {
+      "a": "Create a culture of discipline and continuous improvement",
+      "b": "Maintain paperwork",
+      "c": "Focus only on profits",
+      "d": "Reduce product design"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.66",
+    "question": "The word \"Kanban\" is derived from which language?",
+    "options": {
+      "a": "English",
+      "b": "Japanese",
+      "c": "Chinese",
+      "d": "Korean"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.67",
+    "question": "The meaning of \"Kanban\" is",
+    "options": {
+      "a": "Visual signal or card",
+      "b": "Machine maintenance",
+      "c": "Work scheduling software",
+      "d": "Raw material storage"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.68",
+    "question": "The Kanban system was first developed by",
+    "options": {
+      "a": "Motorola",
+      "b": "Toyota Motor Corporation",
+      "c": "Ford Motor Company",
+      "d": "General Electric"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.69",
+    "question": "Kanban is mainly used in which production system?",
+    "options": {
+      "a": "Just-in-Time (JIT)",
+      "b": "Mass production",
+      "c": "Batch production",
+      "d": "Project-based production"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.70",
+    "question": "The main purpose of a Kanban system is to",
+    "options": {
+      "a": "Increase inventory levels",
+      "b": "Control production and material flow visually",
+      "c": "Increase paperwork",
+      "d": "Delay production"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.71",
+    "question": "In the Kanban method, each card represents",
+    "options": {
+      "a": "A maintenance report",
+      "b": "A production order or part requirement",
+      "c": "A customer complaint",
+      "d": "A financial record"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.72",
+    "question": "Kanban helps in achieving which of the following?",
+    "options": {
+      "a": "Overproduction",
+      "b": "Continuous flow and reduced waste",
+      "c": "Maximum storage",
+      "d": "Increased downtime"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.73",
+    "question": "Which of the following best describes the Kanban principle?",
+    "options": {
+      "a": "Push system of production",
+      "b": "Pull system of production",
+      "c": "Mixed system",
+      "d": "Random system"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.74",
+    "question": "In a pull-based Kanban system",
+    "options": {
+      "a": "Work is started only when there is demand from the next process",
+      "b": "Production continues regardless of demand",
+      "c": "Raw materials are ordered in bulk",
+      "d": "Workers guess production levels"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.75",
+    "question": "The two-card Kanban system consists of",
+    "options": {
+      "a": "Transport Kanban and Production Kanban",
+      "b": "Delivery Kanban and Finance Kanban",
+      "c": "Planning Kanban and Cost Kanban",
+      "d": "Service Kanban and Product Kanban"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.76",
+    "question": "Kanban is mainly used to",
+    "options": {
+      "a": "Signal the need to move materials or produce parts",
+      "b": "Replace supervisors",
+      "c": "Increase inspection frequency",
+      "d": "Eliminate teamwork"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.77",
+    "question": "Which of the following is NOT an advantage of Kanban?",
+    "options": {
+      "a": "Reduces inventory",
+      "b": "Improves workflow",
+      "c": "Increases lead time",
+      "d": "Promotes flexibility"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "3.78",
+    "question": "Kanban cards can be replaced by which modern equivalent?",
+    "options": {
+      "a": "Digital dashboards or software signals",
+      "b": "Printed posters",
+      "c": "Telephone calls",
+      "d": "Emails only"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.79",
+    "question": "The Kanban system supports which key Lean concept?",
+    "options": {
+      "a": "Continuous improvement and waste reduction",
+      "b": "Increasing buffer stock",
+      "c": "Hiring more managers",
+      "d": "Making forecasts only"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.80",
+    "question": "The main goal of Kanban in production is to",
+    "options": {
+      "a": "Produce only what is needed, when it is needed",
+      "b": "Produce maximum quantity regardless of demand",
+      "c": "Stop production frequently",
+      "d": "Store large quantities of finished goods"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.81",
+    "question": "TPM stands for",
+    "options": {
+      "a": "Total Product Maintenance",
+      "b": "Total Productive Maintenance",
+      "c": "Total Process Management",
+      "d": "Total Preventive Management"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.82",
+    "question": "The main objective of TPM is to",
+    "options": {
+      "a": "Increase machine breakdowns",
+      "b": "Maximize equipment efficiency and eliminate losses",
+      "c": "Increase supervision",
+      "d": "Reduce operator involvement"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.83",
+    "question": "TPM was first introduced in",
+    "options": {
+      "a": "USA",
+      "b": "Japan",
+      "c": "Germany",
+      "d": "India"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.84",
+    "question": "TPM originated from which company?",
+    "options": {
+      "a": "Toyota",
+      "b": "Nippon Denso (a Toyota group company)",
+      "c": "Ford Motors",
+      "d": "Honda"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.85",
+    "question": "TPM is a part of which management philosophy?",
+    "options": {
+      "a": "Lean Manufacturing and Total Quality Management (TQM)",
+      "b": "Financial Management",
+      "c": "Marketing Management",
+      "d": "Personnel Management"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.86",
+    "question": "The ultimate goal of TPM is to achieve",
+    "options": {
+      "a": "Zero accidents, zero defects and zero breakdowns",
+      "b": "50% reduction in production",
+      "c": "Higher machine downtime",
+      "d": "Overproduction"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.87",
+    "question": "The key concept of TPM is",
+    "options": {
+      "a": "Maintenance is the job of only the maintenance department",
+      "b": "Every employee is responsible for maintenance and care of equipment",
+      "c": "Only engineers maintain equipment",
+      "d": "Maintenance after failure only"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.88",
+    "question": "TPM focuses on improving.",
+    "options": {
+      "a": "Overall Equipment Effectiveness (OEE)",
+      "b": "Financial performance",
+      "c": "Worker absenteeism",
+      "d": "Marketing promotion"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.89",
+    "question": "TPM emphasizes which type of maintenance?",
+    "options": {
+      "a": "Breakdown maintenance",
+      "b": "Preventive and Autonomous maintenance",
+      "c": "Emergency maintenance",
+      "d": "External maintenance only"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.90",
+    "question": "The TPM concept includes how many major pillars?",
+    "options": {
+      "a": "3",
+      "b": "5",
+      "c": "8",
+      "d": "10"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "3.91",
+    "question": "Which of the following is NOT one of the 8 Pillars of TPM?",
+    "options": {
+      "a": "Autonomous Maintenance",
+      "b": "Focused Improvement",
+      "c": "Product Design",
+      "d": "Education and Training"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "3.92",
+    "question": "The first pillar of TPM, \"Autonomous Maintenance\", means",
+    "options": {
+      "a": "Operators clean, inspect and maintain their own machines",
+      "b": "Only maintenance staff clean machines",
+      "c": "Maintenance is ignored",
+      "d": "Outsiders repair machines"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.93",
+    "question": "Which of the following is a key benefit of TPM?",
+    "options": {
+      "a": "Reduced downtime and improved productivity",
+      "b": "Increased waste",
+      "c": "Higher defect rate",
+      "d": "More accidents"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.94",
+    "question": "The formula for Overall Equipment Effectiveness (OEE) involves",
+    "options": {
+      "a": "Availability x Performance x Quality",
+      "b": "Quantity x Time x Speed",
+      "c": "Cost x Profit × Turnover",
+      "d": "Safety x Speed x Staff"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.95",
+    "question": "TPM aims to create a work culture of",
+    "options": {
+      "a": "Reactive maintenance",
+      "b": "Proactive participation and ownership by all employees",
+      "c": "Blaming maintenance staff",
+      "d": "Minimal operator training"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.96",
+    "question": "The main objective of Lean Manufacturing is to",
+    "options": {
+      "a": "Reduce workforce",
+      "b": "Eliminate waste and improve value to the customer",
+      "c": "Increase paperwork",
+      "d": "Expand inventory"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.97",
+    "question": "Lean Manufacturing originated from which company?",
+    "options": {
+      "a": "Ford Motors",
+      "b": "Toyota Motor Corporation",
+      "c": "General Electric",
+      "d": "Motorola"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.98",
+    "question": "The Toyota Production System (TPS) is the foundation of",
+    "options": {
+      "a": "Total Quality Management",
+      "b": "Lean Manufacturing",
+      "c": "Six Sigma",
+      "d": "Kaizen only"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.99",
+    "question": "The Japanese term \"Muda\" refers to",
+    "options": {
+      "a": "Improvement",
+      "b": "Waste or non-value-added activity",
+      "c": "Speed",
+      "d": "Quality control"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.100",
+    "question": "How many types of waste (Muda) are identified in Lean?",
+    "options": {
+      "a": "3",
+      "b": "5",
+      "c": "7",
+      "d": "9"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "3.101",
+    "question": "Which of the following is NOT one of the seven wastes in Lean?",
+    "options": {
+      "a": "Overproduction",
+      "b": "Waiting time",
+      "c": "Product design",
+      "d": "Defects"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "3.102",
+    "question": "The Lean principle that focuses on \"producing only what is needed when it is needed\" is known as",
+    "options": {
+      "a": "JIT (Just-In-Time)",
+      "b": "TQM",
+      "c": "MRP",
+      "d": "ERP"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.103",
+    "question": "The goal of Lean is to",
+    "options": {
+      "a": "Maximize value and minimize waste",
+      "b": "Increase working hours.",
+      "c": "Increase costs",
+      "d": "Hire more managers"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.104",
+    "question": "Which of the following is an example of \"Overproduction\" waste?",
+    "options": {
+      "a": "Producing extra units before customer demand",
+      "b": "Cleaning the machine daily",
+      "c": "Inspecting the product for defects",
+      "d": "Transporting finished goods"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.105",
+    "question": "The 5S system supports Lean by",
+    "options": {
+      "a": "Maintaining a clean, organized and efficient workplace",
+      "b": "Increasing storage space",
+      "c": "Adding paperwork",
+      "d": "Reducing employee motivation"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.106",
+    "question": "\"Kaizen\" in Lean Manufacturing means",
+    "options": {
+      "a": "Continuous small improvements",
+      "b": "Large one-time changes",
+      "c": "Employee termination",
+      "d": "External outsourcing"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.107",
+    "question": "Which of the following tools is used to map the flow of materials and information in Lean?",
+    "options": {
+      "a": "Value Stream Mapping (VSM)",
+      "b": "PERT Chart",
+      "c": "Gantt Chart",
+      "d": "SWOT Analysis"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.108",
+    "question": "Kanban in Lean Manufacturing is a",
+    "options": {
+      "a": "Visual signal system to control production and inventory",
+      "b": "Financial control system",
+      "c": "Marketing plan",
+      "d": "Quality inspection tool"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.109",
+    "question": "Which Lean concept focuses on reducing setup and changeover time?",
+    "options": {
+      "a": "SMED (Single Minute Exchange of Dies)",
+      "b": "TQM",
+      "c": "TPM",
+      "d": "OEE"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.110",
+    "question": "The \"Pull System\" in Lean means",
+    "options": {
+      "a": "Producing only when the next process or customer needs it",
+      "b": "Producing in advance",
+      "c": "Pushing all products to the next stage",
+      "d": "Ignoring demand"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.111",
+    "question": "\"Poka-Yoke\" is a Lean tool used for",
+    "options": {
+      "a": "Mistake-proofing to prevent errors",
+      "b": "Increasing machine speed",
+      "c": "Product promotion",
+      "d": "Hiring employees"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.112",
+    "question": "The term \"Jidoka\" refers to",
+    "options": {
+      "a": "Automation with a human touch / stopping production when defects occur",
+      "b": "Continuous improvement",
+      "c": "Reducing human involvement",
+      "d": "Increasing automation only"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.113",
+    "question": "\"Takt Time\" in Lean Manufacturing represents",
+    "options": {
+      "a": "The rate at which products must be made to meet customer demand",
+      "b": "The total lead time",
+      "c": "Break time of workers",
+      "d": "Setup time of machines"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.114",
+    "question": "The Lean metric \"Lead Time\" refers to",
+    "options": {
+      "a": "Time taken to hire an employee",
+      "b": "Total time from order to delivery to the customer",
+      "c": "Machine idle time",
+      "d": "Training duration"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.115",
+    "question": "The ultimate goal of Lean Manufacturing is to achieve",
+    "options": {
+      "a": "Customer satisfaction through waste-free, efficient operations",
+      "b": "Maximum paperwork and inspection",
+      "c": "Overproduction and stockpiling",
+      "d": "Minimum automation"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.116",
+    "question": "The term \"ISO\" stands for",
+    "options": {
+      "a": "International Service Organization",
+      "b": "International Standards Organization",
+      "c": "International Organization for Standardization",
+      "d": "Industrial Standards Office"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "3.117",
+    "question": "The main purpose of ISO standards is to",
+    "options": {
+      "a": "Increase product prices",
+      "b": "Ensure quality, safety and efficiency of products and services",
+      "c": "Control employees",
+      "d": "Promote advertising"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.118",
+    "question": "ISO standards are developed and published by",
+    "options": {
+      "a": "United Nations",
+      "b": "International Organization for Standardization (Geneva, Switzerland)",
+      "c": "World Trade Organization",
+      "d": "World Bank"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.119",
+    "question": "The ISO organization was established in the year",
+    "options": {
+      "a": "1945",
+      "b": "1947",
+      "c": "1950",
+      "d": "1965"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.120",
+    "question": "ISO standards are applied to",
+    "options": {
+      "a": "Only large industries",
+      "b": "All types of organizations - small, medium or large",
+      "c": "Only manufacturing companies",
+      "d": "Only government departments"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.121",
+    "question": "The primary aim of Quality Standards is to",
+    "options": {
+      "a": "Ensure uniformity, reliability and customer satisfaction",
+      "b": "Increase paperwork",
+      "c": "Limit innovation",
+      "d": "Reduce employee skills"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.122",
+    "question": "ISO 9001 relates to which aspect of management?",
+    "options": {
+      "a": "Environmental management",
+      "b": "Quality management system (QMS)",
+      "c": "Financial management",
+      "d": "Safety management"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.123",
+    "question": "A company certified under ISO 9001 must focus on",
+    "options": {
+      "a": "Customer satisfaction and continuous improvement",
+      "b": "Advertising and sales promotion",
+      "c": "Only production volume",
+      "d": "Employee layoffs"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.124",
+    "question": "The latest version of ISO 9001 standard (as of 2025) is",
+    "options": {
+      "a": "ISO 9001:2008",
+      "b": "ISO 9001:2015",
+      "c": "ISO 9001:2020",
+      "d": "ISO 9001:2023"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.125",
+    "question": "The main benefit of implementing ISO quality standards is",
+    "options": {
+      "a": "Global recognition, better efficiency and improved customer confidence",
+      "b": "Higher taxation",
+      "c": "Increased cost only",
+      "d": "Reduction in safety"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.126",
+    "question": "ISO 9001:2016 is related to",
+    "options": {
+      "a": "Environmental management",
+      "b": "Quality Management System (QMS)",
+      "c": "Financial auditing",
+      "d": "Safety standards"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.127",
+    "question": "The primary goal of ISO 9001:2016 is to",
+    "options": {
+      "a": "Increase product cost",
+      "b": "Ensure consistent quality and customer satisfaction",
+      "c": "Promote marketing",
+      "d": "Increase paperwork"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.128",
+    "question": "ISO 9001 is developed and published by",
+    "options": {
+      "a": "United Nations",
+      "b": "International Organization for Standardization (ISO), Geneva",
+      "c": "World Bank",
+      "d": "Indian Bureau of Standards"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.129",
+    "question": "ISO 9001:2016 focuses on",
+    "options": {
+      "a": "Customer satisfaction and continual improvement",
+      "b": "Increasing workforce",
+      "c": "Government regulations",
+      "d": "Inventory control only"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.130",
+    "question": "The \"9001\" in ISO 9001:2016 refers to",
+    "options": {
+      "a": "A specific family of quality management standards",
+      "b": "Energy efficiency code",
+      "c": "Safety policy number",
+      "d": "Industry license"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.131",
+    "question": "The Quality Management Principles (QMPs) in ISO 9001:2016 include all EXCEPT",
+    "options": {
+      "a": "Customer focus",
+      "b": "Leadership",
+      "c": "Supplier monopoly",
+      "d": "Continuous improvement"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "3.132",
+    "question": "ISO 9001:2016 replaced which earlier version?",
+    "options": {
+      "a": "ISO 9001:2000",
+      "b": "ISO 9001:2008",
+      "c": "ISO 9001:2012",
+      "d": "ISO 9001:2014"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.133",
+    "question": "The key clause in ISO 9001:2016 that deals with understanding organizational context is",
+    "options": {
+      "a": "Clause 4",
+      "b": "Clause 5",
+      "c": "Clause 7",
+      "d": "Clause 9"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.134",
+    "question": "Clause 5 of ISO 9001:2016 mainly deals with",
+    "options": {
+      "a": "Leadership and commitment",
+      "b": "Planning",
+      "c": "Support and resources",
+      "d": "Operation"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.135",
+    "question": "The term \"PDCA cycle\" in ISO 9001:2016 stands for",
+    "options": {
+      "a": "Plan, Do, Check, Act",
+      "b": "Prepare, Deliver, Control, Approve",
+      "c": "Produce, Develop, Create, Apply",
+      "d": "Plan, Design, Communicate, Act"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.136",
+    "question": "Which clause in ISO 9001:2016 covers \"Performance Evaluation\"?",
+    "options": {
+      "a": "Clause 5",
+      "b": "Clause 7",
+      "c": "Clause 9",
+      "d": "Clause 10"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "3.137",
+    "question": "The principle \"Evidence-Based Decision Making\" in ISO 9001:2016 means",
+    "options": {
+      "a": "Decisions should be based on data and analysis",
+      "b": "Decisions should be emotional",
+      "c": "Decisions should follow hierarchy only",
+      "d": "Decisions should be delayed"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.138",
+    "question": "ISO 9001:2016 is applicable to",
+    "options": {
+      "a": "Only manufacturing companies",
+      "b": "All types of organizations, regardless of size or sector",
+      "c": "Only government offices",
+      "d": "Only large MNCs"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.139",
+    "question": "The main benefit of ISO 9001:2016 certification is",
+    "options": {
+      "a": "Increased customer trust and global recognition",
+      "b": "More documentation",
+      "c": "Higher taxes",
+      "d": "Less process control"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.140",
+    "question": "Continual improvement in ISO 9001:2016 is ensured through",
+    "options": {
+      "a": "Monitoring, analysis and corrective action",
+      "b": "Only annual review",
+      "c": "Random changes",
+      "d": "Employee turnover"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.141",
+    "question": "ISO 14000 series standards relate to",
+    "options": {
+      "a": "Quality management",
+      "b": "Environmental management",
+      "c": "Safety management",
+      "d": "Financial auditing"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.142",
+    "question": "The main objective of ISO 14000 is to",
+    "options": {
+      "a": "Increase production",
+      "b": "Reduce environmental impact and promote sustainable practices",
+      "c": "Promote advertising",
+      "d": "Regulate product pricing"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.143",
+    "question": "The ISO 14000 family provides guidelines for",
+    "options": {
+      "a": "Environmental Management Systems (EMS)",
+      "b": "Human Resource Development",
+      "c": "Financial Accounting",
+      "d": "Marketing Strategy"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.144",
+    "question": "ISO 14001 is the standard that specifies",
+    "options": {
+      "a": "Requirements for an Environmental Management System",
+      "b": "Occupational Safety Procedures",
+      "c": "Quality Control Guidelines",
+      "d": "Product Design Standards"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.145",
+    "question": "ISO 14000 standards are issued by",
+    "options": {
+      "a": "World Bank",
+      "b": "International Organization for Standardization (ISO), Geneva",
+      "c": "United Nations",
+      "d": "Bureau of Indian Standards"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.146",
+    "question": "The primary benefit of ISO 14000 certification is",
+    "options": {
+      "a": "Better environmental performance and compliance with legal requirements",
+      "b": "Higher taxation",
+      "c": "Reduced employee involvement",
+      "d": "Increased waste"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.147",
+    "question": "ISO 14000 focuses mainly on",
+    "options": {
+      "a": "Managing processes that affect the environment",
+      "b": "Advertising new products",
+      "c": "Increasing production speed",
+      "d": "Controlling employee behavior"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.148",
+    "question": "Which of the following is NOT a benefit of ISO 14000?",
+    "options": {
+      "a": "Reduction in pollution and waste",
+      "b": "Improved company reputation",
+      "c": "Higher energy consumption",
+      "d": "Legal compliance"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "3.149",
+    "question": "The core philosophy of ISO 14000 is based on",
+    "options": {
+      "a": "Continuous environmental improvement and prevention of pollution",
+      "b": "Short-term profits",
+      "c": "Marketing and branding",
+      "d": "Financial investment growth"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.150",
+    "question": "ISO 14000 standards apply to",
+    "options": {
+      "a": "Only large industries",
+      "b": "All types and sizes of organizations",
+      "c": "Government organizations only",
+      "d": "Chemical industries only"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.151",
+    "question": "The PDCA (Plan-Do-Check-Act) cycle used in ISO 14000 helps in",
+    "options": {
+      "a": "Continuous improvement of environmental performance",
+      "b": "Increasing paperwork",
+      "c": "Reducing training needs",
+      "d": "Delaying projects"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.152",
+    "question": "Which of the following is an example of ISO 14000 implementation?",
+    "options": {
+      "a": "Recycling industrial waste and reducing emissions",
+      "b": "Increasing packaging waste",
+      "c": "Ignoring environmental laws",
+      "d": "Expanding factory emissions"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.153",
+    "question": "OSHA stands for",
+    "options": {
+      "a": "Occupational Safety and Health Administration",
+      "b": "Office of Safety and Health Association",
+      "c": "Occupational Service and Human Authority",
+      "d": "Organization of Safety and Health Agencies"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.154",
+    "question": "The main purpose of OSHA is to",
+    "options": {
+      "a": "Promote industrial production",
+      "b": "Ensure safe and healthy working conditions for employees",
+      "c": "Manage business profits",
+      "d": "Reduce working hours"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.155",
+    "question": "OSHA was established in which year?",
+    "options": {
+      "a": "1969",
+      "b": "1970",
+      "c": "1975",
+      "d": "1980"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.156",
+    "question": "OSHA functions under which U.S. government department?",
+    "options": {
+      "a": "Department of Commerce",
+      "b": "Department of Labor",
+      "c": "Department of Finance",
+      "d": "Department of Health and Human Services"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.157",
+    "question": "The OSHA Act of 1970 gives employees the right to",
+    "options": {
+      "a": "Higher wages",
+      "b": "Safe workplace and freedom to report hazards without fear",
+      "c": "Flexible working hours",
+      "d": "More vacation days"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.158",
+    "question": "The OSHA 2020 standards emphasize",
+    "options": {
+      "a": "COVID-19 workplace safety and health guidelines",
+      "b": "Product marketing regulations",
+      "c": "Environmental management",
+      "d": "Tax reforms"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.159",
+    "question": "Under OSHA, employers are responsible for",
+    "options": {
+      "a": "Providing a workplace free from recognized hazards",
+      "b": "Deciding employees' salaries",
+      "c": "Handling only production tasks",
+      "d": "Promoting tourism"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.160",
+    "question": "OSHA inspections may occur",
+    "options": {
+      "a": "Only once in 10 years",
+      "b": "Without advance notice, based on complaints or accidents",
+      "c": "Only after management approval",
+      "d": "Only during office hours"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "3.161",
+    "question": "The OSHA 2020 guidelines require employers to",
+    "options": {
+      "a": "Maintain proper ventilation, PPE use and social distancing during pandemics",
+      "b": "Increase working hours",
+      "c": "Cancel safety training",
+      "d": "Ignore hazard reports"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "3.162",
+    "question": "The ultimate aim of OSHA is to",
+    "options": {
+      "a": "Prevent workplace injuries, illnesses and deaths",
+      "b": "Increase factory output",
+      "c": "Enforce environmental laws",
+      "d": "Reduce salaries"
+    },
+    "answer": "a"
+  }
+]

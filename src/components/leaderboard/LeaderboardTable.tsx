@@ -84,6 +84,11 @@ export function LeaderboardTable({ entries, currentUserId, loading }: Leaderboar
     return user.username || user.email.split('@')[0] || 'Anonymous';
   };
 
+  const formatUnit = (unit?: string) => {
+    if (!unit) return 'Random Quiz';
+    return unit.split('-').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
+  };
+
   return (
     <Card>
       <CardHeader>
@@ -129,12 +134,16 @@ export function LeaderboardTable({ entries, currentUserId, loading }: Leaderboar
                       </Badge>
                     )}
                   </div>
-                  <div className="flex flex-col sm:flex-row sm:items-center gap-1 sm:gap-4 mt-1">
-                    <div className="flex items-center gap-1 text-xs text-gray-500">
+                  <div className="flex flex-wrap items-center gap-x-4 gap-y-1 mt-1">
+                    <div className="flex items-center gap-1 text-[10px] sm:text-xs font-medium text-indigo-600 bg-indigo-50 px-1.5 py-0.5 rounded">
                       <Target className="h-3 w-3" />
+                      {formatUnit(entry.unit)} • {entry.totalQuestions || entry.answers?.length || 10} Qs
+                    </div>
+                    <div className="flex items-center gap-1 text-[10px] sm:text-xs text-gray-500">
+                      <Award className="h-3 w-3 text-amber-500" />
                       {entry.accuracy.toFixed(1)}% accuracy
                     </div>
-                    <div className="flex items-center gap-1 text-xs text-gray-500">
+                    <div className="flex items-center gap-1 text-[10px] sm:text-xs text-gray-500">
                       <Clock className="h-3 w-3" />
                       {formatTime(entry.timeTaken)}
                     </div>

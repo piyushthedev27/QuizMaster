@@ -14,14 +14,21 @@ function QuizResultsContent() {
   const router = useRouter();
   const { user, loading: authLoading } = useAuth();
   const { results, loading, error, completeQuiz } = useQuizResults();
+  const hasSubmitted = React.useRef(false);
   const [sessionData, setSessionData] = useState<QuizSession | null>(null);
 
   useEffect(() => {
+    // Wait for auth to be ready
+    if (authLoading) return;
+
     // Redirect to login if not authenticated
-    if (!authLoading && !user) {
+    if (!user) {
       router.push('/auth/login');
       return;
     }
+
+    // If we already have results or have already submitted, don't do anything
+    if (results || hasSubmitted.current) return;
 
     // Get session data from localStorage
     const savedSession = localStorage.getItem('quizSession');
@@ -31,21 +38,29 @@ function QuizResultsContent() {
         setSessionData(session);
         
         // Complete the quiz if it's finished
-        if (session.status === 'completed') {
-          completeQuiz(session).then(() => {
-            // Clear the saved session after successful completion
-            localStorage.removeItem('quizSession');
+        if (session.status === 'completed' && !hasSubmitted.current) {
+          hasSubmitted.current = true;
+          completeQuiz(session).then((res) => {
+            if (res) {
+              // Only clear if successful
+              localStorage.removeItem('quizSession');
+            } else {
+              // If failed, allow retry
+              hasSubmitted.current = false;
+            }
+          }).catch(() => {
+            hasSubmitted.current = false;
           });
         }
       } catch (err) {
         console.error('Error parsing saved session:', err);
         router.push('/quiz');
       }
-    } else {
-      // No session data found, redirect to quiz
+    } else if (!results && !loading) {
+      // No session data found and not currently loading results, redirect to quiz
       router.push('/quiz');
     }
-  }, [user, authLoading, router, completeQuiz]);
+  }, [user, authLoading, router, completeQuiz, results, loading]);
 
   const handleRetakeQuiz = () => {
     // Clear any saved session data

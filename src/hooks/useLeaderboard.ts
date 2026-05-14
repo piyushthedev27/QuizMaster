@@ -2,6 +2,7 @@ import { useState, useEffect, useCallback } from 'react';
 import { useRealtimeLeaderboard } from './useRealtimeLeaderboard';
 
 export interface LeaderboardEntry {
+  answers: any;
   id: string;
   userId: string;
   score: number;
@@ -9,6 +10,8 @@ export interface LeaderboardEntry {
   timeTaken: number;
   createdAt: string;
   rank: number;
+  unit?: string;
+  totalQuestions?: number;
   user: {
     id: string;
     email: string;
