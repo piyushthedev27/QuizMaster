@@ -7,6 +7,7 @@ import { Card, CardContent } from '@/components/ui/card'
 import { useAuth } from '@/hooks/useAuth'
 import { Credits } from '@/components/ui/credits'
 import { Trophy, Clock, Users, Target, ArrowRight, Zap } from 'lucide-react'
+import Script from 'next/script'
 
 export default function HomePage() {
   const { user } = useAuth()
@@ -36,6 +37,12 @@ export default function HomePage() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50">
+      <Script
+        async
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2732790539794546"
+        crossOrigin="anonymous"
+        strategy="afterInteractive"
+      />
       {/* Navigation */}
       <nav className="relative z-10 px-3 sm:px-6 lg:px-8 py-4 sm:py-6">
         <div className="max-w-7xl mx-auto flex justify-between items-center">
